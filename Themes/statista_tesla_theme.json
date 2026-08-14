@@ -1,0 +1,83 @@
+{
+  "name": "Statista Tesla Theme",
+  "dataColors": [
+    "#CC0000",
+    "#8B0000",
+    "#EF5350",
+    "#FFCDD2",
+    "#0E2A47",
+    "#4A90E2"
+  ],
+  "background": "#F4F7F9",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#CC0000",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#F4F7F9" } }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1C1C1E" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E0E0E0" } },
+            "radius": 4
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#0E2A47" } },
+            "fontSize": 20,
+            "fontFamily": "Segoe UI Bold"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#5C5C5C" } },
+            "fontSize": 10
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#F4F7F9" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

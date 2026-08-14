@@ -1,0 +1,33 @@
+{
+  "name": "Statista Tesla Light",
+  "dataColors": [
+    "#8B0000",
+    "#CC0000",
+    "#EF5350",
+    "#FFCDD2"
+  ],
+  "background": "#F4F7F9",
+  "foreground": "#0E2A47",
+  "tableAccent": "#CC0000",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": false
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#F4F7F9" } }
+          }
+        ]
+      }
+    }
+  }
+}

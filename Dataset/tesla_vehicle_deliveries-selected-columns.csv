@@ -1,0 +1,3001 @@
+Year,Quarter,Region,Model,Units Delivered,Average Price (USD),Production Delay (Days),Battery Type,Drive Type,Color
+2022,Q1,North America,Semi,2303,55815.81,8,Performance,AWD,Green
+2024,Q2,Australia,Model X,2326,48215.76,48,Long Range,AWD,Red
+2017,Q2,North America,Model S,1916,100710.81,5,Standard,AWD,Blue
+2022,Q2,Asia,Model S,1926,104853.22,51,Long Range,RWD,White
+2023,Q4,South America,Model Y,3015,53642.26,8,Performance,RWD,Red
+2023,Q1,South America,Model X,2836,44481.93,27,Standard,RWD,Red
+2013,Q3,Asia,Model 3,524,55474.09,36,Standard,AWD,Green
+2023,Q2,Asia,Model Y,3109,72238.51,33,Long Range,AWD,Black
+2015,Q3,Australia,Model 3,4467,46246.51,59,Performance,RWD,Black
+2015,Q2,Europe,Cybertruck,3725,46915.5,11,Long Range,RWD,Black
+2018,Q1,Australia,Model X,3777,59246.18,44,Performance,RWD,Black
+2014,Q1,South America,Model S,1976,69320.92,60,Performance,AWD,Silver
+2017,Q1,North America,Model Y,4662,119668.2,4,Performance,AWD,Silver
+2013,Q2,Asia,Model S,926,98105.42,9,Long Range,RWD,Silver
+2016,Q2,Australia,Cybertruck,3553,82677.08,7,Standard,AWD,Silver
+2018,Q2,Europe,Model 3,1500,109920.38,1,Standard,RWD,Blue
+2015,Q1,Europe,Model Y,2739,58681.26,4,Long Range,RWD,Green
+2018,Q1,Australia,Cybertruck,1607,56651.41,45,Long Range,AWD,Silver
+2016,Q4,Asia,Model Y,2472,82125.06,12,Long Range,RWD,Green
+2024,Q2,North America,Model X,4272,91427.58,39,Long Range,AWD,Black
+2018,Q2,Europe,Semi,95,110876.09,55,Standard,RWD,Black
+2021,Q4,South America,Model Y,1353,98210.71,30,Long Range,RWD,Black
+2014,Q2,Australia,Semi,1301,95045.63,4,Long Range,RWD,White
+2023,Q2,Australia,Model 3,2285,72046.06,1,Long Range,RWD,Green
+2016,Q4,Asia,Model 3,3774,62781.89,48,Long Range,RWD,Blue
+2014,Q4,North America,Cybertruck,1835,74527.89,16,Long Range,AWD,Silver
+2015,Q1,South America,Semi,2039,43661.61,49,Long Range,AWD,Silver
+2018,Q2,South America,Semi,2262,87352.55,58,Performance,RWD,Blue
+2017,Q2,Australia,Model 3,2956,102815.75,21,Long Range,RWD,Silver
+2016,Q3,Australia,Cybertruck,4399,64219.38,47,Performance,RWD,White
+2024,Q3,North America,Model 3,2476,54336.07,11,Long Range,AWD,Green
+2019,Q1,North America,Model Y,4078,41296.98,40,Performance,AWD,Black
+2018,Q3,South America,Cybertruck,543,86818.63,47,Standard,AWD,Green
+2019,Q1,Europe,Model X,4881,91200.56,59,Standard,RWD,Red
+2016,Q4,Australia,Model S,4949,38388.17,27,Performance,RWD,Silver
+2021,Q4,Australia,Model S,3900,64576.69,21,Long Range,AWD,Black
+2012,Q4,Australia,Model S,1586,79067.35,39,Long Range,RWD,Red
+2013,Q4,North America,Semi,1311,77361.92,45,Long Range,RWD,Blue
+2021,Q4,Europe,Model Y,4462,76169.02,21,Performance,RWD,Blue
+2014,Q4,North America,Model 3,4164,117055.06,21,Standard,RWD,Red
+2020,Q4,Asia,Semi,4047,109152.56,2,Performance,AWD,Black
+2017,Q4,Europe,Model 3,4401,70024.4,43,Standard,AWD,Black
+2016,Q2,North America,Model Y,2880,118950.39,19,Performance,RWD,Green
+2022,Q4,Asia,Model S,4686,108530.73,49,Performance,AWD,Silver
+2024,Q4,North America,Cybertruck,3038,97250.58,5,Long Range,RWD,Green
+2024,Q2,Australia,Cybertruck,3046,42675.74,25,Standard,RWD,Silver
+2021,Q2,North America,Semi,3853,112297.95,19,Performance,RWD,Red
+2018,Q2,Australia,Semi,861,105863.91,39,Long Range,RWD,Red
+2019,Q1,Europe,Semi,4941,117542.93,3,Long Range,AWD,Black
+2013,Q1,Europe,Model S,2984,102148.7,15,Performance,RWD,Red
+2022,Q3,Australia,Semi,305,40170.16,30,Long Range,RWD,Green
+2020,Q4,North America,Semi,987,107487.38,41,Performance,AWD,Blue
+2013,Q1,North America,Model Y,841,98290.06,23,Standard,AWD,Silver
+2015,Q1,Asia,Cybertruck,3061,44765.25,17,Performance,AWD,Blue
+2022,Q4,North America,Model 3,301,42799.4,33,Standard,RWD,Blue
+2018,Q3,Europe,Cybertruck,982,64339.69,7,Long Range,RWD,Silver
+2014,Q2,Australia,Cybertruck,1935,77522.3,53,Performance,RWD,Red
+2024,Q4,Asia,Model S,3627,106781.17,15,Long Range,RWD,Silver
+2022,Q2,Europe,Model S,1249,56757.3,11,Performance,AWD,Green
+2012,Q3,South America,Model S,2592,74248.11,2,Standard,RWD,White
+2014,Q1,Australia,Model S,2863,118502.77,5,Performance,AWD,Red
+2017,Q1,Asia,Model S,4620,92662.24,18,Long Range,AWD,White
+2022,Q1,Australia,Cybertruck,3014,36549.6,19,Standard,AWD,White
+2024,Q2,Australia,Model S,3415,65965.45,46,Standard,RWD,Silver
+2014,Q2,South America,Model 3,2098,39435.28,30,Long Range,AWD,Green
+2017,Q2,Australia,Model S,3121,54085.79,20,Standard,RWD,Black
+2023,Q4,North America,Model X,1996,60597.85,3,Standard,RWD,Green
+2022,Q1,South America,Model X,604,116039.31,34,Performance,AWD,Blue
+2020,Q3,Europe,Semi,3856,118369.63,30,Performance,AWD,Black
+2024,Q2,Asia,Model X,441,108592.85,21,Long Range,AWD,White
+2018,Q2,South America,Model X,2681,43720.82,20,Performance,RWD,White
+2022,Q4,Asia,Cybertruck,1360,115987.1,9,Performance,RWD,Red
+2022,Q3,Europe,Model S,262,97532.36,31,Performance,RWD,Silver
+2024,Q3,Asia,Semi,581,81749.76,18,Long Range,AWD,Green
+2014,Q1,North America,Model X,3311,119965.58,46,Long Range,RWD,Blue
+2020,Q2,Asia,Model 3,1376,62426.16,45,Standard,RWD,Silver
+2022,Q3,South America,Model S,282,41903.94,60,Performance,RWD,Green
+2019,Q4,Europe,Model X,1226,61569.51,45,Long Range,RWD,Blue
+2018,Q2,Europe,Model X,4782,96295.92,12,Standard,RWD,Silver
+2022,Q4,Asia,Cybertruck,116,107009.65,27,Standard,RWD,Green
+2021,Q1,Europe,Model S,3276,66721.86,21,Performance,RWD,Black
+2017,Q2,Australia,Cybertruck,2501,85466.6,32,Performance,RWD,Green
+2021,Q2,North America,Cybertruck,3985,49493.53,40,Performance,RWD,Black
+2023,Q1,Europe,Cybertruck,1748,82675.38,42,Long Range,RWD,White
+2016,Q2,Australia,Model X,3980,64648.27,59,Performance,RWD,White
+2015,Q2,South America,Model X,4654,94174.56,8,Standard,AWD,Black
+2014,Q4,Australia,Model Y,1683,99252.44,18,Long Range,RWD,Green
+2016,Q1,North America,Model X,4702,86236.55,59,Long Range,RWD,Blue
+2017,Q3,South America,Semi,1632,49917.07,54,Performance,RWD,Blue
+2016,Q1,Asia,Semi,2995,93885.33,3,Performance,AWD,Blue
+2017,Q4,South America,Model Y,4453,103169.57,52,Standard,AWD,Green
+2020,Q4,North America,Semi,1732,95938.03,31,Standard,RWD,Red
+2013,Q1,North America,Model Y,309,59402.71,11,Standard,RWD,White
+2012,Q3,Australia,Semi,4510,71050.88,24,Standard,AWD,Blue
+2022,Q1,Europe,Semi,412,69192.55,14,Performance,AWD,Red
+2021,Q2,Australia,Cybertruck,4110,38985.15,22,Performance,RWD,Silver
+2014,Q4,Europe,Model X,1715,63072.35,5,Long Range,RWD,Red
+2012,Q2,Europe,Semi,1011,98484.73,48,Long Range,AWD,Green
+2024,Q4,Asia,Model 3,3086,61598.37,2,Performance,AWD,Green
+2022,Q3,Asia,Model Y,4068,74170.46,46,Long Range,AWD,Black
+2014,Q1,Europe,Cybertruck,3785,66722.06,39,Performance,RWD,Green
+2021,Q3,Asia,Model X,3301,41716.64,25,Long Range,AWD,Green
+2019,Q4,Asia,Cybertruck,831,111057.25,58,Standard,AWD,Black
+2013,Q3,Europe,Cybertruck,2019,83169.15,54,Long Range,RWD,Blue
+2024,Q3,North America,Semi,2289,101601.59,28,Long Range,AWD,White
+2014,Q4,Asia,Model X,922,42779.24,60,Long Range,RWD,White
+2012,Q3,Australia,Model Y,743,96611.73,35,Standard,AWD,Green
+2023,Q4,South America,Cybertruck,1651,73918.24,8,Long Range,AWD,Blue
+2018,Q3,Asia,Semi,4072,117259.86,50,Standard,RWD,Blue
+2024,Q4,Australia,Model 3,2530,55571.8,42,Standard,RWD,Blue
+2012,Q4,Asia,Model Y,917,35896.56,16,Standard,AWD,Blue
+2023,Q2,Asia,Model X,2860,73703.27,13,Performance,RWD,White
+2020,Q2,South America,Model 3,2761,82587.16,29,Standard,RWD,Green
+2013,Q1,South America,Model 3,3046,62708.72,29,Standard,RWD,Green
+2013,Q2,Asia,Model S,2004,60957.3,11,Long Range,AWD,Silver
+2017,Q1,Australia,Model 3,1648,104293.35,35,Performance,RWD,Blue
+2023,Q4,South America,Cybertruck,977,83680.69,17,Performance,RWD,Silver
+2013,Q2,Europe,Semi,4866,93576.35,55,Performance,RWD,Black
+2022,Q1,Europe,Model Y,535,119361.33,55,Performance,AWD,Green
+2013,Q4,South America,Semi,2329,94049.81,56,Long Range,RWD,Blue
+2016,Q3,South America,Cybertruck,1119,83122.08,31,Long Range,AWD,Red
+2016,Q1,Asia,Model X,725,66606.72,57,Performance,AWD,Red
+2012,Q3,North America,Model Y,1132,75604.52,14,Long Range,AWD,Green
+2018,Q4,Europe,Model S,873,46901.12,7,Performance,RWD,White
+2022,Q1,Europe,Model Y,3211,44583.21,31,Performance,AWD,Silver
+2012,Q1,Australia,Cybertruck,2396,88428.51,32,Long Range,RWD,Green
+2022,Q1,Asia,Semi,3633,97046.46,54,Standard,AWD,Black
+2023,Q3,Europe,Model X,1089,98730.99,55,Long Range,AWD,Red
+2024,Q1,South America,Semi,994,54414.38,32,Standard,AWD,Red
+2020,Q1,Europe,Model 3,4275,118420.18,25,Standard,RWD,White
+2023,Q2,Europe,Model S,3409,37032.37,34,Long Range,AWD,White
+2012,Q2,South America,Model Y,3101,73968.93,47,Standard,AWD,Silver
+2016,Q2,North America,Model 3,1165,101294.64,37,Standard,AWD,Red
+2023,Q1,Europe,Model X,1265,42753.1,15,Long Range,RWD,Silver
+2012,Q2,Europe,Model 3,3331,66640.38,40,Performance,AWD,Silver
+2018,Q4,Australia,Model S,3185,93073.1,11,Long Range,AWD,Black
+2024,Q2,South America,Model S,3183,101462.84,22,Long Range,RWD,White
+2013,Q2,Europe,Model X,4421,104384.24,58,Performance,AWD,Black
+2021,Q2,South America,Model 3,4082,81080.59,11,Long Range,AWD,Red
+2024,Q1,South America,Model X,644,66755.22,60,Performance,RWD,Silver
+2023,Q3,Europe,Model 3,64,115646.99,60,Performance,RWD,Silver
+2013,Q3,Australia,Model S,2222,52823.16,44,Standard,RWD,White
+2022,Q2,Europe,Model Y,653,102931.54,2,Long Range,AWD,White
+2018,Q2,North America,Model S,2762,52471.79,12,Long Range,RWD,Green
+2015,Q1,North America,Model 3,1449,89246.21,5,Long Range,AWD,White
+2016,Q1,Europe,Semi,842,42285.12,22,Performance,RWD,Silver
+2022,Q2,North America,Model Y,1466,115670.23,10,Standard,AWD,Black
+2020,Q4,North America,Semi,4863,79417.77,26,Standard,RWD,Black
+2012,Q2,Asia,Model Y,1228,87550.78,43,Performance,RWD,Red
+2013,Q2,Europe,Model X,3679,100792.63,20,Long Range,RWD,Silver
+2020,Q1,Europe,Model 3,1694,106143.02,15,Standard,RWD,Red
+2020,Q3,Asia,Model 3,2168,98661.7,44,Standard,RWD,Red
+2019,Q2,Europe,Cybertruck,119,54020.45,38,Long Range,RWD,Blue
+2019,Q1,Asia,Model X,2713,108226.79,16,Performance,RWD,Black
+2012,Q2,Asia,Semi,1871,93337.04,40,Long Range,RWD,Silver
+2015,Q3,Europe,Semi,2565,70740.17,56,Long Range,RWD,White
+2014,Q2,Asia,Model Y,4714,110891.84,29,Standard,RWD,Green
+2024,Q1,Europe,Cybertruck,3602,88846.44,25,Long Range,RWD,Blue
+2018,Q3,Europe,Model S,424,60347.19,18,Long Range,RWD,Blue
+2017,Q1,Australia,Semi,2145,100556.22,39,Standard,AWD,Green
+2018,Q1,South America,Model X,1173,70600.19,57,Standard,AWD,White
+2019,Q3,Europe,Model S,154,92088.82,58,Standard,RWD,Black
+2016,Q3,Asia,Model Y,999,43074.87,48,Standard,AWD,Black
+2023,Q4,Australia,Semi,1416,44609.81,44,Performance,AWD,Black
+2019,Q4,North America,Model Y,3660,38907.65,16,Performance,RWD,Red
+2020,Q1,North America,Semi,1335,77973.24,30,Long Range,AWD,Red
+2019,Q3,North America,Model Y,195,43724.68,26,Standard,AWD,Red
+2022,Q3,Australia,Model S,848,99542.2,14,Standard,RWD,White
+2018,Q2,Australia,Model 3,2818,44160.09,26,Standard,AWD,Blue
+2013,Q4,South America,Cybertruck,2686,77849.36,24,Long Range,AWD,White
+2022,Q2,Europe,Cybertruck,4494,94016.52,20,Performance,AWD,White
+2024,Q2,Asia,Semi,2102,47446.41,3,Performance,RWD,Black
+2017,Q1,North America,Semi,2108,52262.41,55,Long Range,AWD,Green
+2016,Q3,Europe,Model 3,4834,106911.21,0,Long Range,RWD,Green
+2024,Q2,Australia,Cybertruck,4449,69290.45,22,Standard,AWD,Green
+2012,Q3,Australia,Model S,3211,56810.2,46,Long Range,AWD,Silver
+2022,Q2,Australia,Model S,1734,80709.11,44,Performance,RWD,Green
+2018,Q4,Australia,Semi,3363,71807.13,1,Long Range,AWD,Silver
+2019,Q4,Australia,Semi,302,75288.95,34,Standard,AWD,Green
+2013,Q3,Europe,Semi,2866,52997.64,57,Performance,AWD,Black
+2017,Q3,Europe,Semi,1971,43503.83,39,Standard,AWD,White
+2018,Q3,Asia,Model 3,2766,109620.3,29,Long Range,RWD,White
+2021,Q4,South America,Model 3,350,81885.49,34,Performance,RWD,Green
+2024,Q2,South America,Model 3,3705,48533.91,36,Performance,AWD,Green
+2019,Q1,North America,Semi,2704,43774.13,33,Performance,RWD,Green
+2024,Q4,South America,Model S,4161,109972.91,28,Standard,AWD,Red
+2018,Q1,Europe,Model S,1097,83746.35,10,Standard,AWD,Silver
+2018,Q2,South America,Model 3,4234,57484.26,46,Performance,RWD,Blue
+2012,Q1,North America,Model Y,1117,111668.7,34,Standard,RWD,Silver
+2013,Q3,South America,Cybertruck,3397,56913.42,0,Performance,AWD,Silver
+2021,Q3,South America,Model X,3305,99172.61,26,Performance,RWD,Black
+2020,Q4,Asia,Cybertruck,476,48662.73,40,Standard,AWD,Black
+2012,Q2,Australia,Model Y,137,52145.12,42,Performance,RWD,Black
+2018,Q4,South America,Model 3,4291,36306.15,45,Standard,AWD,Silver
+2020,Q1,South America,Model X,2835,115496.31,51,Performance,RWD,Silver
+2015,Q2,Asia,Model Y,2942,78902.86,0,Performance,RWD,Black
+2015,Q4,Europe,Model 3,2032,109183.11,13,Standard,AWD,Black
+2021,Q3,Australia,Model 3,4237,58822.66,14,Performance,AWD,Red
+2018,Q1,Asia,Model X,2177,50907.96,16,Standard,RWD,Blue
+2013,Q3,Europe,Cybertruck,3590,107786.24,12,Standard,AWD,Blue
+2019,Q1,Australia,Semi,2791,57080.38,23,Performance,RWD,White
+2021,Q3,Australia,Semi,1236,108801.9,40,Long Range,RWD,Green
+2017,Q4,Australia,Model 3,1556,107608.01,8,Performance,AWD,Green
+2013,Q1,Asia,Cybertruck,1322,42166.46,59,Long Range,RWD,Black
+2020,Q4,Europe,Semi,4467,50048.11,38,Long Range,RWD,Silver
+2024,Q2,Asia,Model X,3893,80483.41,44,Long Range,RWD,White
+2018,Q2,Asia,Model S,3508,88152.46,33,Performance,RWD,White
+2017,Q1,Europe,Model S,4432,36881.13,6,Long Range,RWD,Black
+2024,Q2,North America,Model X,3264,41067.7,30,Standard,AWD,White
+2015,Q4,Australia,Semi,2606,114578.3,10,Performance,AWD,Green
+2018,Q2,North America,Model S,4810,101595.4,30,Performance,AWD,White
+2024,Q3,Australia,Semi,1630,36814.99,24,Long Range,AWD,White
+2020,Q2,North America,Cybertruck,1319,73197.66,52,Long Range,RWD,Blue
+2022,Q4,South America,Model 3,2369,62421.0,41,Long Range,AWD,Red
+2020,Q3,North America,Model X,1858,86506.06,4,Standard,AWD,Green
+2013,Q3,North America,Model 3,4305,43255.14,46,Standard,RWD,Black
+2017,Q2,South America,Cybertruck,3679,114349.2,57,Long Range,RWD,White
+2016,Q1,South America,Model 3,2522,35558.35,14,Standard,RWD,Red
+2016,Q3,North America,Cybertruck,3325,83370.52,13,Performance,AWD,Green
+2018,Q4,North America,Model 3,4984,113935.52,40,Performance,RWD,Red
+2024,Q4,Europe,Model 3,2803,42016.33,36,Performance,AWD,Silver
+2023,Q2,Europe,Model S,2231,101025.61,20,Performance,AWD,Red
+2017,Q2,North America,Model S,496,55659.11,39,Standard,RWD,Red
+2014,Q1,Australia,Cybertruck,4365,38695.97,10,Standard,RWD,Black
+2023,Q1,Asia,Model Y,4941,80182.65,11,Standard,RWD,Silver
+2016,Q1,Asia,Model Y,291,115251.62,60,Long Range,AWD,Black
+2015,Q2,South America,Cybertruck,1707,108319.95,19,Performance,AWD,Blue
+2022,Q3,Europe,Model 3,924,46181.4,1,Performance,RWD,Silver
+2015,Q2,North America,Model Y,172,113661.98,60,Long Range,AWD,Green
+2023,Q3,Australia,Cybertruck,4735,85473.49,33,Performance,AWD,Silver
+2016,Q3,Australia,Model 3,3510,60025.68,58,Standard,AWD,Blue
+2019,Q1,Asia,Model X,1393,96061.85,7,Standard,AWD,Green
+2014,Q2,North America,Model Y,2573,61309.06,49,Long Range,RWD,Green
+2022,Q4,Australia,Model Y,3669,41749.42,38,Standard,AWD,Silver
+2016,Q3,North America,Model S,942,70441.34,11,Standard,RWD,Silver
+2020,Q1,Asia,Model Y,1152,45371.97,55,Long Range,RWD,Silver
+2021,Q3,Europe,Cybertruck,4659,77193.74,46,Performance,RWD,Blue
+2020,Q2,North America,Semi,1698,93651.45,16,Standard,RWD,White
+2019,Q1,Europe,Model Y,1322,88312.04,57,Performance,RWD,Blue
+2018,Q2,South America,Cybertruck,3241,50927.21,7,Long Range,RWD,Green
+2013,Q4,South America,Model S,4003,111921.24,9,Standard,RWD,Blue
+2021,Q1,Asia,Model Y,427,43763.74,49,Performance,RWD,Red
+2012,Q1,Europe,Cybertruck,2919,81696.08,17,Standard,RWD,Silver
+2023,Q4,South America,Model X,2609,63248.23,12,Performance,AWD,Blue
+2016,Q3,Australia,Model 3,2756,102046.19,56,Long Range,RWD,Blue
+2020,Q1,Asia,Cybertruck,3826,69069.4,26,Standard,AWD,Silver
+2019,Q1,South America,Cybertruck,3842,62657.14,6,Long Range,AWD,White
+2022,Q1,Europe,Semi,1272,73502.83,18,Long Range,RWD,Black
+2020,Q1,North America,Semi,4637,104764.03,22,Standard,RWD,Red
+2017,Q4,Europe,Model X,1078,46413.58,4,Performance,AWD,Black
+2015,Q2,Australia,Cybertruck,110,84124.77,54,Performance,AWD,Green
+2024,Q3,Australia,Cybertruck,690,79485.33,39,Standard,AWD,Blue
+2018,Q3,Asia,Model X,1422,38002.73,59,Performance,RWD,Green
+2016,Q2,South America,Model X,2304,107917.96,0,Performance,AWD,Silver
+2014,Q4,Australia,Model Y,1999,91156.72,46,Performance,AWD,Black
+2015,Q4,Australia,Model Y,2201,47337.74,55,Long Range,AWD,White
+2016,Q1,Asia,Semi,4835,68248.07,49,Performance,AWD,Green
+2017,Q2,Asia,Model X,1631,37893.55,39,Standard,AWD,Silver
+2019,Q1,Australia,Model X,3547,93838.83,42,Long Range,RWD,Black
+2022,Q4,North America,Model 3,4478,100340.12,13,Performance,AWD,Blue
+2018,Q1,South America,Semi,4069,75641.85,25,Performance,AWD,Silver
+2020,Q3,North America,Model Y,2425,90062.37,11,Performance,AWD,Blue
+2015,Q4,Australia,Model S,4478,89689.65,31,Performance,RWD,Red
+2022,Q1,Australia,Cybertruck,425,55628.02,41,Standard,AWD,Black
+2023,Q4,Asia,Model S,4768,81400.21,20,Standard,AWD,Silver
+2021,Q4,Europe,Model S,4039,41861.42,0,Standard,AWD,Green
+2012,Q2,Australia,Cybertruck,771,88311.29,50,Long Range,RWD,Blue
+2024,Q2,Australia,Model Y,1494,48579.57,59,Standard,AWD,Green
+2013,Q2,Australia,Cybertruck,4799,62707.65,12,Performance,RWD,Black
+2019,Q2,Australia,Model X,1167,73907.92,12,Performance,RWD,White
+2024,Q2,South America,Cybertruck,1931,42350.32,54,Performance,RWD,Black
+2019,Q1,Australia,Cybertruck,3280,75737.89,51,Performance,AWD,Blue
+2014,Q4,South America,Semi,4831,37075.15,29,Long Range,AWD,Green
+2021,Q2,North America,Cybertruck,2800,97539.67,3,Performance,RWD,Red
+2024,Q2,Europe,Model X,2939,111324.31,32,Performance,RWD,White
+2013,Q2,Australia,Model S,706,68208.01,11,Long Range,AWD,Red
+2015,Q1,North America,Model 3,4306,89797.12,26,Performance,RWD,Green
+2016,Q1,Europe,Model X,2379,73753.76,10,Performance,AWD,Green
+2020,Q1,Asia,Model X,1261,66697.77,34,Standard,RWD,Red
+2021,Q2,South America,Semi,3671,63788.18,7,Performance,RWD,Red
+2024,Q3,Europe,Model S,734,80765.05,28,Performance,AWD,Silver
+2019,Q1,Europe,Semi,3689,98029.85,26,Long Range,RWD,Black
+2013,Q1,Australia,Semi,2289,70233.69,35,Long Range,AWD,Black
+2022,Q4,North America,Semi,2406,70458.33,31,Performance,AWD,Red
+2016,Q2,South America,Model S,1247,62172.89,56,Performance,AWD,White
+2024,Q2,South America,Model X,2640,105279.87,43,Long Range,RWD,Green
+2015,Q1,Australia,Model Y,675,44908.08,8,Standard,RWD,White
+2014,Q2,Europe,Model S,3530,93719.54,50,Standard,AWD,Red
+2021,Q2,South America,Model 3,1563,92001.06,1,Standard,AWD,Green
+2024,Q1,North America,Model 3,4180,107360.23,30,Long Range,AWD,Blue
+2023,Q3,South America,Semi,382,41991.08,31,Standard,RWD,White
+2022,Q4,North America,Model Y,3638,79426.3,43,Standard,AWD,Black
+2018,Q4,Asia,Semi,4817,85460.25,48,Performance,RWD,White
+2013,Q1,North America,Model Y,269,117626.17,24,Performance,RWD,Black
+2020,Q1,North America,Model Y,1025,67608.54,20,Long Range,RWD,Blue
+2020,Q4,Australia,Cybertruck,1330,78068.23,25,Long Range,RWD,Silver
+2022,Q3,Australia,Model S,3557,64337.16,22,Long Range,RWD,Red
+2021,Q4,Asia,Model S,3897,84979.08,20,Long Range,RWD,White
+2022,Q1,South America,Model 3,2404,57538.18,19,Performance,RWD,Black
+2020,Q3,Australia,Semi,4473,61635.0,26,Long Range,RWD,Silver
+2018,Q1,South America,Model 3,3034,74311.37,15,Standard,RWD,Blue
+2015,Q1,Europe,Model X,3852,76257.5,27,Long Range,AWD,Black
+2018,Q3,North America,Model Y,1201,55063.5,36,Performance,AWD,Silver
+2023,Q2,Australia,Model 3,1231,44079.19,13,Long Range,RWD,Blue
+2023,Q3,Asia,Model S,335,106525.2,42,Standard,AWD,White
+2016,Q2,Europe,Model Y,2648,109754.72,49,Performance,RWD,Red
+2020,Q3,Australia,Semi,274,99767.91,41,Performance,AWD,Green
+2024,Q2,South America,Semi,3411,102374.6,20,Long Range,RWD,Green
+2015,Q1,North America,Cybertruck,1923,112081.81,29,Standard,RWD,Green
+2022,Q4,North America,Model 3,1714,51196.25,55,Long Range,RWD,Green
+2015,Q3,South America,Semi,3803,42287.79,30,Standard,RWD,Green
+2021,Q1,North America,Model X,4183,87670.92,19,Long Range,RWD,Black
+2014,Q4,Asia,Semi,3003,113730.15,18,Long Range,RWD,Silver
+2019,Q4,North America,Model Y,384,72529.17,45,Performance,RWD,Blue
+2012,Q2,Australia,Model S,2066,100301.54,43,Standard,RWD,Red
+2022,Q1,Asia,Model S,3761,62617.81,46,Performance,AWD,Black
+2015,Q2,Australia,Model Y,2384,90009.28,41,Standard,AWD,White
+2018,Q1,Australia,Model X,1576,71899.0,27,Standard,AWD,Silver
+2016,Q2,South America,Model Y,2470,83325.53,35,Standard,AWD,Silver
+2014,Q4,North America,Model S,3459,109524.2,19,Long Range,RWD,Green
+2014,Q4,Australia,Semi,3368,108846.34,47,Performance,RWD,White
+2012,Q2,Australia,Semi,1239,90227.89,27,Performance,AWD,Red
+2018,Q1,Asia,Model S,891,88584.84,45,Long Range,RWD,Blue
+2013,Q3,Australia,Model Y,1007,77057.05,60,Performance,RWD,Blue
+2018,Q3,Australia,Model 3,1747,59008.86,47,Standard,RWD,Black
+2020,Q1,North America,Model X,3577,44687.39,14,Standard,AWD,Blue
+2013,Q1,South America,Model S,4205,43959.94,40,Standard,AWD,White
+2015,Q4,Asia,Model X,4187,49557.25,17,Long Range,RWD,White
+2014,Q1,South America,Model S,744,63755.81,25,Standard,RWD,Red
+2014,Q4,Australia,Semi,1730,110444.28,39,Performance,RWD,Green
+2020,Q3,South America,Model X,1360,36990.85,56,Performance,RWD,Black
+2012,Q4,Asia,Model 3,4814,83075.76,57,Performance,AWD,White
+2019,Q1,Europe,Semi,3537,105417.2,5,Standard,AWD,Blue
+2018,Q2,Europe,Cybertruck,1091,76204.97,29,Standard,AWD,Green
+2017,Q3,Asia,Model X,2458,76303.67,50,Standard,AWD,Silver
+2017,Q4,Australia,Semi,1137,99765.85,32,Performance,RWD,Blue
+2022,Q1,Europe,Semi,253,83619.56,50,Performance,RWD,Silver
+2024,Q2,Europe,Semi,4797,72759.5,51,Performance,RWD,Blue
+2016,Q2,Europe,Model X,784,48109.33,60,Long Range,AWD,Red
+2015,Q2,Australia,Cybertruck,4182,67729.14,7,Long Range,AWD,White
+2019,Q1,South America,Model 3,1216,66730.94,10,Standard,RWD,Silver
+2022,Q2,South America,Cybertruck,2354,38866.2,47,Performance,AWD,White
+2015,Q3,Asia,Model 3,3816,116514.38,21,Standard,AWD,Green
+2022,Q1,Asia,Model Y,4975,65427.09,11,Performance,AWD,Red
+2016,Q4,South America,Model 3,108,51667.38,52,Performance,RWD,Red
+2023,Q3,Europe,Semi,239,119315.87,44,Performance,RWD,Green
+2012,Q2,North America,Model X,3491,80254.87,20,Standard,RWD,Black
+2019,Q4,North America,Cybertruck,2788,106443.14,15,Standard,RWD,Black
+2017,Q1,Europe,Model S,3670,39657.05,39,Performance,RWD,Red
+2021,Q1,Asia,Semi,262,73596.52,21,Performance,AWD,Red
+2024,Q1,North America,Model 3,2603,84684.4,32,Performance,RWD,White
+2018,Q3,Europe,Model 3,1698,101747.42,21,Standard,RWD,Green
+2012,Q2,Europe,Model Y,1796,55316.62,47,Long Range,RWD,Black
+2012,Q1,Europe,Model 3,2377,49802.46,56,Long Range,AWD,White
+2022,Q2,South America,Cybertruck,3603,109662.97,4,Standard,AWD,Black
+2024,Q3,Europe,Cybertruck,4834,110295.91,13,Performance,AWD,Blue
+2019,Q3,South America,Model Y,4833,90227.67,13,Standard,AWD,Blue
+2012,Q4,South America,Cybertruck,2805,71218.7,29,Long Range,RWD,White
+2015,Q1,North America,Model S,3001,38253.92,12,Long Range,AWD,Green
+2018,Q1,Australia,Semi,4249,119088.34,60,Standard,RWD,Black
+2019,Q1,Asia,Model 3,4780,109268.77,19,Performance,AWD,Blue
+2017,Q4,Australia,Model 3,3250,40415.29,24,Standard,RWD,Red
+2016,Q2,Europe,Model X,4345,40948.25,3,Long Range,AWD,Black
+2023,Q4,Europe,Cybertruck,4761,114828.11,37,Standard,RWD,White
+2019,Q3,Asia,Model Y,1484,70279.48,11,Performance,RWD,Blue
+2013,Q3,North America,Model S,4182,100155.82,20,Long Range,RWD,Black
+2014,Q3,Australia,Model Y,3829,40800.16,35,Performance,AWD,Green
+2016,Q2,Australia,Model X,1507,53417.16,2,Performance,AWD,Blue
+2017,Q2,Europe,Model S,181,70843.03,0,Long Range,AWD,Green
+2020,Q4,Australia,Model S,1953,53171.3,22,Long Range,AWD,Red
+2013,Q2,Asia,Model S,4964,62570.11,40,Performance,RWD,Green
+2012,Q2,North America,Cybertruck,1066,61252.13,47,Long Range,AWD,Silver
+2020,Q4,Asia,Model S,1926,106989.46,21,Long Range,AWD,Black
+2015,Q1,Europe,Model 3,1078,42799.55,37,Performance,AWD,Black
+2024,Q4,North America,Model X,3312,67105.99,30,Long Range,RWD,Silver
+2018,Q4,Asia,Model Y,2370,66887.49,38,Long Range,AWD,White
+2013,Q4,North America,Model S,3202,114231.01,10,Standard,RWD,White
+2022,Q1,Europe,Model X,3781,115262.54,9,Long Range,AWD,Silver
+2023,Q3,South America,Cybertruck,3185,84816.78,46,Long Range,AWD,Red
+2018,Q3,Australia,Model 3,1495,66845.37,45,Standard,AWD,Blue
+2021,Q1,Europe,Model S,2451,42285.1,7,Long Range,AWD,White
+2024,Q3,Australia,Model Y,2810,86371.58,21,Long Range,RWD,White
+2023,Q2,Asia,Model Y,3942,78767.69,42,Standard,AWD,Green
+2019,Q1,Australia,Model X,1648,95515.07,55,Performance,AWD,Black
+2023,Q1,North America,Model Y,289,48620.0,59,Long Range,RWD,White
+2021,Q1,Asia,Model Y,3176,90583.17,50,Performance,RWD,Black
+2020,Q2,Australia,Model Y,2668,100558.88,51,Performance,AWD,Silver
+2022,Q1,South America,Model X,2580,77702.13,44,Standard,RWD,Green
+2023,Q4,Asia,Semi,1354,119240.37,35,Long Range,RWD,Blue
+2012,Q3,Australia,Semi,1390,84058.38,28,Performance,RWD,White
+2017,Q4,Europe,Model S,1011,118323.52,41,Long Range,RWD,Black
+2022,Q4,Asia,Model S,1033,44913.35,7,Long Range,AWD,Red
+2024,Q2,Australia,Semi,211,68472.71,52,Performance,RWD,Red
+2021,Q2,Europe,Model S,4657,56824.64,48,Standard,AWD,Red
+2017,Q2,North America,Semi,416,55153.53,12,Standard,RWD,Black
+2016,Q4,Europe,Cybertruck,1719,40997.43,46,Long Range,AWD,Green
+2022,Q4,North America,Model X,778,65839.66,21,Long Range,AWD,Black
+2020,Q3,South America,Model S,442,49513.53,60,Long Range,AWD,White
+2023,Q3,Europe,Semi,3476,95076.87,11,Long Range,RWD,Blue
+2013,Q2,South America,Model S,742,98189.8,35,Long Range,AWD,Blue
+2023,Q1,South America,Model Y,1430,92334.38,56,Performance,AWD,Black
+2024,Q1,Asia,Model X,4007,59951.33,13,Standard,RWD,Black
+2012,Q3,Europe,Model Y,2954,35753.42,27,Long Range,AWD,Red
+2024,Q3,North America,Model Y,3649,48755.92,22,Performance,RWD,Red
+2016,Q1,Australia,Model Y,4556,77123.25,43,Performance,AWD,White
+2022,Q3,Australia,Cybertruck,115,71917.92,18,Long Range,RWD,Red
+2023,Q2,Europe,Cybertruck,1268,54497.66,8,Long Range,AWD,White
+2022,Q1,Asia,Model S,2255,65903.97,60,Long Range,RWD,Black
+2016,Q1,North America,Semi,161,93051.73,49,Standard,RWD,White
+2022,Q2,Europe,Semi,3701,113667.55,4,Performance,RWD,White
+2018,Q1,Australia,Model Y,4340,114163.25,32,Standard,AWD,Silver
+2018,Q3,Europe,Model 3,79,48600.26,13,Performance,AWD,Silver
+2014,Q3,Europe,Model X,472,89605.12,15,Standard,AWD,Red
+2023,Q3,Europe,Model X,178,80678.04,55,Performance,AWD,Green
+2019,Q2,Australia,Model X,1265,111684.29,5,Long Range,AWD,Blue
+2018,Q2,Australia,Semi,3347,43519.87,33,Standard,AWD,Silver
+2024,Q1,South America,Semi,2822,107481.22,5,Standard,AWD,Blue
+2013,Q4,Europe,Model S,1887,37040.07,27,Long Range,AWD,White
+2013,Q1,South America,Model 3,1508,71433.41,21,Performance,AWD,Green
+2012,Q2,Europe,Model X,1260,68200.96,46,Long Range,AWD,Red
+2022,Q3,Europe,Semi,2064,67570.74,35,Long Range,RWD,Silver
+2013,Q1,Asia,Model X,1191,60049.27,9,Performance,RWD,Black
+2021,Q2,North America,Model 3,3042,47008.59,15,Standard,AWD,Silver
+2022,Q1,South America,Model 3,4172,48629.65,25,Long Range,RWD,Silver
+2023,Q1,Australia,Model Y,2615,90479.5,25,Long Range,AWD,Red
+2016,Q2,South America,Model 3,315,55428.49,5,Performance,AWD,Silver
+2013,Q3,Australia,Semi,4175,43585.25,51,Standard,AWD,Silver
+2014,Q3,Australia,Model 3,2827,59721.54,39,Long Range,AWD,Green
+2019,Q1,Australia,Model X,1440,114394.76,10,Standard,RWD,Silver
+2018,Q2,Australia,Model X,4248,106811.03,60,Long Range,RWD,Red
+2013,Q2,Australia,Model Y,815,64659.73,29,Performance,RWD,Red
+2019,Q1,Asia,Model Y,363,81331.9,60,Long Range,AWD,Green
+2016,Q3,Europe,Model S,1211,40887.02,25,Standard,RWD,Green
+2020,Q2,Australia,Model X,4722,68076.73,0,Performance,AWD,Red
+2020,Q1,Australia,Model 3,3730,89307.89,37,Standard,AWD,Black
+2013,Q4,Australia,Model Y,3411,64896.96,53,Performance,RWD,Silver
+2013,Q1,North America,Semi,184,87382.13,26,Standard,RWD,Green
+2013,Q3,Australia,Model Y,3292,35646.44,23,Standard,RWD,White
+2023,Q3,Asia,Model 3,4737,119390.48,15,Performance,RWD,Black
+2024,Q2,South America,Model S,4776,101663.91,53,Performance,RWD,Silver
+2022,Q3,Europe,Model 3,1866,60238.41,34,Standard,RWD,White
+2019,Q3,Europe,Model Y,874,76738.14,1,Long Range,AWD,Blue
+2017,Q3,Australia,Cybertruck,4965,81451.04,10,Performance,RWD,Red
+2014,Q3,Asia,Model Y,1682,116024.5,22,Performance,RWD,Blue
+2019,Q4,Australia,Model Y,4935,98501.74,52,Long Range,AWD,Silver
+2020,Q3,Australia,Model S,989,50291.86,20,Long Range,AWD,White
+2020,Q1,Australia,Model X,4979,53034.89,13,Standard,RWD,Green
+2018,Q1,North America,Model Y,1451,86121.61,37,Long Range,AWD,Silver
+2013,Q4,North America,Model Y,2515,58347.25,48,Long Range,RWD,Red
+2017,Q4,Europe,Model 3,771,51248.57,57,Long Range,AWD,Green
+2017,Q2,South America,Model Y,3710,91800.0,33,Performance,AWD,Silver
+2023,Q2,North America,Model S,4101,40122.69,0,Performance,AWD,Blue
+2019,Q2,Australia,Model 3,612,58616.27,10,Performance,RWD,Silver
+2020,Q1,Asia,Model Y,1787,47802.7,32,Long Range,RWD,Red
+2013,Q1,Europe,Model S,1848,44790.97,57,Standard,RWD,Black
+2016,Q3,North America,Model S,1566,77775.41,44,Performance,RWD,Green
+2016,Q1,Europe,Semi,129,85490.44,30,Performance,AWD,Blue
+2019,Q3,South America,Model X,4035,56550.63,29,Standard,RWD,White
+2019,Q1,Europe,Cybertruck,3578,65550.69,47,Standard,AWD,Blue
+2015,Q1,South America,Cybertruck,2862,105904.58,7,Long Range,RWD,Silver
+2016,Q1,Australia,Model S,1830,59056.47,37,Standard,AWD,Blue
+2013,Q3,Europe,Model S,3926,114299.45,15,Performance,RWD,Blue
+2020,Q2,Asia,Model X,751,60273.4,59,Performance,RWD,Silver
+2012,Q1,Australia,Model S,1201,87292.73,19,Standard,RWD,Black
+2022,Q1,Asia,Cybertruck,847,104864.91,36,Long Range,RWD,Red
+2022,Q3,North America,Model Y,1694,44750.25,0,Standard,AWD,Silver
+2020,Q3,South America,Semi,3647,108041.68,39,Standard,RWD,Black
+2016,Q4,Australia,Semi,929,74436.91,52,Long Range,AWD,Red
+2020,Q2,Asia,Semi,4351,68203.07,4,Standard,AWD,White
+2023,Q3,Europe,Semi,2704,85052.43,37,Long Range,RWD,Red
+2024,Q4,North America,Model S,2101,44730.27,54,Performance,AWD,Blue
+2023,Q2,Australia,Cybertruck,1625,42311.56,1,Performance,AWD,Black
+2021,Q2,North America,Model Y,3552,88165.01,55,Standard,AWD,Black
+2013,Q2,South America,Cybertruck,4146,61540.34,39,Standard,AWD,Silver
+2024,Q1,Europe,Model Y,647,103481.28,36,Performance,AWD,White
+2019,Q3,Europe,Model S,503,37240.07,50,Standard,RWD,Green
+2017,Q3,Europe,Model X,3626,113035.83,15,Standard,AWD,Silver
+2021,Q2,Asia,Model 3,3308,75689.62,7,Performance,AWD,Red
+2016,Q3,South America,Cybertruck,905,39589.79,57,Long Range,RWD,White
+2013,Q1,Australia,Model S,2264,58627.22,24,Long Range,AWD,Red
+2012,Q3,North America,Cybertruck,2804,113429.39,58,Long Range,AWD,Red
+2016,Q2,Australia,Model Y,2001,46209.18,0,Long Range,RWD,Red
+2014,Q4,Australia,Model S,3653,35754.01,2,Long Range,RWD,Green
+2014,Q1,Europe,Model S,365,50661.72,32,Long Range,RWD,Red
+2013,Q2,Europe,Model X,4722,66565.55,52,Performance,RWD,Red
+2014,Q1,North America,Cybertruck,1782,103682.91,32,Performance,RWD,Black
+2019,Q4,Asia,Model X,1647,106060.76,18,Standard,RWD,Black
+2021,Q2,Australia,Model Y,1932,83394.09,52,Standard,AWD,Blue
+2024,Q2,Europe,Model Y,177,49175.53,26,Long Range,RWD,Green
+2016,Q1,Asia,Model X,4895,86744.38,6,Performance,AWD,Red
+2012,Q3,Australia,Model Y,2675,72279.9,32,Performance,RWD,Red
+2023,Q2,Australia,Cybertruck,2329,83886.71,39,Long Range,AWD,White
+2020,Q2,North America,Cybertruck,375,116587.82,34,Performance,AWD,Red
+2018,Q4,Asia,Model S,1170,119411.57,46,Performance,AWD,White
+2017,Q2,South America,Semi,341,115680.52,40,Standard,AWD,Black
+2023,Q2,North America,Model Y,601,76708.75,39,Standard,AWD,Red
+2022,Q4,South America,Model X,4501,75881.52,6,Standard,AWD,White
+2022,Q2,North America,Model X,2244,78136.43,56,Long Range,AWD,Silver
+2018,Q2,South America,Model 3,4441,52527.07,40,Standard,RWD,Black
+2020,Q4,Europe,Model X,1372,112405.57,21,Long Range,AWD,Silver
+2012,Q3,North America,Model Y,3332,46151.42,47,Long Range,AWD,Red
+2023,Q1,Asia,Model X,3809,52226.67,16,Performance,RWD,Blue
+2024,Q1,Australia,Model 3,4783,117891.2,25,Standard,RWD,White
+2019,Q2,North America,Model Y,2114,70007.98,47,Long Range,AWD,Red
+2023,Q1,North America,Model Y,684,66933.31,48,Standard,AWD,Silver
+2016,Q3,South America,Model X,3094,82923.88,10,Standard,RWD,Silver
+2018,Q2,Europe,Model Y,599,119431.38,0,Long Range,AWD,Black
+2018,Q3,Asia,Cybertruck,3353,114416.17,35,Performance,AWD,Red
+2024,Q4,Europe,Model 3,71,101586.02,13,Standard,AWD,Black
+2018,Q4,Australia,Semi,3936,65174.29,53,Performance,RWD,Silver
+2017,Q2,North America,Model X,3868,100513.31,22,Performance,RWD,Black
+2017,Q3,South America,Model S,2286,37849.9,17,Performance,RWD,Blue
+2024,Q1,North America,Model X,286,87098.24,45,Standard,AWD,Black
+2017,Q2,South America,Semi,3050,78888.94,60,Performance,RWD,Blue
+2022,Q1,Asia,Model X,4642,64808.21,21,Long Range,AWD,Silver
+2023,Q2,Asia,Semi,1615,98529.72,47,Standard,RWD,Red
+2017,Q3,Asia,Semi,4334,73222.22,40,Performance,AWD,Red
+2024,Q2,Asia,Model 3,3881,57171.9,59,Standard,AWD,Blue
+2013,Q2,Asia,Model X,1383,74681.5,11,Standard,RWD,Silver
+2015,Q1,Australia,Model Y,2256,116088.46,25,Performance,AWD,Black
+2019,Q4,Europe,Model Y,56,90981.73,12,Standard,RWD,White
+2023,Q2,Australia,Semi,3132,105664.49,45,Standard,AWD,Blue
+2021,Q2,Europe,Model X,3017,63887.33,52,Standard,RWD,Red
+2012,Q3,Australia,Model 3,1389,68848.37,33,Standard,RWD,Red
+2024,Q1,Asia,Model Y,2168,98075.53,7,Performance,RWD,Silver
+2016,Q2,South America,Cybertruck,3777,71965.48,29,Long Range,AWD,Red
+2019,Q3,Asia,Semi,341,85641.21,22,Performance,AWD,Silver
+2023,Q4,North America,Model S,2725,66687.6,9,Performance,AWD,Blue
+2016,Q2,North America,Model X,4746,75198.06,48,Long Range,RWD,Green
+2019,Q3,North America,Model 3,1891,36536.2,20,Standard,AWD,Silver
+2023,Q4,Europe,Cybertruck,1442,92203.81,16,Long Range,AWD,Green
+2021,Q3,South America,Model Y,3452,119645.2,1,Long Range,RWD,Black
+2023,Q4,South America,Model Y,2933,98858.88,26,Performance,RWD,White
+2014,Q4,Asia,Model S,4413,105538.64,48,Long Range,AWD,Green
+2017,Q2,Europe,Cybertruck,3915,93170.86,60,Long Range,AWD,Green
+2016,Q1,North America,Model 3,4781,74200.26,15,Performance,RWD,Black
+2019,Q4,North America,Model Y,2180,110085.35,34,Standard,AWD,Blue
+2021,Q1,Europe,Model X,3432,90805.64,9,Standard,RWD,Black
+2021,Q1,Europe,Model 3,4324,59516.59,14,Long Range,RWD,Green
+2012,Q2,South America,Model X,1265,84659.96,16,Long Range,RWD,Blue
+2013,Q3,Europe,Model X,1741,54066.35,17,Performance,AWD,Green
+2020,Q1,North America,Model Y,4692,79450.65,15,Long Range,AWD,Green
+2015,Q2,Europe,Cybertruck,4811,75569.0,6,Performance,AWD,White
+2013,Q4,Europe,Cybertruck,3787,119340.2,16,Long Range,RWD,Blue
+2024,Q2,Australia,Model S,2664,110936.21,32,Long Range,RWD,Black
+2020,Q4,North America,Semi,2508,113841.88,13,Performance,AWD,White
+2016,Q3,Europe,Model X,2783,96770.32,53,Performance,RWD,Blue
+2023,Q3,Asia,Model X,243,62356.89,50,Long Range,RWD,Silver
+2012,Q4,Australia,Model 3,2344,118888.98,37,Long Range,AWD,Red
+2021,Q2,South America,Model S,3640,55844.27,36,Performance,RWD,Silver
+2022,Q3,Asia,Cybertruck,239,46922.94,41,Long Range,RWD,Blue
+2022,Q1,North America,Cybertruck,804,117809.34,49,Standard,AWD,Silver
+2019,Q4,North America,Model Y,4758,59974.17,39,Long Range,AWD,Red
+2013,Q1,South America,Cybertruck,373,101254.37,34,Long Range,AWD,White
+2018,Q1,Australia,Semi,1758,67335.41,28,Long Range,RWD,Black
+2015,Q1,South America,Model X,3965,56699.19,7,Long Range,AWD,Red
+2012,Q3,Asia,Model S,1202,107030.26,11,Performance,AWD,Black
+2023,Q2,Asia,Model S,1380,37548.31,13,Long Range,RWD,Green
+2020,Q2,Europe,Model S,172,64636.64,14,Standard,RWD,Red
+2022,Q3,South America,Semi,839,75612.14,47,Performance,AWD,Black
+2023,Q4,South America,Cybertruck,4284,84059.2,56,Long Range,AWD,White
+2018,Q3,North America,Cybertruck,3988,76126.81,22,Standard,RWD,Blue
+2017,Q3,North America,Model X,3544,89594.88,34,Standard,AWD,Black
+2015,Q2,Europe,Model S,1677,97340.05,22,Performance,AWD,Silver
+2015,Q3,North America,Model Y,2478,68130.65,33,Long Range,RWD,Blue
+2024,Q2,Australia,Model 3,3482,68234.97,12,Standard,RWD,Red
+2024,Q4,Europe,Semi,3640,60399.89,7,Performance,RWD,Black
+2024,Q4,Asia,Model 3,4333,43759.26,46,Performance,RWD,Black
+2013,Q4,Europe,Cybertruck,4104,53817.99,27,Performance,RWD,Red
+2022,Q4,Australia,Semi,376,64520.88,50,Long Range,RWD,Silver
+2024,Q1,Australia,Model X,2987,104561.32,22,Long Range,AWD,White
+2013,Q3,Asia,Cybertruck,4459,97888.04,53,Standard,RWD,White
+2014,Q2,Asia,Model S,963,51132.13,19,Performance,RWD,Silver
+2023,Q3,South America,Cybertruck,723,62526.09,14,Long Range,AWD,Black
+2019,Q4,Australia,Cybertruck,4565,119861.67,12,Long Range,AWD,Silver
+2014,Q3,Europe,Cybertruck,4792,45945.0,58,Performance,RWD,Silver
+2014,Q1,South America,Model Y,4629,90273.59,57,Long Range,RWD,Green
+2022,Q3,Asia,Model 3,4718,102865.39,32,Long Range,AWD,Silver
+2021,Q2,Europe,Model S,4104,96936.71,21,Standard,AWD,Blue
+2013,Q2,Asia,Model Y,1693,54264.42,41,Performance,AWD,White
+2024,Q3,North America,Model 3,1594,89100.95,31,Standard,AWD,White
+2024,Q1,Asia,Model X,932,64669.59,11,Performance,AWD,Red
+2015,Q4,North America,Model X,530,112911.89,58,Long Range,AWD,Silver
+2018,Q1,Australia,Model S,4074,43867.07,35,Long Range,RWD,White
+2015,Q3,South America,Model S,3603,97775.91,33,Standard,RWD,Green
+2018,Q2,North America,Model X,88,111873.64,42,Long Range,AWD,Blue
+2018,Q4,Australia,Model X,1602,104421.59,31,Long Range,AWD,Green
+2016,Q4,Asia,Cybertruck,2396,59199.91,36,Long Range,AWD,Red
+2014,Q1,North America,Model 3,3621,87302.27,28,Performance,AWD,Blue
+2019,Q2,North America,Model Y,3163,48013.29,18,Performance,AWD,Black
+2022,Q1,Australia,Cybertruck,4426,36484.25,46,Standard,RWD,White
+2019,Q4,Asia,Semi,3218,73222.05,47,Standard,RWD,Silver
+2016,Q2,Asia,Semi,221,71697.61,19,Standard,AWD,Blue
+2017,Q3,Asia,Semi,3317,46314.75,33,Standard,AWD,Black
+2019,Q3,South America,Model Y,466,51949.83,21,Performance,AWD,Green
+2024,Q2,Europe,Model Y,2642,74829.28,55,Performance,AWD,Blue
+2017,Q2,Europe,Model 3,2569,106457.67,23,Performance,RWD,Silver
+2023,Q3,Europe,Model S,1251,112280.71,6,Standard,AWD,Blue
+2017,Q1,Asia,Model S,1501,46470.19,19,Performance,RWD,Black
+2016,Q2,South America,Model X,4313,111863.79,1,Long Range,RWD,Black
+2021,Q1,South America,Model S,2529,67357.04,57,Long Range,RWD,Blue
+2019,Q1,Asia,Cybertruck,979,36955.63,8,Standard,AWD,Red
+2019,Q3,North America,Cybertruck,1049,39774.15,8,Standard,AWD,Black
+2023,Q4,South America,Semi,1574,74882.89,46,Performance,AWD,Blue
+2018,Q3,South America,Model Y,4200,89450.57,13,Long Range,RWD,White
+2018,Q1,Australia,Model S,772,62063.83,49,Long Range,AWD,Silver
+2012,Q3,Australia,Model Y,3831,62571.26,50,Long Range,RWD,Blue
+2014,Q2,South America,Model 3,1827,43061.93,25,Long Range,AWD,White
+2012,Q3,North America,Model S,2698,95012.05,38,Long Range,AWD,Black
+2023,Q3,Europe,Model X,4681,117486.61,4,Standard,RWD,White
+2024,Q2,South America,Cybertruck,1991,104132.36,15,Long Range,RWD,Red
+2016,Q2,Asia,Model S,3930,55959.78,40,Standard,RWD,White
+2015,Q3,Europe,Model Y,3515,94554.92,54,Standard,RWD,White
+2017,Q1,Asia,Model Y,2310,51811.36,38,Long Range,RWD,Black
+2014,Q3,South America,Model S,2367,62541.2,48,Performance,AWD,Silver
+2018,Q3,North America,Model Y,3331,81334.47,33,Long Range,RWD,Green
+2012,Q1,Europe,Model 3,1300,116125.79,8,Performance,RWD,White
+2021,Q4,North America,Model X,710,84434.57,23,Performance,AWD,Blue
+2016,Q4,North America,Semi,2387,73390.23,28,Performance,RWD,Black
+2022,Q2,South America,Model X,1826,78443.45,19,Standard,AWD,Black
+2015,Q1,South America,Model S,52,107477.92,39,Standard,AWD,White
+2024,Q1,North America,Model X,1211,57331.68,59,Standard,AWD,Green
+2021,Q4,North America,Semi,1305,53315.42,25,Performance,RWD,Red
+2015,Q2,Australia,Model S,411,109249.28,53,Long Range,RWD,Black
+2014,Q4,Asia,Model Y,2896,100221.63,9,Performance,RWD,Green
+2020,Q2,South America,Model X,4475,88779.28,47,Standard,AWD,Black
+2024,Q3,Australia,Model S,2716,97207.65,51,Long Range,RWD,Silver
+2023,Q3,Europe,Model Y,2531,105144.72,34,Performance,AWD,Black
+2017,Q4,Asia,Model 3,2538,71424.53,37,Long Range,AWD,Green
+2019,Q1,Australia,Model X,4504,42824.15,15,Performance,AWD,Blue
+2022,Q1,South America,Model Y,616,77676.17,29,Long Range,RWD,Silver
+2013,Q2,Australia,Model Y,2090,35483.86,49,Performance,AWD,Blue
+2021,Q1,Australia,Model Y,3053,102518.67,27,Standard,RWD,Green
+2014,Q1,North America,Model 3,757,83485.75,42,Standard,RWD,Green
+2012,Q3,North America,Cybertruck,149,44583.97,42,Long Range,AWD,White
+2024,Q1,Europe,Semi,1090,107916.88,9,Standard,RWD,Silver
+2022,Q3,Australia,Model Y,1890,98631.72,8,Long Range,RWD,Green
+2022,Q1,Asia,Model X,3271,58870.85,41,Long Range,RWD,Silver
+2020,Q1,Asia,Semi,2247,114403.67,55,Long Range,AWD,White
+2021,Q2,Asia,Model 3,3011,95572.79,35,Long Range,AWD,Blue
+2023,Q3,South America,Model Y,4452,64018.95,16,Performance,AWD,White
+2022,Q4,South America,Model S,3952,72159.64,20,Standard,AWD,Black
+2022,Q1,North America,Model S,2815,118031.08,46,Long Range,RWD,Blue
+2021,Q1,Europe,Model S,4729,97938.77,17,Long Range,AWD,Red
+2018,Q4,Europe,Model 3,872,107018.99,26,Performance,RWD,Blue
+2018,Q4,South America,Model 3,3105,47283.84,4,Performance,RWD,Black
+2019,Q1,Australia,Cybertruck,2877,65559.25,1,Long Range,RWD,Green
+2024,Q2,North America,Model Y,3036,39078.17,14,Standard,AWD,Red
+2014,Q1,Europe,Model S,477,83671.77,50,Performance,AWD,White
+2023,Q2,Europe,Cybertruck,1580,55879.96,0,Long Range,AWD,White
+2016,Q4,Europe,Model Y,1484,95367.78,45,Standard,AWD,Green
+2022,Q3,South America,Cybertruck,3369,98888.66,33,Long Range,AWD,Silver
+2024,Q1,Europe,Model Y,1255,73244.94,37,Performance,AWD,Green
+2012,Q2,Europe,Semi,879,60110.54,3,Long Range,RWD,Blue
+2013,Q2,South America,Model X,540,37098.1,13,Performance,RWD,Red
+2020,Q1,Europe,Model Y,2754,91152.38,28,Performance,RWD,Black
+2014,Q4,South America,Cybertruck,2140,119186.23,13,Standard,AWD,Black
+2016,Q3,Asia,Cybertruck,1324,91758.91,53,Performance,RWD,Silver
+2015,Q2,Australia,Model 3,857,94277.45,32,Long Range,RWD,Green
+2017,Q1,Asia,Model 3,4035,109724.0,31,Long Range,AWD,Blue
+2020,Q4,Australia,Model S,1294,119306.17,0,Long Range,AWD,Red
+2021,Q1,Europe,Model 3,3251,105056.23,31,Standard,RWD,Silver
+2015,Q3,North America,Model Y,2824,91525.73,44,Long Range,RWD,White
+2013,Q2,North America,Model Y,1083,47692.78,4,Long Range,RWD,Green
+2024,Q3,Australia,Model 3,4126,74397.84,25,Performance,RWD,Blue
+2014,Q2,South America,Cybertruck,4107,116350.32,58,Standard,AWD,Blue
+2023,Q3,South America,Model Y,4381,119458.64,39,Performance,AWD,Blue
+2018,Q4,South America,Cybertruck,1941,113462.61,53,Performance,AWD,Blue
+2018,Q1,North America,Model X,4434,104226.1,34,Long Range,AWD,Silver
+2018,Q1,Asia,Semi,2061,115459.18,1,Standard,AWD,Green
+2013,Q2,North America,Model S,2012,40608.49,49,Long Range,AWD,Red
+2015,Q3,North America,Cybertruck,757,119330.45,10,Standard,RWD,Black
+2021,Q4,South America,Semi,598,117971.67,47,Standard,RWD,Silver
+2012,Q3,Australia,Model S,1148,106656.9,38,Performance,AWD,Silver
+2013,Q1,Asia,Semi,1171,94152.08,52,Long Range,AWD,White
+2013,Q2,South America,Cybertruck,4961,107383.44,23,Standard,AWD,White
+2021,Q3,South America,Semi,2487,43537.04,25,Standard,RWD,Blue
+2020,Q2,North America,Model X,1429,50735.98,58,Performance,AWD,Green
+2021,Q4,Europe,Cybertruck,2447,64262.77,25,Performance,RWD,Silver
+2021,Q2,South America,Model S,2088,46258.13,2,Standard,AWD,Green
+2014,Q1,Asia,Model X,3417,67191.59,33,Performance,RWD,Blue
+2024,Q1,Australia,Cybertruck,2418,52326.39,7,Long Range,AWD,White
+2018,Q3,Europe,Model Y,1856,72240.99,8,Standard,AWD,Green
+2024,Q3,Australia,Model S,565,83208.25,56,Standard,AWD,White
+2017,Q1,Australia,Model 3,1584,44219.63,19,Performance,RWD,White
+2015,Q3,Australia,Model 3,3579,116387.65,1,Performance,AWD,Red
+2015,Q2,Europe,Model X,843,38112.35,0,Performance,RWD,Red
+2012,Q4,Asia,Cybertruck,1418,90870.25,44,Performance,AWD,Blue
+2022,Q1,Asia,Model 3,1459,104896.69,14,Performance,AWD,Green
+2024,Q3,Australia,Model 3,568,105857.67,10,Long Range,RWD,Red
+2014,Q3,South America,Semi,4596,110125.43,33,Performance,RWD,Blue
+2024,Q1,Europe,Model Y,2471,66919.72,34,Long Range,AWD,Silver
+2015,Q1,South America,Cybertruck,4503,110175.79,15,Performance,AWD,White
+2019,Q1,Australia,Semi,4528,41813.34,48,Long Range,RWD,Black
+2013,Q1,Europe,Model Y,854,72313.22,57,Performance,RWD,Red
+2020,Q2,South America,Semi,4771,80901.14,18,Long Range,AWD,Black
+2015,Q4,Asia,Semi,2847,42538.53,46,Performance,RWD,Silver
+2012,Q1,Australia,Model S,3381,52672.9,26,Performance,RWD,Silver
+2020,Q1,Asia,Semi,2168,116782.92,41,Standard,RWD,Blue
+2014,Q3,Australia,Model X,1349,36760.3,56,Long Range,AWD,White
+2012,Q2,Australia,Model 3,3073,63894.11,43,Standard,RWD,Black
+2014,Q3,Asia,Semi,1149,74583.03,53,Performance,AWD,Green
+2023,Q1,Australia,Semi,1867,103569.92,51,Standard,AWD,Red
+2015,Q1,Australia,Model S,679,116277.9,58,Performance,RWD,White
+2014,Q1,Europe,Semi,3140,63377.42,40,Performance,RWD,White
+2013,Q3,South America,Model S,1059,109021.54,40,Performance,RWD,Red
+2019,Q3,Asia,Model X,3476,41523.29,16,Standard,RWD,Black
+2013,Q1,Europe,Model Y,197,114801.84,60,Standard,AWD,Silver
+2024,Q2,Asia,Model X,2964,39424.43,27,Performance,AWD,Blue
+2020,Q4,Europe,Model X,2494,55181.18,55,Performance,AWD,Blue
+2024,Q3,Asia,Cybertruck,1539,114471.74,45,Long Range,RWD,Silver
+2018,Q2,Europe,Model X,4681,43750.24,1,Performance,RWD,Silver
+2018,Q1,South America,Model Y,1319,68829.47,7,Long Range,RWD,Red
+2016,Q1,Asia,Model Y,1015,118435.83,57,Performance,RWD,White
+2013,Q2,North America,Cybertruck,3997,103743.08,6,Performance,AWD,Black
+2022,Q1,North America,Model 3,3969,98948.29,0,Standard,RWD,Silver
+2021,Q3,North America,Model X,649,107916.13,20,Standard,RWD,Blue
+2019,Q3,Australia,Model 3,526,95716.81,28,Standard,RWD,Blue
+2016,Q1,Australia,Cybertruck,4420,57337.92,12,Standard,AWD,Blue
+2014,Q1,North America,Cybertruck,1388,35039.48,7,Standard,RWD,Black
+2021,Q1,Europe,Cybertruck,2696,39061.78,55,Long Range,RWD,Silver
+2019,Q4,South America,Model 3,1579,41390.18,53,Standard,AWD,Blue
+2015,Q2,North America,Cybertruck,1501,81198.5,20,Long Range,AWD,White
+2020,Q2,North America,Model X,68,66969.93,9,Standard,AWD,Black
+2020,Q2,North America,Cybertruck,1186,62828.37,25,Long Range,AWD,Silver
+2020,Q4,South America,Semi,2104,78125.7,18,Performance,AWD,White
+2023,Q4,North America,Model X,1516,54998.88,34,Long Range,RWD,Blue
+2021,Q4,South America,Model Y,1310,106148.83,8,Long Range,AWD,Blue
+2018,Q4,South America,Model X,3790,83381.45,1,Performance,AWD,Black
+2021,Q3,Europe,Semi,2070,88885.67,8,Performance,RWD,Blue
+2017,Q4,Europe,Model X,3237,49252.74,36,Standard,RWD,Silver
+2020,Q3,Australia,Cybertruck,2707,36328.75,20,Long Range,RWD,White
+2015,Q3,North America,Model S,3033,52865.8,19,Standard,RWD,White
+2017,Q1,North America,Cybertruck,2227,115982.1,9,Performance,AWD,White
+2020,Q3,Australia,Model 3,1171,114489.79,35,Long Range,RWD,Red
+2022,Q3,South America,Semi,2831,97295.46,27,Long Range,RWD,Green
+2017,Q2,South America,Semi,1951,41183.59,15,Standard,AWD,White
+2018,Q4,South America,Cybertruck,4069,47246.15,54,Performance,AWD,Blue
+2013,Q2,Europe,Semi,4501,103656.98,6,Performance,AWD,Black
+2019,Q2,Europe,Semi,4578,74370.82,1,Performance,AWD,Blue
+2014,Q1,Asia,Model 3,789,78428.89,49,Performance,RWD,Blue
+2023,Q2,South America,Semi,4822,117162.72,53,Standard,RWD,Black
+2020,Q2,Europe,Model 3,2713,90532.17,44,Standard,AWD,White
+2016,Q4,South America,Semi,1004,50339.14,28,Performance,RWD,Red
+2020,Q2,Europe,Model 3,280,104047.27,48,Standard,AWD,White
+2022,Q2,Asia,Semi,4263,65375.96,15,Performance,RWD,Red
+2015,Q1,North America,Model 3,4778,49235.81,59,Performance,RWD,Green
+2019,Q1,South America,Model S,1239,68814.66,40,Standard,AWD,Red
+2013,Q4,Australia,Model S,1110,112629.25,2,Standard,AWD,Blue
+2020,Q1,Europe,Model Y,2519,101015.14,6,Standard,RWD,Black
+2021,Q2,Asia,Model X,3167,106369.92,4,Performance,AWD,Black
+2017,Q3,Australia,Model X,1117,53021.07,1,Long Range,AWD,Green
+2012,Q4,North America,Model Y,3541,108266.96,1,Long Range,AWD,Black
+2017,Q4,Australia,Cybertruck,3748,66328.12,57,Long Range,AWD,White
+2013,Q1,South America,Model S,1020,102767.02,32,Standard,AWD,Black
+2013,Q3,Australia,Model S,1263,85383.53,55,Performance,AWD,White
+2020,Q3,Australia,Model X,1684,103087.26,11,Standard,AWD,Red
+2015,Q2,South America,Model Y,1332,104919.76,58,Long Range,RWD,Blue
+2017,Q1,North America,Model S,464,72989.17,31,Performance,RWD,Red
+2012,Q3,South America,Cybertruck,4161,38221.31,37,Long Range,RWD,Blue
+2018,Q1,Europe,Model 3,4022,59365.68,3,Long Range,RWD,Silver
+2012,Q1,Asia,Model 3,3579,107090.33,42,Standard,AWD,Black
+2022,Q3,North America,Cybertruck,735,54992.91,43,Performance,RWD,Black
+2017,Q2,South America,Model Y,4202,66772.94,59,Standard,AWD,Red
+2014,Q4,South America,Model X,1404,85991.65,27,Performance,AWD,Blue
+2018,Q1,Asia,Model Y,410,77020.22,35,Performance,AWD,Black
+2018,Q2,Asia,Semi,420,110205.23,59,Long Range,RWD,Silver
+2018,Q2,Europe,Model X,4801,99604.18,52,Performance,RWD,White
+2024,Q4,South America,Cybertruck,608,71117.73,39,Standard,AWD,White
+2012,Q3,Europe,Model 3,408,113059.8,20,Performance,AWD,Blue
+2015,Q3,Asia,Model S,4696,70393.22,54,Standard,RWD,Green
+2019,Q2,North America,Model X,702,72642.33,26,Performance,AWD,Black
+2020,Q4,South America,Model X,789,62822.76,37,Long Range,RWD,Green
+2022,Q1,Europe,Cybertruck,4455,98980.04,35,Long Range,AWD,Blue
+2021,Q3,Europe,Model X,4394,117558.35,16,Standard,AWD,White
+2016,Q3,Australia,Model X,4064,99282.64,21,Performance,AWD,Silver
+2022,Q2,Australia,Model X,2419,39606.35,25,Performance,RWD,Silver
+2019,Q4,Asia,Model Y,1150,99923.76,39,Standard,RWD,Red
+2019,Q4,Australia,Semi,4101,119289.14,8,Standard,AWD,Black
+2013,Q2,North America,Model 3,4381,56354.42,47,Long Range,RWD,Black
+2022,Q2,South America,Model X,2124,65772.48,48,Long Range,AWD,Red
+2019,Q3,South America,Cybertruck,4074,92984.63,39,Performance,AWD,Blue
+2019,Q3,North America,Semi,4497,40166.15,54,Standard,RWD,Black
+2016,Q1,North America,Semi,900,78749.69,45,Long Range,RWD,Blue
+2020,Q3,North America,Model Y,4987,87660.99,28,Performance,AWD,Red
+2020,Q4,South America,Cybertruck,4795,71174.72,37,Performance,AWD,Green
+2023,Q4,Asia,Model 3,2243,46237.1,13,Performance,AWD,Silver
+2020,Q1,South America,Cybertruck,1787,49261.58,7,Standard,AWD,Red
+2020,Q4,Australia,Model S,141,81557.99,52,Long Range,AWD,White
+2024,Q2,Europe,Model X,2584,69736.78,37,Long Range,AWD,Red
+2023,Q1,Australia,Model Y,3244,70876.95,5,Standard,AWD,Green
+2024,Q4,North America,Cybertruck,173,66219.16,35,Standard,RWD,Blue
+2022,Q1,Australia,Cybertruck,4025,101435.09,4,Long Range,AWD,White
+2024,Q3,Australia,Semi,4326,84071.54,53,Standard,RWD,Red
+2019,Q3,North America,Semi,1180,76503.61,24,Performance,AWD,Red
+2019,Q3,South America,Cybertruck,659,73188.72,51,Performance,RWD,Green
+2017,Q4,North America,Semi,4756,36535.25,46,Standard,AWD,Green
+2021,Q3,Asia,Model S,528,42561.55,33,Performance,AWD,Black
+2023,Q1,North America,Model S,4755,66603.13,0,Performance,AWD,Blue
+2018,Q3,North America,Model S,4013,56796.18,44,Performance,AWD,Silver
+2017,Q2,South America,Model X,2335,116306.74,49,Standard,RWD,Green
+2024,Q4,Europe,Semi,1550,40841.26,57,Long Range,AWD,Green
+2019,Q2,South America,Cybertruck,1844,119126.75,16,Long Range,AWD,Silver
+2023,Q1,Australia,Model X,3728,87689.34,22,Standard,RWD,Blue
+2021,Q1,Europe,Model S,732,119726.42,29,Performance,RWD,Red
+2015,Q3,Asia,Semi,731,93019.97,0,Standard,AWD,Black
+2014,Q3,South America,Model X,3655,88865.9,39,Long Range,AWD,Blue
+2022,Q1,North America,Model S,3266,59466.88,43,Performance,AWD,White
+2013,Q3,South America,Model S,1863,119191.28,21,Performance,AWD,Silver
+2021,Q1,North America,Model Y,4729,71420.22,58,Performance,AWD,Red
+2023,Q3,Europe,Model S,72,68373.59,29,Long Range,AWD,White
+2020,Q3,Europe,Cybertruck,550,88357.59,42,Performance,AWD,Black
+2018,Q3,Europe,Model S,1290,110343.87,7,Standard,RWD,Blue
+2021,Q4,Asia,Model 3,3287,38946.23,53,Standard,RWD,Green
+2013,Q1,Asia,Model 3,1898,95664.01,35,Standard,AWD,Black
+2021,Q1,Australia,Model S,968,77766.3,13,Performance,RWD,White
+2024,Q3,Europe,Model Y,4432,100074.97,44,Performance,AWD,Red
+2023,Q4,Europe,Model S,492,50098.74,13,Performance,RWD,Silver
+2023,Q1,North America,Model Y,2998,84068.32,45,Standard,AWD,Green
+2014,Q1,Europe,Model X,1638,38521.45,49,Standard,AWD,Blue
+2020,Q2,Europe,Model S,237,90399.71,38,Standard,RWD,Green
+2014,Q2,South America,Model S,1713,114805.31,26,Long Range,AWD,Silver
+2018,Q3,Asia,Model S,2533,84403.15,49,Long Range,RWD,Green
+2015,Q2,Europe,Model Y,1153,71876.39,53,Standard,AWD,White
+2012,Q4,South America,Semi,853,97891.95,59,Long Range,AWD,Green
+2019,Q2,Asia,Semi,521,65996.99,15,Standard,AWD,White
+2024,Q4,South America,Semi,2250,77447.26,50,Long Range,RWD,Silver
+2023,Q4,North America,Model Y,1759,112005.31,8,Standard,AWD,White
+2021,Q4,Australia,Model X,3709,50446.53,54,Standard,AWD,Blue
+2021,Q2,Europe,Model 3,3453,104409.13,19,Long Range,RWD,Black
+2013,Q1,Asia,Semi,4547,72963.9,58,Performance,RWD,White
+2019,Q2,Europe,Semi,257,93777.58,26,Long Range,AWD,Black
+2024,Q3,Europe,Model Y,4449,40344.95,59,Long Range,RWD,Green
+2018,Q1,South America,Model X,1907,117251.06,44,Standard,AWD,Blue
+2023,Q1,South America,Semi,1577,83927.15,40,Long Range,AWD,White
+2021,Q2,North America,Model X,3028,107493.45,44,Performance,AWD,White
+2024,Q1,South America,Model 3,1687,67396.3,6,Standard,RWD,Red
+2017,Q4,Asia,Model 3,1239,52834.72,13,Performance,AWD,Black
+2014,Q3,Europe,Model X,453,111518.55,15,Performance,RWD,Black
+2024,Q1,South America,Model X,1266,36151.92,42,Standard,AWD,Blue
+2012,Q3,Asia,Model X,4708,41181.33,11,Performance,AWD,White
+2015,Q3,Australia,Cybertruck,4118,65408.98,11,Standard,RWD,Red
+2015,Q2,Australia,Cybertruck,3355,74334.38,36,Performance,RWD,Blue
+2019,Q3,South America,Cybertruck,4430,87839.18,41,Performance,RWD,White
+2023,Q3,Europe,Model 3,1071,47302.2,10,Standard,AWD,White
+2016,Q3,South America,Semi,3615,77195.0,19,Performance,RWD,Silver
+2023,Q2,Australia,Model 3,358,85053.38,24,Long Range,RWD,Silver
+2023,Q1,Europe,Model X,2915,44360.37,33,Standard,RWD,Blue
+2016,Q3,Asia,Model X,1863,61128.28,16,Standard,RWD,Silver
+2012,Q2,Europe,Model 3,441,85432.28,32,Long Range,AWD,Silver
+2019,Q1,Australia,Model X,2518,111435.21,33,Long Range,AWD,White
+2013,Q2,South America,Model 3,4691,39641.65,1,Standard,RWD,Red
+2012,Q4,North America,Cybertruck,1839,115272.46,16,Performance,RWD,Silver
+2014,Q2,North America,Model 3,1646,61352.33,18,Standard,RWD,Blue
+2016,Q4,South America,Model S,1303,110320.28,41,Standard,RWD,Blue
+2021,Q3,Australia,Model Y,2821,50399.79,48,Long Range,AWD,Black
+2015,Q1,Europe,Model 3,2127,69704.78,28,Standard,AWD,Green
+2017,Q2,North America,Model S,1467,112369.99,47,Performance,RWD,Blue
+2024,Q1,North America,Model Y,1385,116397.01,42,Standard,RWD,Red
+2014,Q3,North America,Model Y,2997,89384.6,14,Performance,RWD,Black
+2020,Q2,Europe,Model Y,2090,88312.09,28,Performance,AWD,Black
+2013,Q4,North America,Model Y,2436,93954.81,51,Performance,AWD,Silver
+2018,Q3,Europe,Model 3,4617,73624.3,10,Standard,RWD,White
+2012,Q3,South America,Cybertruck,4138,78228.84,37,Long Range,AWD,White
+2014,Q4,Australia,Semi,1763,48596.46,56,Performance,RWD,Blue
+2014,Q2,North America,Semi,3071,83679.89,59,Standard,AWD,Silver
+2019,Q2,Australia,Model 3,2480,91446.83,11,Standard,RWD,Blue
+2021,Q2,Europe,Model S,735,50026.32,9,Standard,AWD,Red
+2024,Q1,South America,Model X,2197,82283.12,3,Long Range,RWD,White
+2022,Q4,Asia,Model Y,2596,100881.02,7,Performance,RWD,Green
+2021,Q3,South America,Model 3,973,58919.38,31,Performance,AWD,Red
+2018,Q1,Europe,Semi,67,40302.98,22,Standard,AWD,Silver
+2017,Q2,Australia,Cybertruck,1450,91098.7,36,Performance,AWD,Red
+2015,Q2,Australia,Model Y,732,77980.95,40,Standard,RWD,Black
+2013,Q2,Asia,Model 3,3827,97659.72,46,Standard,RWD,White
+2022,Q3,Europe,Model S,1093,74702.56,28,Long Range,AWD,Blue
+2023,Q4,Australia,Model X,3320,80378.66,48,Standard,RWD,Silver
+2014,Q1,Australia,Model X,3942,47131.15,39,Long Range,RWD,Silver
+2021,Q3,Australia,Model X,666,116056.71,12,Performance,RWD,Red
+2017,Q1,South America,Model 3,4266,103527.3,56,Standard,RWD,Black
+2016,Q3,Asia,Cybertruck,905,100464.66,0,Performance,AWD,Green
+2019,Q3,North America,Model S,55,53092.6,43,Long Range,RWD,Green
+2020,Q3,Australia,Model Y,4715,39401.84,48,Long Range,AWD,Green
+2016,Q3,Asia,Model 3,4977,85601.01,2,Long Range,RWD,White
+2018,Q4,Europe,Model X,3535,100290.06,11,Standard,AWD,Silver
+2024,Q3,Asia,Cybertruck,1875,86066.49,20,Standard,AWD,Black
+2012,Q1,Europe,Model Y,1096,90965.02,60,Standard,AWD,Green
+2017,Q3,South America,Model X,1450,50380.29,42,Long Range,AWD,Green
+2022,Q1,Asia,Model X,4959,42883.42,28,Long Range,RWD,White
+2021,Q4,Europe,Model X,2420,107029.46,38,Standard,AWD,White
+2012,Q4,South America,Cybertruck,1484,104027.23,35,Standard,RWD,Black
+2022,Q2,Asia,Semi,1904,76023.63,51,Performance,AWD,Red
+2024,Q4,South America,Model S,2592,54081.13,52,Long Range,AWD,Silver
+2015,Q1,South America,Model 3,2838,48916.7,45,Standard,RWD,Green
+2024,Q4,Asia,Semi,4727,64625.01,33,Standard,AWD,Silver
+2020,Q3,Asia,Model X,860,102142.14,50,Standard,RWD,Blue
+2019,Q1,Asia,Model X,4772,35965.3,52,Standard,AWD,Red
+2020,Q1,Australia,Semi,147,100348.19,42,Long Range,AWD,Black
+2013,Q2,Australia,Model S,4751,40021.02,33,Long Range,AWD,Silver
+2019,Q1,Europe,Semi,2906,78320.85,38,Long Range,AWD,Black
+2018,Q4,Europe,Cybertruck,4042,83288.48,22,Long Range,AWD,Red
+2024,Q4,Australia,Model S,2860,112699.57,18,Standard,AWD,Blue
+2022,Q3,Australia,Model X,401,117901.6,7,Standard,AWD,Green
+2022,Q3,Asia,Model Y,1000,79953.83,37,Standard,RWD,Black
+2021,Q4,Asia,Model X,2922,44510.3,45,Standard,RWD,Silver
+2024,Q1,Europe,Model X,1756,85205.05,48,Performance,AWD,Silver
+2012,Q1,South America,Model S,2909,51405.12,52,Performance,RWD,Red
+2019,Q2,North America,Model X,2339,40634.2,3,Performance,RWD,Green
+2022,Q2,Europe,Model X,4506,115930.03,1,Performance,RWD,Black
+2022,Q2,Europe,Model Y,866,44170.0,53,Performance,AWD,Red
+2014,Q1,North America,Cybertruck,2796,101251.79,15,Long Range,RWD,Green
+2024,Q1,North America,Model Y,1821,87303.55,5,Standard,AWD,Green
+2016,Q3,Asia,Semi,3388,102349.51,31,Standard,AWD,Silver
+2012,Q2,Asia,Model 3,1808,112466.41,17,Standard,AWD,Green
+2013,Q2,Europe,Model Y,3400,41706.74,29,Performance,RWD,Green
+2013,Q3,South America,Cybertruck,794,49512.01,27,Performance,RWD,Green
+2020,Q3,Asia,Model Y,2170,37009.03,47,Standard,RWD,Green
+2024,Q2,Australia,Cybertruck,1097,105856.49,50,Long Range,AWD,White
+2014,Q1,Europe,Model 3,4077,93337.13,47,Standard,AWD,White
+2021,Q1,South America,Model S,77,78873.43,36,Performance,AWD,Red
+2021,Q4,South America,Model S,3230,35757.04,50,Performance,RWD,White
+2021,Q3,Europe,Model 3,3609,45092.96,6,Performance,AWD,Blue
+2024,Q1,North America,Model X,1716,62535.06,15,Long Range,RWD,Blue
+2020,Q2,Asia,Semi,181,103859.63,45,Performance,AWD,Green
+2023,Q3,Europe,Model Y,1912,102121.83,22,Performance,AWD,Blue
+2020,Q1,Australia,Model S,1497,101835.65,20,Long Range,AWD,White
+2020,Q2,Australia,Model S,292,42627.14,56,Performance,AWD,Black
+2017,Q2,Asia,Model X,3177,96659.52,56,Long Range,AWD,Black
+2015,Q3,Australia,Model 3,2175,54964.67,35,Long Range,AWD,Blue
+2017,Q4,Europe,Model 3,2311,118603.03,59,Performance,RWD,Blue
+2013,Q3,South America,Cybertruck,4009,119440.85,9,Standard,AWD,White
+2017,Q2,Asia,Model X,4759,101780.65,1,Long Range,RWD,White
+2015,Q3,Europe,Model X,4856,102061.18,32,Performance,AWD,Green
+2014,Q3,Asia,Model 3,2335,41992.25,46,Standard,AWD,Red
+2015,Q2,North America,Semi,1701,43927.94,28,Performance,AWD,Red
+2012,Q1,Australia,Model 3,2956,93118.15,39,Standard,RWD,Red
+2014,Q1,North America,Model Y,1413,82439.5,43,Long Range,AWD,Blue
+2014,Q2,Europe,Semi,4930,109724.8,37,Performance,RWD,White
+2023,Q3,Asia,Model Y,4150,37675.62,10,Performance,RWD,Green
+2019,Q3,Australia,Semi,3917,36693.46,51,Long Range,RWD,Red
+2012,Q4,North America,Model 3,1668,65938.19,60,Performance,RWD,Black
+2023,Q4,South America,Model S,176,61893.39,14,Standard,AWD,Red
+2016,Q1,North America,Model S,2719,36451.46,7,Long Range,RWD,Blue
+2014,Q1,Australia,Model Y,2749,103610.3,8,Standard,RWD,Silver
+2017,Q3,Australia,Model Y,3888,47014.45,22,Standard,RWD,Red
+2015,Q1,Australia,Model X,2564,118189.51,33,Standard,AWD,Blue
+2020,Q4,Europe,Model Y,1573,82175.05,53,Long Range,AWD,Blue
+2019,Q4,Europe,Model X,4995,45657.33,57,Performance,RWD,Green
+2015,Q3,North America,Model X,258,93420.85,60,Performance,AWD,Blue
+2023,Q4,South America,Cybertruck,3845,77483.97,21,Long Range,RWD,Black
+2014,Q2,Europe,Model Y,896,44045.43,4,Long Range,RWD,Green
+2015,Q1,Asia,Model 3,898,106021.38,37,Standard,AWD,Silver
+2013,Q4,Australia,Model S,1819,103528.99,5,Long Range,AWD,Blue
+2013,Q4,Europe,Cybertruck,2332,101514.18,27,Standard,AWD,Silver
+2023,Q2,Australia,Model 3,4481,108200.21,10,Performance,AWD,Blue
+2014,Q3,Asia,Model 3,4867,76586.42,39,Performance,RWD,Red
+2013,Q2,South America,Model S,1409,50824.52,4,Long Range,RWD,Black
+2013,Q1,Europe,Model X,2764,64244.46,3,Standard,AWD,White
+2014,Q4,Europe,Model S,4452,37265.44,36,Performance,AWD,Red
+2014,Q2,Australia,Model Y,1672,41396.59,29,Long Range,RWD,White
+2018,Q4,North America,Semi,1926,43489.34,23,Standard,RWD,Black
+2012,Q1,South America,Cybertruck,1347,91086.81,56,Performance,RWD,White
+2021,Q1,Asia,Model 3,454,78981.1,28,Long Range,RWD,Green
+2024,Q1,South America,Model 3,110,60713.44,34,Long Range,RWD,Red
+2017,Q4,South America,Semi,2424,116602.98,17,Standard,RWD,Green
+2018,Q4,Europe,Semi,4838,101208.08,23,Long Range,AWD,Green
+2022,Q4,Europe,Model X,3713,49628.78,26,Standard,RWD,Black
+2023,Q4,North America,Model 3,3407,68872.66,16,Long Range,AWD,Silver
+2020,Q2,Europe,Model 3,2490,106090.08,5,Standard,AWD,Blue
+2018,Q1,Australia,Model Y,1113,68228.4,13,Performance,RWD,Red
+2024,Q4,North America,Model S,2171,59064.71,5,Long Range,RWD,Black
+2018,Q1,Australia,Semi,1757,102153.32,38,Long Range,AWD,Silver
+2015,Q2,Asia,Semi,1547,38499.99,10,Long Range,AWD,Blue
+2024,Q1,Europe,Model X,2453,100680.42,23,Performance,AWD,Blue
+2015,Q3,Asia,Model Y,2244,49822.39,25,Performance,RWD,Black
+2023,Q1,Asia,Model 3,3782,77941.05,58,Performance,RWD,White
+2020,Q1,Asia,Semi,2482,109992.78,5,Performance,RWD,Silver
+2018,Q1,Asia,Model 3,3026,70011.28,56,Long Range,AWD,White
+2024,Q1,South America,Model 3,1549,97466.12,26,Long Range,RWD,Silver
+2016,Q2,South America,Semi,4176,99254.81,25,Standard,RWD,Green
+2024,Q1,South America,Model Y,3677,37527.86,25,Standard,AWD,Red
+2014,Q4,North America,Cybertruck,1310,70587.76,20,Standard,AWD,Blue
+2022,Q2,North America,Semi,1994,116399.51,19,Performance,AWD,Red
+2021,Q2,Asia,Model 3,4649,112559.34,47,Long Range,AWD,Red
+2022,Q1,Asia,Semi,4372,84291.36,48,Standard,AWD,Blue
+2014,Q4,Asia,Model S,3705,109786.02,13,Standard,AWD,Silver
+2020,Q3,North America,Semi,207,73899.68,33,Performance,RWD,Silver
+2012,Q1,South America,Model 3,187,55409.16,7,Long Range,AWD,Green
+2019,Q1,North America,Model 3,139,97541.7,18,Performance,AWD,White
+2018,Q1,Europe,Cybertruck,3136,90167.14,28,Standard,AWD,White
+2019,Q3,Asia,Semi,183,117526.27,55,Long Range,RWD,Silver
+2018,Q1,Australia,Model Y,3847,86367.12,39,Performance,RWD,White
+2018,Q2,North America,Model Y,3465,68843.19,29,Performance,RWD,Black
+2014,Q3,Australia,Model S,2516,45320.53,16,Performance,AWD,Red
+2013,Q3,Asia,Model S,3870,114045.43,9,Performance,AWD,White
+2022,Q4,Europe,Model S,4895,87096.29,27,Performance,RWD,Green
+2021,Q4,Australia,Model Y,888,87902.75,16,Performance,RWD,Black
+2012,Q4,South America,Model Y,3400,43542.84,33,Long Range,RWD,Blue
+2013,Q2,Australia,Semi,2636,107285.72,6,Standard,AWD,Blue
+2021,Q1,South America,Model 3,4274,76163.74,13,Long Range,AWD,Black
+2018,Q2,Europe,Model X,588,113455.42,56,Standard,RWD,Blue
+2015,Q3,North America,Cybertruck,651,82459.27,22,Performance,AWD,White
+2022,Q4,Australia,Model S,464,59229.8,37,Standard,AWD,Green
+2018,Q4,Europe,Semi,376,55276.53,23,Performance,RWD,Green
+2023,Q2,Europe,Semi,1989,64116.39,26,Standard,AWD,Red
+2021,Q1,South America,Semi,2361,108580.48,5,Standard,AWD,Green
+2022,Q4,North America,Model X,3775,102891.23,43,Standard,AWD,Red
+2020,Q2,Europe,Model S,3685,98810.78,18,Long Range,AWD,Silver
+2012,Q3,Europe,Model S,1179,98668.43,4,Performance,RWD,Red
+2018,Q1,Asia,Model S,1108,97129.39,56,Performance,AWD,Green
+2014,Q3,Europe,Model S,2198,63812.15,44,Standard,RWD,White
+2019,Q3,Asia,Model X,2289,118426.01,37,Standard,AWD,White
+2018,Q3,Asia,Cybertruck,1781,59088.45,53,Long Range,RWD,Blue
+2024,Q4,North America,Model Y,1193,61315.74,27,Standard,RWD,Red
+2015,Q1,North America,Model Y,1937,92748.21,40,Standard,RWD,Blue
+2021,Q3,North America,Semi,3125,117333.48,46,Performance,RWD,Black
+2020,Q4,Australia,Semi,2510,107047.05,25,Performance,AWD,Blue
+2024,Q2,Europe,Semi,3967,107043.02,51,Performance,AWD,Silver
+2023,Q4,Europe,Semi,1141,52878.33,55,Long Range,RWD,White
+2023,Q2,Europe,Semi,4432,108734.63,41,Standard,AWD,Black
+2016,Q4,North America,Cybertruck,4891,79648.06,56,Performance,AWD,Green
+2015,Q2,North America,Model S,80,95912.79,25,Long Range,AWD,Black
+2020,Q1,Australia,Model Y,2497,97059.63,1,Long Range,AWD,Black
+2019,Q3,North America,Model 3,4113,57971.13,43,Performance,RWD,Blue
+2022,Q4,Asia,Model Y,631,59031.58,28,Long Range,RWD,Silver
+2017,Q1,Asia,Cybertruck,1750,47148.41,26,Long Range,RWD,Black
+2013,Q1,Asia,Cybertruck,2411,82802.71,21,Standard,RWD,Red
+2017,Q4,Australia,Semi,4178,94167.08,4,Performance,AWD,Black
+2021,Q3,Australia,Model X,3880,98545.44,36,Performance,RWD,Blue
+2024,Q1,North America,Cybertruck,536,83784.06,9,Long Range,AWD,Blue
+2017,Q3,Australia,Model X,868,119251.83,11,Long Range,RWD,Blue
+2014,Q2,Asia,Model X,2180,40840.44,32,Performance,RWD,White
+2015,Q4,Europe,Model S,2493,103840.68,17,Standard,AWD,Silver
+2018,Q1,South America,Model Y,4935,76207.23,54,Performance,RWD,Black
+2024,Q4,Australia,Model X,4223,117763.03,0,Performance,RWD,Blue
+2024,Q1,Europe,Model S,2948,112464.54,38,Standard,RWD,Silver
+2019,Q3,South America,Model X,981,90786.01,4,Performance,RWD,Green
+2014,Q4,North America,Semi,3003,96418.58,24,Performance,RWD,Black
+2022,Q1,Asia,Model S,4388,113482.45,51,Standard,RWD,Silver
+2015,Q2,Australia,Semi,1233,53705.41,30,Standard,RWD,Silver
+2022,Q4,North America,Semi,4573,58848.28,29,Long Range,RWD,Green
+2015,Q4,South America,Model S,2939,84570.77,20,Long Range,AWD,Silver
+2012,Q2,North America,Semi,3973,68880.46,9,Standard,RWD,Green
+2022,Q1,South America,Model 3,267,90152.76,31,Standard,RWD,Blue
+2023,Q4,Asia,Cybertruck,3770,113312.22,15,Performance,RWD,Red
+2024,Q2,North America,Model X,2747,63922.41,2,Performance,RWD,Blue
+2013,Q1,Asia,Model S,2577,110459.93,60,Standard,AWD,Black
+2019,Q4,South America,Model S,1214,54730.26,19,Performance,RWD,White
+2017,Q4,Europe,Model Y,4195,91261.94,55,Standard,RWD,Silver
+2017,Q3,Asia,Semi,1390,119654.03,14,Standard,AWD,White
+2024,Q4,Australia,Semi,2135,68045.98,46,Standard,RWD,Green
+2014,Q1,South America,Semi,820,69381.61,35,Standard,RWD,Red
+2024,Q2,South America,Model Y,2414,91477.22,15,Standard,AWD,Black
+2018,Q4,Australia,Model S,62,46861.74,20,Performance,RWD,Black
+2018,Q4,Asia,Cybertruck,182,42971.92,55,Long Range,AWD,White
+2017,Q4,Asia,Model 3,3137,104152.27,7,Performance,RWD,Black
+2019,Q4,Asia,Model S,2496,86667.76,1,Standard,RWD,Red
+2015,Q1,Asia,Model Y,2025,116319.68,4,Long Range,RWD,White
+2019,Q3,Europe,Model S,1147,109362.13,0,Long Range,AWD,Silver
+2015,Q1,Asia,Model 3,4820,42166.16,5,Standard,RWD,Black
+2018,Q3,Europe,Model X,3770,106310.71,26,Performance,AWD,Black
+2020,Q4,Asia,Semi,2795,112346.06,1,Performance,RWD,Black
+2014,Q1,North America,Model Y,3526,110891.1,13,Performance,AWD,Black
+2022,Q1,North America,Model S,1751,56762.21,19,Standard,AWD,Silver
+2014,Q2,Asia,Model 3,4150,68976.86,49,Long Range,RWD,Blue
+2015,Q3,South America,Cybertruck,3003,50074.49,30,Standard,RWD,Blue
+2024,Q2,South America,Model S,3462,70401.57,6,Long Range,RWD,White
+2023,Q4,Europe,Semi,4773,81872.76,21,Performance,AWD,Black
+2018,Q2,South America,Model 3,2704,58073.54,60,Performance,RWD,Blue
+2024,Q1,Australia,Model S,2953,108137.75,43,Performance,AWD,Red
+2024,Q1,North America,Model X,4443,87151.29,52,Long Range,AWD,Silver
+2023,Q2,Australia,Semi,2479,64280.18,25,Standard,AWD,Silver
+2018,Q4,Asia,Cybertruck,3819,42516.65,26,Long Range,AWD,Blue
+2024,Q2,South America,Cybertruck,2279,97167.44,2,Standard,AWD,Black
+2023,Q3,North America,Semi,558,116176.14,55,Long Range,RWD,Silver
+2012,Q2,South America,Cybertruck,3467,107523.34,59,Standard,RWD,Silver
+2016,Q2,North America,Model 3,2665,51785.95,27,Standard,RWD,Silver
+2013,Q2,Europe,Semi,850,84552.18,19,Standard,AWD,White
+2019,Q1,South America,Model 3,3622,75497.13,32,Long Range,RWD,Blue
+2022,Q2,North America,Model X,2376,109543.18,4,Performance,AWD,Red
+2019,Q3,North America,Model S,1188,88804.71,18,Long Range,AWD,Green
+2012,Q3,North America,Cybertruck,2841,71778.3,22,Performance,RWD,Black
+2012,Q3,Australia,Model S,3952,36917.2,2,Standard,RWD,Green
+2018,Q1,Asia,Model S,4030,46523.93,9,Standard,RWD,Blue
+2019,Q3,Europe,Cybertruck,1627,65422.85,38,Performance,RWD,Red
+2024,Q3,Europe,Model X,3679,113849.87,10,Performance,AWD,Red
+2016,Q1,South America,Model X,2748,55619.71,4,Performance,RWD,Black
+2021,Q2,North America,Model Y,1868,99260.74,31,Performance,AWD,Green
+2017,Q3,South America,Model X,2871,112772.16,50,Long Range,RWD,Green
+2018,Q1,Australia,Model S,447,68023.12,26,Long Range,AWD,Black
+2020,Q1,Europe,Model X,1851,88976.55,32,Long Range,AWD,Blue
+2022,Q2,Europe,Semi,1203,111581.1,11,Standard,RWD,Silver
+2016,Q1,Australia,Model 3,4137,82863.47,24,Standard,AWD,White
+2020,Q2,South America,Model Y,1904,38917.66,1,Standard,RWD,Blue
+2024,Q2,North America,Model X,2022,85178.92,57,Long Range,RWD,Silver
+2017,Q1,Europe,Model 3,419,70528.88,42,Performance,AWD,Red
+2017,Q4,North America,Model Y,1247,50657.5,21,Long Range,RWD,Green
+2015,Q2,Europe,Model S,3204,90325.61,29,Long Range,AWD,White
+2013,Q4,Australia,Model Y,3496,95477.37,21,Standard,RWD,Black
+2021,Q1,Europe,Model 3,2064,40886.04,7,Long Range,RWD,Green
+2021,Q2,North America,Model 3,3151,104592.51,33,Performance,RWD,Green
+2017,Q2,South America,Cybertruck,4675,112168.43,9,Standard,AWD,Black
+2015,Q4,Australia,Model X,4720,41084.16,21,Standard,AWD,Red
+2015,Q3,North America,Model 3,4046,50561.69,17,Long Range,RWD,Black
+2024,Q3,Asia,Model S,227,61080.3,40,Standard,RWD,Red
+2014,Q2,Asia,Semi,228,87180.56,37,Standard,RWD,Green
+2023,Q1,Asia,Model X,4086,96458.36,29,Standard,RWD,Red
+2024,Q2,Europe,Model Y,1328,93940.32,59,Performance,RWD,White
+2020,Q4,Europe,Model S,974,40725.91,8,Standard,AWD,Red
+2014,Q4,Australia,Semi,752,94271.51,24,Standard,RWD,Green
+2014,Q3,South America,Model X,816,112188.23,59,Standard,RWD,Red
+2020,Q1,Asia,Model X,608,40206.35,3,Long Range,AWD,Red
+2017,Q1,Europe,Model S,148,43764.29,25,Performance,RWD,Blue
+2021,Q2,Australia,Semi,892,72054.17,6,Long Range,RWD,Blue
+2017,Q1,Asia,Cybertruck,1748,66868.54,16,Long Range,AWD,Silver
+2024,Q4,Asia,Cybertruck,404,40655.55,21,Performance,RWD,Blue
+2018,Q4,South America,Cybertruck,1868,56678.93,4,Performance,RWD,Green
+2021,Q4,Europe,Semi,115,89307.23,48,Standard,AWD,Blue
+2021,Q1,North America,Model Y,729,47446.28,3,Standard,RWD,Black
+2018,Q1,South America,Cybertruck,3939,44208.6,23,Performance,RWD,White
+2016,Q2,Australia,Semi,3036,51683.52,29,Performance,AWD,Green
+2017,Q4,South America,Model S,726,112169.2,21,Standard,AWD,Red
+2017,Q4,South America,Model 3,1857,62084.78,32,Performance,AWD,White
+2022,Q4,Asia,Semi,2016,104046.61,1,Standard,AWD,Blue
+2014,Q3,North America,Model S,331,93582.52,47,Performance,AWD,Red
+2013,Q4,Europe,Semi,517,109724.2,44,Performance,AWD,Black
+2013,Q4,South America,Model S,79,103811.09,19,Performance,AWD,Black
+2015,Q4,Australia,Model Y,775,55607.53,26,Long Range,AWD,Silver
+2024,Q4,North America,Model X,1854,41260.26,53,Standard,AWD,White
+2013,Q3,Europe,Semi,3508,86544.35,30,Long Range,RWD,Green
+2018,Q2,Australia,Cybertruck,4358,112014.43,42,Long Range,AWD,Red
+2012,Q2,Australia,Semi,3302,42278.15,25,Long Range,AWD,Black
+2019,Q4,Australia,Model 3,3603,62430.87,38,Long Range,RWD,White
+2019,Q2,South America,Model S,1189,85169.66,60,Long Range,RWD,White
+2023,Q2,South America,Model Y,4647,105998.01,31,Long Range,RWD,Red
+2022,Q1,Australia,Model X,1450,83587.76,1,Long Range,RWD,Black
+2016,Q2,Australia,Semi,3519,46805.89,44,Performance,RWD,White
+2018,Q4,Asia,Model S,3166,81133.76,31,Standard,RWD,Green
+2020,Q2,Asia,Cybertruck,1674,101856.66,35,Performance,AWD,Green
+2024,Q4,Australia,Model X,4346,75034.96,59,Performance,RWD,Black
+2016,Q3,North America,Model X,311,85649.86,34,Long Range,RWD,Blue
+2021,Q3,Asia,Semi,2879,91691.12,43,Standard,AWD,Silver
+2020,Q1,Asia,Model 3,2863,54292.95,4,Standard,RWD,Silver
+2012,Q3,Europe,Model Y,2982,50695.3,29,Long Range,AWD,Silver
+2017,Q3,Asia,Model S,2176,88713.26,27,Standard,AWD,Silver
+2020,Q1,Australia,Model Y,1686,56033.31,16,Long Range,AWD,Black
+2024,Q4,Australia,Model 3,165,85078.21,59,Standard,RWD,Silver
+2021,Q2,Europe,Semi,3480,72460.62,43,Standard,AWD,Black
+2015,Q4,Asia,Model X,428,108016.79,9,Performance,AWD,Green
+2016,Q3,Europe,Model S,4320,107321.36,12,Performance,RWD,Black
+2022,Q1,Australia,Cybertruck,1086,68135.28,50,Long Range,AWD,Blue
+2013,Q3,Australia,Model 3,3822,71987.71,30,Standard,AWD,White
+2024,Q2,North America,Model 3,3140,98104.11,33,Standard,RWD,Silver
+2024,Q1,Asia,Model S,1735,58217.11,43,Performance,RWD,Green
+2019,Q2,North America,Model S,2618,43510.94,15,Long Range,RWD,Red
+2018,Q1,Australia,Model 3,3452,106493.17,15,Performance,AWD,Green
+2023,Q1,North America,Model Y,122,73823.92,27,Standard,RWD,Silver
+2021,Q1,South America,Model X,2539,65753.6,59,Long Range,RWD,Silver
+2023,Q4,Europe,Model Y,2020,84695.62,25,Standard,AWD,Green
+2019,Q3,North America,Model 3,1195,53480.31,41,Performance,RWD,Green
+2018,Q1,Asia,Model 3,887,66840.43,18,Performance,AWD,Red
+2020,Q4,North America,Model 3,3141,81852.55,49,Standard,AWD,Red
+2023,Q1,Europe,Model Y,522,67580.65,38,Standard,RWD,Red
+2015,Q1,North America,Cybertruck,985,72939.75,37,Long Range,AWD,Blue
+2013,Q1,Asia,Cybertruck,3402,102194.83,26,Long Range,AWD,Silver
+2013,Q2,South America,Model Y,3052,105788.26,28,Standard,RWD,Red
+2024,Q2,North America,Model Y,679,71211.55,31,Long Range,AWD,Green
+2016,Q1,Europe,Model Y,1388,86117.01,47,Long Range,RWD,Silver
+2017,Q1,Australia,Model X,621,105858.28,44,Performance,AWD,White
+2018,Q2,South America,Cybertruck,2189,65430.64,6,Standard,RWD,White
+2022,Q4,Asia,Model X,4795,80762.24,8,Performance,RWD,Green
+2020,Q1,North America,Model 3,1817,116854.24,30,Standard,RWD,Blue
+2023,Q2,North America,Model Y,2062,50710.34,15,Long Range,RWD,White
+2015,Q3,North America,Semi,4972,61150.28,26,Long Range,AWD,Red
+2023,Q1,Europe,Model Y,368,62193.11,53,Performance,AWD,White
+2014,Q2,North America,Semi,1479,55558.26,24,Performance,RWD,Blue
+2020,Q2,South America,Semi,183,106040.85,50,Standard,RWD,Black
+2020,Q2,Europe,Model X,1759,75174.39,6,Performance,RWD,Blue
+2017,Q3,North America,Model Y,2253,52357.21,52,Standard,RWD,Black
+2018,Q3,Asia,Model 3,2693,86079.88,53,Long Range,RWD,White
+2016,Q3,South America,Semi,3342,91691.77,33,Long Range,RWD,Blue
+2024,Q2,South America,Model X,3720,43723.47,25,Long Range,RWD,Blue
+2016,Q2,Asia,Cybertruck,3613,83916.11,20,Standard,RWD,White
+2019,Q2,Asia,Model Y,1068,60556.33,2,Standard,RWD,Red
+2022,Q3,South America,Model 3,3385,108053.37,55,Standard,RWD,Black
+2024,Q3,South America,Model X,1257,112056.85,57,Performance,RWD,Blue
+2022,Q3,Australia,Cybertruck,4946,67089.2,47,Performance,AWD,Black
+2016,Q3,Asia,Model Y,3831,110322.07,11,Performance,RWD,Black
+2016,Q3,Europe,Cybertruck,2951,107117.54,28,Performance,RWD,White
+2019,Q3,Europe,Model X,773,41462.66,48,Long Range,AWD,Green
+2023,Q3,Asia,Model 3,4353,118571.23,51,Long Range,RWD,White
+2013,Q1,North America,Semi,2061,104269.28,37,Performance,RWD,Blue
+2016,Q4,Australia,Model S,2605,97064.13,30,Long Range,RWD,Red
+2014,Q1,Asia,Semi,1140,66353.11,21,Performance,RWD,Red
+2017,Q3,Australia,Semi,2032,87967.05,27,Standard,AWD,Red
+2013,Q3,Australia,Semi,4148,63864.66,16,Long Range,RWD,White
+2023,Q4,Australia,Model X,4120,75720.61,6,Standard,AWD,Black
+2024,Q3,Europe,Semi,1024,76561.55,38,Long Range,RWD,Silver
+2019,Q3,South America,Model 3,1812,80733.14,60,Standard,AWD,White
+2014,Q3,Europe,Model S,3080,83809.83,47,Standard,AWD,Silver
+2017,Q3,Europe,Model S,564,62261.86,2,Standard,AWD,White
+2019,Q4,Australia,Model 3,2552,62670.59,56,Long Range,AWD,Silver
+2013,Q1,Australia,Model S,3182,118487.2,24,Performance,AWD,Red
+2014,Q1,Australia,Model X,3344,49492.43,50,Long Range,RWD,Black
+2022,Q3,Australia,Model 3,1136,81857.8,29,Standard,AWD,Black
+2017,Q1,Asia,Model X,1575,111582.24,51,Standard,RWD,Green
+2016,Q1,Australia,Model X,2511,110344.76,16,Long Range,RWD,Green
+2017,Q4,Europe,Model 3,4267,82503.44,33,Performance,RWD,Green
+2012,Q1,North America,Semi,1635,82261.07,0,Long Range,RWD,Silver
+2020,Q3,Europe,Cybertruck,1430,115812.77,36,Long Range,RWD,Red
+2023,Q4,Australia,Model 3,511,104706.24,21,Performance,AWD,Black
+2014,Q2,South America,Model 3,4445,111590.96,48,Standard,AWD,Black
+2021,Q4,Asia,Model X,4569,53598.92,17,Performance,RWD,Silver
+2020,Q4,Asia,Cybertruck,3796,117056.28,5,Performance,AWD,Green
+2016,Q4,Asia,Model X,639,100237.77,49,Performance,RWD,White
+2012,Q1,Asia,Cybertruck,3944,90437.65,9,Standard,RWD,Black
+2022,Q1,North America,Semi,4196,117520.41,17,Standard,AWD,Black
+2018,Q1,Asia,Model 3,4848,48110.49,25,Standard,RWD,Blue
+2021,Q1,North America,Cybertruck,1304,95400.77,52,Long Range,RWD,Blue
+2017,Q3,South America,Model 3,781,112705.8,24,Standard,RWD,White
+2017,Q1,South America,Semi,4715,114743.46,38,Performance,AWD,Blue
+2020,Q2,South America,Semi,2053,78974.69,41,Long Range,RWD,White
+2016,Q2,Australia,Cybertruck,3906,90865.63,6,Long Range,RWD,Silver
+2013,Q1,North America,Model S,1058,115728.46,41,Long Range,RWD,Blue
+2018,Q3,North America,Model 3,2856,57980.9,46,Performance,RWD,White
+2024,Q3,Australia,Semi,4947,60620.01,31,Long Range,AWD,Green
+2016,Q4,North America,Model X,199,74526.19,16,Long Range,RWD,Green
+2019,Q3,Asia,Semi,3346,38151.77,29,Standard,AWD,Silver
+2019,Q4,South America,Model 3,4383,61571.09,43,Standard,RWD,Green
+2022,Q3,South America,Cybertruck,3388,38865.41,3,Long Range,AWD,Black
+2016,Q2,Australia,Semi,2587,117924.36,14,Long Range,RWD,Green
+2023,Q2,Asia,Semi,3629,106695.88,35,Standard,RWD,Red
+2018,Q1,North America,Model 3,1102,116337.7,50,Standard,AWD,White
+2017,Q4,Asia,Semi,2285,67091.1,23,Performance,AWD,Black
+2012,Q3,Europe,Model S,1738,81972.43,41,Performance,AWD,Green
+2013,Q3,South America,Model 3,1674,55649.4,17,Standard,AWD,Red
+2018,Q4,Australia,Model S,4502,55165.26,29,Long Range,AWD,Green
+2020,Q1,Asia,Model S,4154,68144.13,36,Standard,AWD,Black
+2023,Q2,South America,Semi,217,67886.81,58,Long Range,AWD,Silver
+2014,Q4,Australia,Model S,3837,58568.12,7,Long Range,AWD,Red
+2020,Q4,Asia,Model X,4263,35889.49,55,Performance,AWD,Black
+2016,Q4,South America,Model 3,2877,45380.01,56,Standard,AWD,White
+2021,Q1,Europe,Model X,4988,73572.64,31,Long Range,AWD,Blue
+2024,Q2,South America,Cybertruck,2677,52750.88,28,Long Range,RWD,Red
+2021,Q4,Europe,Model S,3920,99625.86,2,Standard,AWD,Black
+2012,Q3,Australia,Semi,1829,106714.27,34,Standard,RWD,Blue
+2021,Q4,Australia,Model X,3732,65774.87,43,Performance,RWD,Blue
+2015,Q1,South America,Cybertruck,2162,116314.25,24,Performance,RWD,Green
+2019,Q4,Australia,Cybertruck,3118,74812.93,48,Performance,AWD,Silver
+2020,Q4,Europe,Model 3,316,69583.66,57,Performance,AWD,White
+2012,Q4,South America,Model X,1906,92804.33,0,Long Range,RWD,Green
+2016,Q3,South America,Cybertruck,2805,59417.81,30,Long Range,AWD,Red
+2019,Q4,Asia,Model 3,3041,63306.81,1,Long Range,RWD,Silver
+2013,Q3,South America,Model Y,3447,113412.81,60,Performance,AWD,Silver
+2013,Q4,South America,Model Y,2587,60535.45,27,Standard,AWD,Black
+2022,Q2,North America,Model S,4056,65672.45,23,Long Range,AWD,Blue
+2017,Q2,Australia,Semi,4728,73021.9,17,Standard,AWD,Black
+2018,Q1,Australia,Model S,770,108476.43,21,Long Range,AWD,Black
+2019,Q4,Europe,Model S,1107,64783.79,36,Standard,AWD,Red
+2017,Q2,South America,Model S,2865,80519.73,60,Performance,RWD,White
+2013,Q3,Europe,Model X,4648,103909.73,52,Standard,RWD,Black
+2019,Q4,Europe,Model X,2483,51257.89,19,Standard,RWD,White
+2012,Q2,South America,Cybertruck,434,99846.43,14,Long Range,AWD,Green
+2019,Q4,Europe,Model X,1424,69468.99,44,Performance,AWD,Black
+2023,Q1,Australia,Model 3,1543,68660.17,58,Standard,RWD,Blue
+2024,Q3,Europe,Model 3,4762,80789.84,15,Performance,RWD,Silver
+2019,Q2,Australia,Model X,136,38630.02,12,Standard,AWD,Silver
+2023,Q3,Asia,Model X,480,95723.88,18,Standard,AWD,Red
+2021,Q4,South America,Model S,2320,62154.5,13,Performance,AWD,Green
+2015,Q2,North America,Model 3,1934,70963.55,6,Standard,AWD,White
+2014,Q2,Europe,Model X,835,104602.55,31,Performance,AWD,White
+2014,Q3,Asia,Model S,1128,62263.06,32,Standard,RWD,Silver
+2021,Q4,North America,Model X,4123,107957.33,20,Long Range,RWD,Red
+2022,Q3,Australia,Model 3,2638,46170.98,55,Standard,RWD,Blue
+2018,Q1,South America,Model S,4906,38225.07,2,Standard,RWD,Blue
+2020,Q4,South America,Semi,2936,42530.57,52,Performance,RWD,Blue
+2014,Q4,Europe,Model S,4588,44542.09,42,Long Range,RWD,Black
+2021,Q3,North America,Semi,2141,64467.75,18,Performance,AWD,Blue
+2013,Q1,Australia,Model X,2952,71644.12,22,Performance,RWD,Blue
+2017,Q2,Europe,Model Y,3956,75979.43,15,Standard,AWD,Red
+2016,Q1,Europe,Model X,2426,63646.3,1,Performance,AWD,White
+2013,Q4,Europe,Model S,1706,102858.39,49,Long Range,AWD,Silver
+2019,Q4,Asia,Model X,3435,99140.56,9,Performance,RWD,Green
+2015,Q3,North America,Model X,3181,98202.44,28,Standard,AWD,White
+2023,Q1,Europe,Model 3,4794,45802.63,33,Performance,RWD,White
+2016,Q3,Asia,Model 3,171,47303.55,51,Long Range,AWD,White
+2013,Q1,Europe,Model Y,3168,88660.37,51,Standard,RWD,Red
+2021,Q2,Asia,Model Y,4959,47156.24,19,Performance,RWD,Blue
+2020,Q1,Asia,Model S,2850,113338.54,44,Performance,AWD,Black
+2018,Q4,North America,Model X,4173,73995.56,13,Standard,AWD,Black
+2012,Q4,Asia,Model S,1872,53257.54,59,Long Range,RWD,White
+2014,Q4,Asia,Model S,85,105843.73,1,Standard,AWD,Blue
+2021,Q4,Asia,Model X,3384,101878.46,10,Long Range,AWD,Blue
+2021,Q3,South America,Model X,4283,40893.59,0,Performance,AWD,Blue
+2015,Q2,North America,Model Y,4373,43777.39,59,Standard,RWD,Red
+2021,Q4,Australia,Model X,1913,54750.78,42,Performance,RWD,Green
+2024,Q1,Asia,Cybertruck,4847,84606.6,24,Performance,RWD,White
+2014,Q3,South America,Model Y,1297,113973.03,12,Performance,RWD,Silver
+2016,Q2,North America,Model Y,3249,72427.07,2,Long Range,AWD,White
+2021,Q2,Asia,Model X,3270,60692.07,13,Performance,RWD,Red
+2023,Q4,Australia,Semi,4827,117014.69,23,Long Range,AWD,Silver
+2018,Q1,Australia,Model S,4845,74072.21,35,Long Range,RWD,Green
+2021,Q1,South America,Model Y,3966,45867.82,43,Standard,AWD,Red
+2020,Q2,Europe,Model S,3414,53132.45,5,Performance,RWD,White
+2020,Q2,Asia,Semi,4891,40620.0,54,Long Range,RWD,White
+2019,Q1,Europe,Model Y,4985,55433.98,37,Long Range,RWD,Black
+2013,Q1,Asia,Model 3,1858,38938.23,16,Standard,AWD,White
+2017,Q1,Europe,Model S,2232,116135.02,15,Long Range,AWD,Red
+2017,Q3,South America,Cybertruck,4701,115867.97,29,Standard,RWD,Silver
+2022,Q2,Australia,Model Y,147,53565.53,33,Long Range,AWD,White
+2012,Q2,South America,Model 3,2120,119509.23,35,Standard,RWD,Black
+2017,Q2,Europe,Model S,3916,46367.42,4,Performance,RWD,Red
+2023,Q3,Asia,Model X,798,93176.65,1,Standard,RWD,Red
+2014,Q2,Europe,Model X,363,48050.96,41,Performance,AWD,Red
+2020,Q1,South America,Model S,3454,95304.46,14,Standard,RWD,Blue
+2013,Q4,Australia,Model X,4803,74466.16,1,Performance,RWD,White
+2017,Q1,Asia,Model S,3391,87298.28,45,Long Range,AWD,Green
+2019,Q3,Europe,Model X,2270,97914.45,44,Performance,RWD,Blue
+2014,Q4,Australia,Semi,4500,81933.88,11,Long Range,AWD,Black
+2016,Q2,Europe,Cybertruck,1853,66277.98,44,Long Range,RWD,Green
+2015,Q4,South America,Cybertruck,1880,36557.32,19,Long Range,RWD,Blue
+2013,Q3,Europe,Model 3,1002,101009.95,12,Long Range,RWD,Red
+2013,Q1,Europe,Semi,4737,86365.33,40,Long Range,AWD,Blue
+2017,Q4,South America,Semi,909,81418.35,49,Long Range,AWD,Silver
+2023,Q3,Asia,Model X,3839,93139.24,41,Performance,RWD,White
+2021,Q1,Australia,Model S,2172,56206.28,37,Performance,AWD,Silver
+2022,Q4,Asia,Model Y,4573,41123.69,30,Performance,RWD,Black
+2015,Q3,North America,Semi,71,76814.01,34,Standard,RWD,Silver
+2022,Q1,Europe,Model 3,762,100023.24,8,Performance,RWD,White
+2014,Q2,Asia,Model Y,4041,41361.11,27,Performance,RWD,Red
+2016,Q3,Asia,Cybertruck,2295,102942.26,51,Long Range,AWD,Black
+2014,Q2,North America,Model X,3213,60163.37,26,Performance,RWD,Black
+2020,Q3,Europe,Model 3,1171,76493.48,54,Standard,AWD,White
+2012,Q4,Asia,Model X,241,69034.94,29,Performance,AWD,Blue
+2019,Q4,South America,Model Y,1390,112550.98,24,Standard,AWD,Silver
+2014,Q2,Australia,Model S,505,111305.82,8,Standard,AWD,Green
+2020,Q2,North America,Model Y,1635,47811.7,44,Performance,AWD,Red
+2023,Q1,Australia,Model X,3654,48228.68,40,Long Range,RWD,Black
+2018,Q3,Australia,Model Y,3803,100912.07,3,Long Range,AWD,Black
+2023,Q1,Australia,Model X,1029,72191.48,0,Long Range,AWD,Blue
+2017,Q1,Europe,Model Y,4822,79514.22,57,Standard,AWD,White
+2020,Q1,South America,Model Y,72,114131.77,7,Long Range,AWD,Green
+2016,Q1,Asia,Model 3,1892,71095.15,35,Performance,RWD,Green
+2012,Q1,Australia,Model S,919,77190.78,47,Long Range,AWD,Green
+2019,Q3,South America,Cybertruck,3927,57867.58,29,Performance,RWD,Green
+2016,Q2,North America,Model X,733,69379.4,7,Long Range,AWD,Blue
+2024,Q4,Australia,Cybertruck,993,98201.1,57,Long Range,AWD,Silver
+2012,Q1,Europe,Model X,4173,69065.26,18,Performance,AWD,Green
+2013,Q1,North America,Semi,514,112438.74,33,Long Range,AWD,Silver
+2022,Q4,Europe,Semi,2302,93920.3,54,Performance,AWD,Red
+2019,Q1,South America,Model 3,576,107578.54,51,Long Range,RWD,Green
+2019,Q2,North America,Model X,3570,41674.43,11,Long Range,RWD,Silver
+2017,Q3,Australia,Model X,617,55026.01,0,Standard,AWD,Green
+2015,Q3,Australia,Model 3,4276,86238.9,7,Standard,RWD,Silver
+2015,Q1,Australia,Model S,3481,63499.47,16,Performance,AWD,White
+2024,Q4,North America,Cybertruck,3440,89037.88,10,Long Range,RWD,Blue
+2024,Q1,Australia,Model Y,685,62110.75,56,Long Range,RWD,Silver
+2014,Q1,Europe,Semi,4336,94915.9,24,Long Range,AWD,White
+2015,Q1,Europe,Semi,1422,104231.76,34,Performance,RWD,Red
+2014,Q4,South America,Semi,2818,50822.97,9,Performance,RWD,Green
+2020,Q2,Europe,Model X,2892,104127.6,48,Performance,RWD,Blue
+2021,Q4,Europe,Model S,1080,100955.68,14,Performance,AWD,Black
+2021,Q2,South America,Model Y,3803,90185.32,18,Standard,AWD,Blue
+2018,Q1,Asia,Model X,4268,92052.27,57,Long Range,RWD,Blue
+2022,Q4,Europe,Model 3,2194,114901.43,37,Performance,RWD,Black
+2023,Q1,Europe,Semi,4183,77397.92,55,Long Range,AWD,Silver
+2024,Q2,Asia,Model Y,3805,36799.95,40,Performance,RWD,Blue
+2017,Q3,South America,Cybertruck,3088,117982.32,1,Long Range,RWD,Green
+2023,Q3,Europe,Semi,3056,47190.04,59,Standard,RWD,Green
+2016,Q3,Europe,Model S,1725,38430.62,51,Performance,AWD,Blue
+2024,Q2,Asia,Model X,128,97626.69,11,Performance,AWD,Blue
+2019,Q3,South America,Cybertruck,550,95129.17,18,Long Range,RWD,Red
+2015,Q3,South America,Semi,3055,75204.28,12,Standard,RWD,Green
+2023,Q2,South America,Model S,1883,38351.85,18,Performance,RWD,Silver
+2021,Q1,South America,Model 3,624,92009.6,12,Long Range,RWD,Silver
+2021,Q1,South America,Model S,4196,102420.6,30,Long Range,AWD,White
+2019,Q4,Asia,Model S,4112,73571.47,48,Performance,AWD,White
+2022,Q1,Asia,Semi,3650,118007.07,1,Standard,RWD,Black
+2012,Q1,Australia,Model S,2657,79447.77,0,Standard,RWD,Red
+2020,Q2,South America,Semi,1451,55689.5,21,Performance,AWD,Silver
+2013,Q4,North America,Model 3,2596,79147.32,10,Standard,RWD,Blue
+2020,Q3,Australia,Model Y,2290,78967.16,47,Long Range,RWD,Red
+2017,Q3,North America,Cybertruck,897,44427.19,49,Long Range,RWD,Red
+2015,Q4,North America,Model S,4280,86643.6,25,Performance,AWD,White
+2015,Q4,Australia,Model S,2236,103591.16,12,Long Range,RWD,Green
+2014,Q2,Australia,Model 3,1856,117337.3,24,Performance,RWD,White
+2017,Q4,North America,Cybertruck,1636,56984.21,49,Performance,AWD,Blue
+2023,Q4,Australia,Model S,177,93737.33,11,Long Range,RWD,Green
+2023,Q4,Asia,Model Y,1118,75345.31,10,Performance,AWD,Red
+2021,Q2,Europe,Model X,1012,104369.75,45,Standard,AWD,Black
+2023,Q3,Asia,Model Y,3368,115923.3,47,Performance,AWD,Red
+2020,Q2,Europe,Model Y,1434,92332.75,51,Long Range,RWD,Blue
+2013,Q3,South America,Cybertruck,1114,110100.17,46,Standard,RWD,Red
+2018,Q1,North America,Cybertruck,4185,55494.98,48,Performance,RWD,White
+2019,Q1,North America,Model Y,4640,82643.32,7,Performance,AWD,White
+2023,Q1,Europe,Cybertruck,3575,65649.79,46,Standard,AWD,Silver
+2012,Q4,North America,Model 3,4042,79215.91,3,Performance,RWD,Green
+2018,Q4,Asia,Cybertruck,3656,108544.71,59,Performance,AWD,Silver
+2024,Q2,South America,Model S,3709,119824.53,17,Long Range,RWD,Silver
+2015,Q2,Australia,Semi,2144,64351.63,60,Long Range,RWD,Black
+2014,Q3,Australia,Model Y,3970,66288.16,8,Long Range,AWD,Blue
+2016,Q2,Europe,Cybertruck,2957,94257.92,10,Performance,AWD,Blue
+2024,Q1,North America,Cybertruck,4834,61536.5,41,Standard,RWD,Red
+2014,Q3,Australia,Cybertruck,153,57897.49,14,Long Range,AWD,Silver
+2017,Q3,Asia,Model X,1230,43148.02,31,Performance,AWD,Blue
+2014,Q2,South America,Model S,1860,86274.57,39,Performance,RWD,Green
+2017,Q3,North America,Semi,294,45860.18,0,Long Range,RWD,Blue
+2020,Q4,Europe,Model 3,4633,84603.88,46,Performance,AWD,Green
+2019,Q3,Europe,Cybertruck,3446,54367.43,38,Long Range,RWD,Silver
+2012,Q2,North America,Model S,1249,97585.61,60,Long Range,AWD,Blue
+2015,Q1,Australia,Semi,3256,35432.51,6,Performance,AWD,Red
+2020,Q2,Australia,Cybertruck,2977,87193.21,40,Long Range,AWD,Blue
+2024,Q4,Europe,Semi,2277,70569.69,36,Long Range,RWD,Blue
+2015,Q4,South America,Model X,3731,72616.12,37,Performance,AWD,Blue
+2020,Q4,Asia,Model Y,1404,57543.51,14,Long Range,AWD,White
+2015,Q3,Asia,Model Y,2431,67449.67,0,Long Range,AWD,Black
+2023,Q4,Asia,Model X,4565,102035.37,45,Performance,AWD,Green
+2023,Q4,North America,Model S,1880,78828.12,20,Performance,AWD,Red
+2017,Q1,Australia,Semi,792,85807.68,38,Performance,AWD,Black
+2022,Q4,North America,Model Y,113,80582.78,41,Long Range,AWD,Silver
+2014,Q1,Europe,Model X,4772,65006.22,8,Standard,RWD,Red
+2018,Q1,North America,Semi,1535,111934.81,50,Performance,AWD,Green
+2022,Q1,South America,Model S,1044,91714.16,8,Performance,AWD,Green
+2024,Q3,Asia,Cybertruck,3576,82172.58,44,Performance,AWD,Red
+2024,Q4,North America,Cybertruck,1053,69420.6,17,Standard,AWD,White
+2021,Q3,North America,Model Y,144,85202.92,51,Performance,RWD,Silver
+2021,Q3,North America,Model X,1222,91538.22,42,Standard,RWD,Silver
+2024,Q3,Europe,Model S,834,68213.42,54,Long Range,RWD,Black
+2013,Q4,Australia,Model 3,4474,68916.49,0,Standard,RWD,Silver
+2022,Q3,North America,Model 3,565,111231.91,52,Long Range,AWD,Black
+2021,Q3,South America,Model Y,562,73472.38,6,Long Range,AWD,White
+2021,Q2,Asia,Semi,1273,55587.03,8,Performance,AWD,Red
+2020,Q2,Asia,Semi,1662,92877.68,40,Long Range,RWD,Silver
+2022,Q1,South America,Model S,176,116609.7,51,Performance,RWD,Black
+2018,Q2,Asia,Cybertruck,4331,115779.77,9,Standard,RWD,Green
+2017,Q1,Europe,Model X,2805,66069.49,35,Performance,AWD,Silver
+2023,Q4,North America,Semi,1109,39727.32,30,Long Range,AWD,Red
+2016,Q1,Asia,Model X,1851,35322.38,52,Standard,AWD,Blue
+2021,Q4,North America,Model S,3018,54276.44,52,Standard,RWD,Silver
+2023,Q3,South America,Semi,3436,88286.41,46,Performance,AWD,Blue
+2015,Q2,Australia,Model X,4828,108736.26,60,Standard,AWD,Red
+2023,Q2,Australia,Cybertruck,3845,61320.59,30,Performance,RWD,White
+2013,Q2,South America,Model 3,1040,84387.42,59,Standard,RWD,Silver
+2021,Q4,South America,Model 3,350,111511.39,25,Performance,RWD,Red
+2024,Q4,Asia,Model S,1311,117184.08,11,Standard,AWD,Blue
+2018,Q3,South America,Model X,3010,97739.61,52,Performance,RWD,Silver
+2018,Q4,Australia,Model Y,3049,83276.26,23,Performance,RWD,Red
+2019,Q2,Europe,Model 3,156,92764.03,31,Long Range,AWD,White
+2021,Q2,North America,Model X,4842,86315.25,5,Standard,RWD,Red
+2019,Q4,Australia,Semi,1943,67903.88,11,Standard,RWD,Red
+2016,Q3,South America,Model Y,898,91488.71,48,Performance,RWD,White
+2019,Q2,Europe,Semi,3439,35391.2,37,Long Range,RWD,Blue
+2019,Q3,Europe,Semi,1643,119393.05,26,Long Range,RWD,Blue
+2021,Q3,South America,Semi,2221,117657.99,47,Standard,RWD,White
+2021,Q1,South America,Semi,2285,92734.22,47,Performance,RWD,White
+2023,Q3,Australia,Cybertruck,1594,50855.02,38,Standard,AWD,Blue
+2012,Q4,Europe,Model 3,2159,106266.64,20,Standard,AWD,Green
+2024,Q4,Australia,Semi,355,56049.4,54,Standard,RWD,Black
+2020,Q1,South America,Model X,991,68297.91,33,Long Range,RWD,Blue
+2019,Q2,Asia,Model S,2867,91837.92,49,Performance,AWD,Blue
+2013,Q2,South America,Model 3,2009,110058.93,25,Standard,AWD,Silver
+2024,Q1,Australia,Cybertruck,591,99472.04,40,Long Range,RWD,Red
+2012,Q2,Asia,Cybertruck,2927,74307.41,27,Long Range,RWD,Green
+2015,Q4,Asia,Model 3,727,71381.92,47,Performance,RWD,Green
+2017,Q4,North America,Semi,2853,48133.78,39,Performance,AWD,Red
+2018,Q3,Asia,Model S,2055,37494.89,38,Performance,AWD,White
+2017,Q1,North America,Model X,1098,52040.62,42,Performance,AWD,Green
+2017,Q3,South America,Model X,3722,53488.73,33,Long Range,RWD,Blue
+2014,Q4,Europe,Semi,1588,99998.54,55,Standard,RWD,White
+2017,Q1,Europe,Model S,4254,45534.35,27,Performance,RWD,White
+2016,Q3,Australia,Semi,2429,38491.04,58,Long Range,AWD,Blue
+2019,Q3,Asia,Model Y,3752,88344.76,59,Long Range,RWD,White
+2021,Q1,North America,Model Y,558,95409.06,55,Long Range,RWD,Silver
+2019,Q1,Europe,Model X,3032,84820.49,21,Standard,AWD,Blue
+2016,Q3,North America,Semi,1704,58485.93,31,Performance,AWD,Red
+2020,Q2,Europe,Model X,4012,94445.22,55,Long Range,RWD,Silver
+2017,Q4,South America,Model X,1349,42946.63,45,Performance,RWD,Silver
+2015,Q1,North America,Model S,3076,106503.62,11,Standard,AWD,Blue
+2015,Q4,South America,Model 3,564,82565.8,39,Standard,RWD,White
+2014,Q3,Europe,Semi,3365,71972.01,30,Long Range,AWD,Green
+2013,Q4,Australia,Model X,2283,86797.63,10,Long Range,RWD,Silver
+2016,Q1,Europe,Semi,3153,102340.29,37,Standard,RWD,White
+2022,Q2,Asia,Model Y,4639,76704.85,11,Standard,AWD,Blue
+2019,Q2,North America,Model X,2750,62867.93,24,Performance,RWD,Green
+2018,Q4,Australia,Model X,2142,114954.33,16,Standard,RWD,Black
+2020,Q4,Australia,Model X,3784,95805.5,55,Long Range,AWD,Red
+2012,Q1,Asia,Model 3,1570,105801.23,45,Performance,RWD,Blue
+2024,Q1,Australia,Model S,362,65908.58,8,Performance,AWD,Silver
+2021,Q4,North America,Model S,2425,53323.35,57,Performance,AWD,Red
+2014,Q1,Australia,Cybertruck,4864,73740.82,21,Standard,RWD,Red
+2017,Q4,North America,Model 3,1865,52105.94,5,Long Range,RWD,White
+2023,Q1,Europe,Model Y,2622,44582.44,0,Long Range,RWD,Silver
+2015,Q3,Europe,Cybertruck,1931,99620.46,58,Standard,AWD,Green
+2020,Q2,North America,Model 3,2273,50014.19,43,Long Range,RWD,Green
+2023,Q3,South America,Cybertruck,318,101219.92,6,Standard,AWD,Black
+2012,Q1,South America,Cybertruck,2358,45159.03,49,Long Range,AWD,Blue
+2022,Q2,Europe,Semi,4681,98312.25,5,Long Range,RWD,Blue
+2022,Q3,Asia,Cybertruck,737,100828.42,38,Performance,AWD,Black
+2016,Q3,Europe,Semi,2786,83529.38,59,Long Range,RWD,Red
+2023,Q2,Australia,Model S,4809,91239.23,10,Long Range,AWD,Black
+2012,Q1,South America,Model X,4733,35296.49,35,Standard,RWD,Red
+2022,Q4,Europe,Semi,3209,78054.24,56,Standard,AWD,Silver
+2023,Q1,South America,Model 3,1273,38138.1,55,Standard,AWD,White
+2023,Q3,South America,Model Y,3923,51076.62,34,Standard,AWD,Green
+2022,Q3,Europe,Cybertruck,1976,66691.72,38,Performance,RWD,Red
+2013,Q4,South America,Cybertruck,1599,52919.6,15,Performance,AWD,Black
+2014,Q4,Europe,Model S,1162,85848.95,17,Performance,RWD,White
+2015,Q1,Australia,Semi,3819,78408.07,21,Standard,AWD,Silver
+2014,Q3,Europe,Model X,2665,52543.65,15,Performance,AWD,Red
+2017,Q4,Asia,Model Y,1577,109975.14,16,Standard,AWD,Silver
+2016,Q3,North America,Model S,602,36329.53,9,Long Range,RWD,White
+2021,Q2,Asia,Model Y,2679,52861.66,19,Performance,AWD,Red
+2014,Q3,Asia,Model X,2375,70379.2,10,Standard,AWD,Red
+2022,Q3,Europe,Model X,3203,67557.12,3,Performance,RWD,White
+2024,Q1,Europe,Model S,1446,49063.92,40,Standard,RWD,White
+2017,Q1,Europe,Cybertruck,2839,118344.53,38,Standard,RWD,Blue
+2013,Q1,North America,Semi,2369,48602.75,37,Performance,RWD,Silver
+2012,Q1,Europe,Semi,300,44186.17,19,Standard,AWD,Red
+2024,Q1,Europe,Semi,3208,73850.28,42,Long Range,AWD,Blue
+2020,Q3,Europe,Model 3,888,65540.83,53,Performance,AWD,Black
+2014,Q1,Europe,Model X,2072,114669.97,48,Long Range,AWD,Black
+2018,Q4,Asia,Model S,4466,94568.0,57,Long Range,RWD,Black
+2021,Q4,Europe,Model X,3834,103367.79,8,Long Range,RWD,Black
+2013,Q2,South America,Cybertruck,1612,112166.03,41,Standard,AWD,Blue
+2021,Q3,South America,Model 3,629,104752.58,46,Long Range,AWD,Green
+2024,Q3,South America,Model X,4783,86800.84,50,Long Range,AWD,White
+2016,Q3,Asia,Semi,1453,48845.08,23,Performance,RWD,White
+2023,Q1,North America,Cybertruck,3414,77320.16,21,Standard,AWD,Blue
+2016,Q2,Australia,Semi,4038,106678.64,50,Long Range,AWD,Green
+2015,Q3,Asia,Semi,3680,98046.5,54,Performance,RWD,Black
+2013,Q1,South America,Cybertruck,3349,48767.78,15,Standard,RWD,Green
+2017,Q1,North America,Model S,1106,40756.39,9,Long Range,AWD,Green
+2013,Q3,South America,Cybertruck,4751,75651.02,58,Standard,AWD,Green
+2024,Q1,Asia,Model Y,65,40579.04,40,Long Range,AWD,Black
+2017,Q4,Australia,Model 3,747,76575.31,50,Standard,RWD,Green
+2013,Q2,South America,Model Y,1366,38546.18,32,Long Range,AWD,Red
+2021,Q4,Asia,Semi,378,56077.88,40,Standard,RWD,Blue
+2024,Q2,South America,Model 3,3720,41897.77,36,Long Range,RWD,Red
+2012,Q3,Asia,Semi,2902,96114.02,48,Standard,RWD,White
+2024,Q2,North America,Model X,227,100367.42,39,Long Range,RWD,Red
+2016,Q4,Australia,Model Y,720,79354.42,16,Long Range,AWD,Blue
+2019,Q4,North America,Model 3,2034,48347.56,29,Standard,RWD,Green
+2022,Q1,Asia,Model 3,4255,118522.04,51,Long Range,RWD,Silver
+2022,Q2,North America,Model S,4241,71210.43,18,Standard,AWD,Black
+2012,Q2,Asia,Model 3,3820,58019.01,46,Standard,RWD,Blue
+2017,Q3,North America,Semi,594,44651.12,53,Standard,AWD,Red
+2018,Q4,Europe,Semi,3044,104385.68,35,Long Range,AWD,White
+2015,Q4,Asia,Cybertruck,1313,69125.47,8,Performance,RWD,Red
+2020,Q1,Europe,Semi,2780,109451.09,10,Performance,AWD,White
+2019,Q4,Australia,Model X,2386,101181.42,17,Performance,RWD,White
+2019,Q3,Asia,Model 3,4120,74324.15,14,Performance,RWD,Green
+2021,Q4,North America,Model S,3606,40137.96,53,Performance,AWD,Black
+2015,Q2,Asia,Model S,1943,98709.15,44,Performance,RWD,Black
+2019,Q3,South America,Model Y,2200,63570.48,51,Long Range,RWD,Green
+2019,Q1,South America,Model 3,1137,107250.55,59,Performance,RWD,Red
+2012,Q3,Australia,Model X,3053,43440.43,10,Performance,RWD,Black
+2021,Q3,Europe,Cybertruck,1154,72600.04,59,Long Range,RWD,Blue
+2021,Q2,North America,Model X,1030,38490.47,8,Long Range,AWD,Blue
+2019,Q2,North America,Model S,2967,50428.79,35,Performance,AWD,Red
+2014,Q4,Europe,Model X,751,98076.53,33,Long Range,AWD,Black
+2022,Q4,North America,Model 3,1043,79407.97,54,Long Range,RWD,Black
+2019,Q3,North America,Model Y,3005,72865.78,39,Standard,AWD,Black
+2013,Q2,North America,Model S,3684,78625.13,34,Long Range,RWD,Green
+2014,Q2,Australia,Model Y,2436,92558.14,8,Long Range,AWD,Silver
+2014,Q1,Australia,Model Y,2186,91303.92,59,Long Range,AWD,Silver
+2020,Q3,South America,Model X,3707,58012.31,4,Standard,AWD,Blue
+2015,Q4,Australia,Model S,643,117196.3,17,Performance,AWD,Red
+2015,Q4,Asia,Model S,4219,106230.24,23,Long Range,AWD,Blue
+2014,Q1,Europe,Model 3,89,37283.43,49,Long Range,RWD,Green
+2012,Q3,Australia,Cybertruck,1793,69617.47,38,Standard,AWD,Red
+2016,Q4,Australia,Model S,4132,103107.79,27,Standard,AWD,Blue
+2015,Q4,South America,Model Y,725,91126.99,40,Long Range,AWD,Silver
+2014,Q3,South America,Semi,4141,61146.52,17,Standard,RWD,Silver
+2015,Q2,North America,Model X,4663,101765.84,0,Long Range,AWD,Black
+2019,Q4,Australia,Model S,2480,61830.31,35,Performance,AWD,Silver
+2016,Q4,Australia,Model S,4655,64987.03,0,Performance,RWD,Green
+2021,Q4,Europe,Model Y,3003,60422.33,17,Standard,AWD,Red
+2012,Q4,Australia,Model 3,2550,70265.27,27,Standard,AWD,Black
+2016,Q1,Australia,Model X,2111,77650.24,20,Long Range,RWD,White
+2020,Q2,Asia,Model S,3761,116399.9,56,Performance,AWD,Green
+2024,Q3,South America,Model Y,2100,40804.8,41,Performance,AWD,White
+2015,Q4,South America,Model X,1175,71687.21,55,Long Range,AWD,Blue
+2017,Q2,North America,Model 3,4473,116184.14,29,Standard,AWD,Black
+2014,Q2,North America,Model S,3250,63609.44,26,Standard,AWD,Silver
+2019,Q3,Asia,Cybertruck,4367,106245.65,4,Performance,RWD,Black
+2020,Q1,South America,Semi,4678,86688.62,29,Standard,AWD,White
+2014,Q4,Australia,Semi,1857,76609.1,22,Long Range,RWD,Blue
+2018,Q1,Asia,Semi,2073,84308.31,51,Performance,AWD,Silver
+2012,Q4,Europe,Model Y,4470,117656.79,41,Long Range,AWD,White
+2019,Q3,South America,Model 3,4697,94229.49,23,Long Range,RWD,Green
+2012,Q3,Asia,Model 3,3276,56350.77,13,Long Range,RWD,White
+2019,Q4,South America,Model 3,2664,48362.9,32,Standard,RWD,Silver
+2022,Q2,Asia,Cybertruck,3524,89858.04,30,Long Range,RWD,White
+2018,Q3,Australia,Cybertruck,2385,114753.33,49,Standard,RWD,White
+2021,Q3,South America,Model Y,2730,102070.88,0,Standard,AWD,Green
+2017,Q1,Asia,Model X,2942,75796.36,37,Performance,RWD,Green
+2012,Q1,Europe,Model Y,1321,50209.72,35,Standard,AWD,Red
+2016,Q4,Europe,Cybertruck,2182,37174.06,51,Long Range,RWD,Black
+2018,Q4,South America,Model X,4653,53868.39,59,Performance,AWD,Green
+2019,Q2,Australia,Model Y,4683,98816.4,9,Standard,AWD,White
+2024,Q2,Asia,Semi,2109,109395.28,27,Long Range,RWD,Red
+2023,Q4,South America,Model 3,2276,117608.38,38,Long Range,AWD,Black
+2020,Q2,Europe,Model S,4510,56043.79,1,Standard,RWD,Silver
+2024,Q1,North America,Model Y,1811,43143.02,48,Long Range,AWD,Red
+2014,Q1,Europe,Model Y,422,50605.23,7,Performance,RWD,Blue
+2012,Q1,North America,Semi,911,90773.46,40,Performance,AWD,Blue
+2013,Q3,North America,Model X,2382,96096.53,19,Long Range,AWD,Red
+2023,Q1,South America,Semi,1705,59057.74,45,Performance,AWD,Black
+2023,Q4,Australia,Model 3,3006,47542.21,55,Standard,AWD,Red
+2013,Q4,Australia,Cybertruck,957,44599.88,27,Long Range,RWD,Green
+2021,Q3,North America,Model Y,2818,52740.84,54,Standard,RWD,Green
+2020,Q3,Australia,Model Y,3708,40294.2,50,Long Range,RWD,Blue
+2023,Q1,North America,Model Y,1388,72558.61,29,Performance,RWD,Black
+2015,Q4,South America,Model S,647,110292.57,38,Standard,RWD,Red
+2024,Q4,South America,Model Y,4229,82272.81,60,Standard,AWD,Black
+2013,Q1,Asia,Model X,3383,77487.04,44,Long Range,RWD,Blue
+2013,Q4,Australia,Model S,1106,110166.35,42,Standard,AWD,White
+2014,Q3,South America,Cybertruck,4601,75315.61,15,Long Range,RWD,Black
+2015,Q3,Australia,Model X,4422,59309.8,8,Performance,RWD,Black
+2014,Q4,Europe,Model X,1899,105587.05,54,Long Range,AWD,Blue
+2023,Q3,Europe,Model Y,1784,69097.88,51,Performance,RWD,Black
+2013,Q4,Asia,Model X,4767,57523.02,36,Long Range,RWD,Green
+2013,Q4,Asia,Model Y,1472,111676.41,42,Long Range,RWD,Black
+2012,Q1,Australia,Model X,1026,57192.7,60,Performance,AWD,Silver
+2020,Q1,Europe,Model X,3363,118273.84,57,Standard,RWD,Silver
+2023,Q1,Australia,Cybertruck,3435,55599.37,28,Long Range,AWD,Black
+2013,Q2,Asia,Model S,1186,96807.51,12,Standard,RWD,Red
+2020,Q4,North America,Model X,4539,60105.33,23,Standard,RWD,Silver
+2018,Q1,Australia,Model 3,4050,49414.29,45,Performance,RWD,Red
+2021,Q2,South America,Model 3,285,63901.21,31,Long Range,RWD,Green
+2020,Q1,Asia,Model S,2349,104471.17,14,Performance,AWD,Black
+2022,Q4,Australia,Model S,4032,62765.54,5,Standard,AWD,Red
+2024,Q2,Asia,Model Y,3109,55434.23,10,Long Range,AWD,Blue
+2024,Q3,Europe,Model X,672,49489.39,60,Long Range,RWD,Blue
+2018,Q3,Europe,Model 3,3305,77189.84,43,Performance,AWD,Black
+2014,Q4,South America,Semi,2670,74931.77,20,Standard,RWD,Red
+2012,Q3,North America,Cybertruck,2951,46962.67,25,Standard,AWD,White
+2015,Q1,Asia,Model S,590,75881.87,51,Long Range,AWD,Black
+2014,Q1,South America,Model 3,764,53914.04,58,Performance,AWD,Green
+2019,Q4,Asia,Model X,2905,60397.59,39,Standard,AWD,White
+2015,Q1,South America,Cybertruck,1158,51331.96,15,Standard,AWD,Black
+2018,Q1,Australia,Model Y,2355,95970.62,20,Performance,AWD,Green
+2015,Q1,Europe,Cybertruck,2359,39562.81,36,Long Range,RWD,Black
+2024,Q1,South America,Semi,4878,116065.95,19,Performance,RWD,Red
+2021,Q1,North America,Model X,644,117325.45,10,Long Range,AWD,Green
+2022,Q3,Australia,Model Y,406,98631.87,39,Performance,AWD,Blue
+2019,Q2,Asia,Semi,3518,38645.9,15,Standard,RWD,Red
+2014,Q2,Europe,Cybertruck,3323,76640.3,57,Performance,RWD,Red
+2018,Q4,South America,Cybertruck,2520,118330.06,36,Standard,RWD,Green
+2015,Q2,Europe,Model X,3092,114144.04,32,Standard,RWD,Blue
+2020,Q4,Europe,Model S,4732,71112.88,14,Standard,RWD,Black
+2019,Q3,Australia,Cybertruck,131,44400.68,24,Standard,AWD,Silver
+2015,Q3,Australia,Model Y,1738,89499.72,22,Long Range,RWD,White
+2015,Q2,Asia,Cybertruck,1476,95303.11,19,Performance,RWD,Black
+2018,Q3,South America,Semi,3433,117159.6,42,Standard,RWD,Black
+2022,Q3,Australia,Model 3,4204,41259.21,15,Standard,RWD,White
+2015,Q1,Europe,Model 3,2105,97869.35,8,Performance,RWD,Green
+2023,Q4,Asia,Model 3,2376,107183.3,39,Long Range,AWD,Silver
+2013,Q2,Australia,Semi,745,69697.82,22,Long Range,RWD,White
+2014,Q3,South America,Model X,4804,101189.17,12,Performance,RWD,Green
+2012,Q1,Asia,Cybertruck,2889,96222.35,47,Long Range,AWD,Black
+2018,Q1,South America,Model X,1932,69829.82,45,Performance,RWD,Silver
+2018,Q4,Australia,Model 3,3678,48930.8,1,Standard,RWD,Black
+2017,Q4,Asia,Model 3,4874,69683.26,30,Standard,RWD,White
+2015,Q1,Asia,Cybertruck,4167,71444.18,7,Standard,AWD,White
+2016,Q1,North America,Model X,3212,45382.77,20,Performance,RWD,Green
+2016,Q4,Asia,Model 3,3342,99025.19,14,Performance,AWD,Silver
+2022,Q3,Europe,Model X,605,43802.99,57,Performance,AWD,Black
+2023,Q2,Europe,Model 3,4619,81090.52,28,Performance,RWD,Blue
+2020,Q2,South America,Model Y,2399,59666.71,44,Performance,AWD,Red
+2017,Q3,South America,Model S,4563,62684.84,14,Standard,AWD,Red
+2012,Q2,South America,Model Y,2668,103325.3,17,Standard,RWD,Silver
+2016,Q4,Europe,Model Y,2701,64036.31,56,Long Range,AWD,Black
+2024,Q3,South America,Cybertruck,1247,118563.35,20,Standard,RWD,Green
+2017,Q1,Asia,Model Y,3554,59382.18,26,Long Range,AWD,Green
+2014,Q4,Asia,Cybertruck,3558,39387.75,58,Performance,RWD,Green
+2017,Q3,Australia,Cybertruck,1143,69206.42,34,Performance,AWD,Green
+2020,Q4,South America,Model Y,2105,75919.13,46,Standard,AWD,Green
+2013,Q2,Europe,Semi,4735,115870.91,5,Performance,AWD,Green
+2020,Q2,Asia,Cybertruck,4390,110464.44,58,Standard,AWD,White
+2016,Q4,South America,Cybertruck,3165,65624.61,6,Long Range,RWD,Green
+2019,Q4,North America,Semi,4341,105040.47,60,Performance,AWD,Black
+2020,Q3,Australia,Model S,894,74872.61,47,Long Range,AWD,Silver
+2023,Q2,North America,Model 3,828,40190.36,60,Performance,AWD,Blue
+2021,Q4,Europe,Model 3,4759,64919.6,48,Standard,AWD,Silver
+2016,Q3,Europe,Cybertruck,917,112266.21,46,Long Range,AWD,White
+2016,Q2,Europe,Cybertruck,4737,51578.58,17,Performance,RWD,Red
+2022,Q1,Australia,Model Y,3691,43014.3,34,Long Range,AWD,Black
+2016,Q2,Europe,Model S,1523,78149.85,42,Performance,AWD,White
+2018,Q2,Asia,Model S,2733,99535.7,30,Performance,AWD,Green
+2018,Q2,Europe,Cybertruck,1937,77995.41,18,Long Range,AWD,Green
+2013,Q3,South America,Model Y,2063,105506.51,37,Performance,AWD,Silver
+2014,Q1,North America,Cybertruck,475,76080.71,18,Long Range,RWD,Silver
+2020,Q4,Asia,Semi,4037,99116.53,30,Long Range,RWD,Silver
+2015,Q4,South America,Cybertruck,1776,77591.01,9,Long Range,AWD,Silver
+2019,Q3,Europe,Semi,3577,70592.53,18,Performance,AWD,Black
+2016,Q2,South America,Cybertruck,1934,99248.6,14,Standard,AWD,Silver
+2015,Q3,North America,Model S,738,56586.5,51,Performance,RWD,Green
+2024,Q4,Asia,Cybertruck,3976,115393.67,14,Performance,RWD,Red
+2023,Q4,Asia,Model Y,2326,110684.61,2,Long Range,AWD,Red
+2016,Q1,North America,Model S,2210,80732.44,21,Long Range,RWD,Blue
+2020,Q3,Europe,Model X,4780,116199.09,37,Standard,RWD,Red
+2020,Q3,Asia,Cybertruck,3355,117530.14,1,Long Range,AWD,Blue
+2014,Q2,North America,Model S,3513,61549.63,49,Standard,RWD,Silver
+2023,Q2,Asia,Model S,4937,75837.45,12,Long Range,RWD,Green
+2022,Q1,Australia,Semi,4109,74065.2,35,Long Range,AWD,Green
+2015,Q1,Australia,Semi,3300,106971.41,29,Long Range,AWD,Blue
+2023,Q4,Europe,Cybertruck,242,93442.1,13,Performance,AWD,Blue
+2015,Q1,Asia,Cybertruck,2581,119626.97,17,Long Range,AWD,White
+2022,Q2,Australia,Model S,1996,56876.14,44,Performance,RWD,Black
+2014,Q3,Europe,Semi,983,93786.52,26,Performance,RWD,Black
+2012,Q3,Australia,Model 3,1580,44838.29,24,Long Range,RWD,White
+2017,Q1,South America,Model Y,4404,76880.52,51,Long Range,RWD,Red
+2022,Q2,Asia,Semi,2883,40347.23,5,Long Range,RWD,Green
+2017,Q1,North America,Cybertruck,4084,70964.39,10,Standard,AWD,White
+2024,Q4,North America,Semi,4228,43056.34,0,Standard,RWD,Silver
+2024,Q1,Europe,Model Y,4271,44347.08,48,Performance,AWD,Red
+2017,Q1,South America,Semi,970,94064.64,57,Standard,RWD,Blue
+2012,Q2,North America,Model 3,2430,111986.0,28,Long Range,RWD,Black
+2021,Q3,South America,Model S,1460,68047.39,55,Performance,AWD,Red
+2022,Q1,Europe,Model S,2388,118297.75,39,Long Range,AWD,White
+2017,Q2,Europe,Model 3,1902,36952.19,9,Long Range,RWD,Blue
+2020,Q2,South America,Model 3,2608,110183.54,2,Performance,AWD,White
+2015,Q2,Asia,Semi,4948,70256.88,9,Long Range,RWD,Green
+2017,Q3,Australia,Cybertruck,318,48684.93,50,Standard,AWD,Red
+2015,Q3,North America,Semi,2359,94203.97,39,Standard,AWD,Green
+2019,Q2,North America,Semi,849,41755.21,55,Standard,RWD,Red
+2015,Q3,Europe,Model 3,2708,52998.18,14,Performance,AWD,Black
+2024,Q3,Europe,Model S,867,114533.2,18,Performance,RWD,Blue
+2017,Q2,Asia,Semi,4170,102285.63,19,Long Range,RWD,Red
+2022,Q4,South America,Model X,3421,98421.09,28,Performance,RWD,Silver
+2017,Q2,North America,Model S,4639,63501.86,28,Standard,AWD,Green
+2017,Q3,South America,Cybertruck,4092,92712.14,36,Standard,RWD,Silver
+2012,Q4,Europe,Model X,752,62353.98,20,Performance,RWD,Red
+2020,Q4,Europe,Model X,1333,91011.43,30,Performance,RWD,Green
+2014,Q2,Asia,Model 3,1975,62841.46,60,Long Range,RWD,White
+2022,Q4,South America,Model S,2153,35085.81,58,Long Range,AWD,Green
+2019,Q2,North America,Model Y,1030,98809.39,10,Long Range,AWD,White
+2020,Q4,Australia,Model Y,1744,62214.95,0,Long Range,AWD,Green
+2022,Q2,Australia,Semi,1987,44121.92,36,Long Range,AWD,Blue
+2015,Q4,Europe,Semi,1017,102366.09,3,Long Range,AWD,Blue
+2023,Q4,Europe,Cybertruck,3454,66015.69,10,Long Range,AWD,Silver
+2018,Q1,Asia,Model X,4548,50561.86,52,Long Range,AWD,Red
+2024,Q3,North America,Model X,4143,75972.51,44,Standard,AWD,Silver
+2017,Q3,Europe,Semi,4529,62468.9,31,Performance,AWD,Blue
+2015,Q3,South America,Semi,3408,60527.26,60,Standard,RWD,Silver
+2020,Q3,North America,Cybertruck,4525,39175.0,34,Long Range,RWD,Blue
+2018,Q4,South America,Model Y,2179,56559.29,27,Standard,AWD,Blue
+2023,Q4,Europe,Model 3,3978,84058.35,55,Standard,AWD,Green
+2016,Q3,North America,Model X,1398,44800.83,18,Standard,RWD,Green
+2018,Q4,North America,Cybertruck,4413,98841.35,59,Long Range,AWD,Silver
+2016,Q3,Asia,Model Y,1004,55802.92,51,Performance,RWD,White
+2019,Q2,North America,Model 3,1870,78145.08,32,Long Range,RWD,White
+2022,Q1,North America,Model X,4876,36045.1,18,Long Range,AWD,Blue
+2013,Q2,Europe,Cybertruck,1969,55991.84,56,Standard,RWD,White
+2023,Q1,South America,Model Y,50,79654.52,35,Long Range,RWD,Green
+2020,Q2,Australia,Model Y,3424,37314.15,31,Performance,RWD,Silver
+2023,Q1,North America,Model S,3666,87033.08,45,Standard,AWD,Blue
+2017,Q2,South America,Cybertruck,3673,48990.19,51,Performance,RWD,Silver
+2020,Q1,Asia,Model 3,3260,63792.19,40,Long Range,AWD,Blue
+2014,Q1,Asia,Model Y,4535,55598.22,28,Standard,AWD,Blue
+2018,Q2,South America,Model S,4385,66618.21,13,Standard,RWD,Silver
+2018,Q4,Australia,Model X,2916,82950.36,28,Standard,RWD,White
+2020,Q1,North America,Semi,4478,112515.33,51,Long Range,RWD,Black
+2017,Q1,Australia,Semi,2531,84287.56,7,Long Range,RWD,Red
+2019,Q3,North America,Model S,389,109092.91,19,Long Range,RWD,Red
+2022,Q1,Europe,Semi,3275,52949.09,13,Long Range,RWD,Blue
+2022,Q2,Asia,Model X,3383,69117.1,15,Performance,AWD,Red
+2022,Q4,North America,Semi,3634,39329.02,37,Performance,RWD,Black
+2021,Q1,Europe,Cybertruck,835,66010.92,6,Long Range,RWD,White
+2018,Q2,Europe,Cybertruck,2955,113869.91,50,Performance,RWD,Blue
+2016,Q2,Australia,Model S,2221,105913.56,49,Long Range,RWD,Red
+2024,Q4,South America,Model X,3073,56840.87,42,Performance,AWD,Black
+2023,Q2,Asia,Model 3,3943,91959.98,0,Performance,RWD,White
+2018,Q1,South America,Model 3,1224,104466.69,27,Performance,AWD,Red
+2019,Q3,North America,Model X,3342,111722.32,32,Performance,AWD,Silver
+2022,Q2,Australia,Cybertruck,912,97330.77,15,Standard,RWD,Blue
+2013,Q3,Australia,Cybertruck,3706,89414.05,29,Long Range,AWD,Silver
+2012,Q3,Europe,Model Y,3512,111292.98,41,Performance,AWD,Black
+2020,Q2,Europe,Model 3,884,90605.74,50,Performance,AWD,Silver
+2021,Q3,Europe,Model S,953,65056.97,49,Performance,AWD,Silver
+2023,Q4,Asia,Model S,2423,68760.14,60,Standard,RWD,Green
+2012,Q4,Europe,Model S,544,79996.12,2,Standard,RWD,Blue
+2017,Q1,South America,Model 3,3480,81949.31,48,Long Range,AWD,Red
+2014,Q1,North America,Model X,3254,50052.0,50,Standard,RWD,Red
+2017,Q2,Europe,Cybertruck,1747,49698.26,36,Long Range,AWD,White
+2017,Q3,Australia,Cybertruck,476,39881.6,52,Performance,AWD,Green
+2019,Q3,North America,Model S,4144,98552.55,2,Performance,AWD,Green
+2022,Q4,South America,Model Y,2217,36562.85,3,Standard,RWD,Blue
+2015,Q1,Australia,Semi,2313,46088.49,24,Long Range,AWD,Black
+2016,Q3,Australia,Semi,2098,38927.1,48,Standard,RWD,Red
+2019,Q4,Europe,Model X,1541,57417.3,15,Performance,AWD,Black
+2015,Q3,Australia,Model Y,3685,59441.62,42,Long Range,AWD,White
+2023,Q1,Australia,Semi,4587,108258.68,6,Long Range,AWD,White
+2015,Q4,North America,Semi,3899,111134.65,56,Performance,RWD,Red
+2012,Q1,North America,Model Y,3353,110049.29,5,Long Range,AWD,Blue
+2019,Q2,North America,Model 3,2654,74960.93,24,Long Range,RWD,White
+2013,Q4,Asia,Model 3,2271,99795.65,11,Long Range,AWD,Red
+2016,Q2,North America,Model S,3512,113248.05,16,Long Range,AWD,Black
+2018,Q3,Asia,Model 3,1963,43376.71,27,Long Range,RWD,Red
+2024,Q2,North America,Semi,147,115450.72,34,Performance,AWD,Green
+2016,Q3,Australia,Model X,4132,55437.82,17,Performance,AWD,White
+2013,Q4,Asia,Model S,2131,118596.58,50,Performance,AWD,Blue
+2017,Q1,South America,Model X,4007,113344.56,9,Performance,AWD,Silver
+2017,Q3,North America,Semi,3173,50087.65,31,Performance,AWD,Silver
+2024,Q2,Europe,Model 3,716,50757.04,24,Long Range,RWD,Black
+2024,Q2,Australia,Semi,4101,51033.46,12,Long Range,RWD,Black
+2013,Q3,South America,Model Y,586,87497.15,39,Long Range,AWD,White
+2023,Q2,Australia,Model X,1542,76527.89,29,Performance,RWD,Blue
+2015,Q2,North America,Model S,290,75411.04,12,Long Range,AWD,Black
+2019,Q2,South America,Model X,3937,40034.93,49,Performance,RWD,Black
+2023,Q2,Europe,Model Y,493,78848.47,39,Performance,AWD,Blue
+2019,Q2,South America,Model S,834,53983.23,13,Long Range,AWD,Green
+2022,Q2,Europe,Model X,4570,96501.16,42,Standard,AWD,Green
+2017,Q4,Asia,Model 3,3855,40962.83,23,Long Range,RWD,Red
+2023,Q4,Europe,Model 3,792,43488.88,50,Standard,RWD,Green
+2019,Q4,South America,Model S,3871,35715.81,60,Standard,RWD,Silver
+2014,Q3,Australia,Semi,2495,45793.2,27,Performance,RWD,Blue
+2022,Q1,Europe,Model S,3738,118861.99,58,Performance,AWD,Silver
+2020,Q3,Asia,Model X,3617,62764.57,45,Long Range,AWD,Green
+2024,Q2,North America,Model S,3274,89909.03,51,Long Range,AWD,Red
+2024,Q3,Australia,Model X,2584,79127.51,0,Standard,AWD,Red
+2017,Q2,Asia,Model Y,205,58974.59,57,Performance,AWD,White
+2013,Q4,Asia,Model 3,3104,40089.65,43,Standard,RWD,Silver
+2019,Q4,Europe,Model S,376,93716.41,57,Standard,AWD,Green
+2016,Q3,South America,Cybertruck,1524,56360.09,19,Standard,AWD,Black
+2023,Q3,South America,Model S,2230,112813.12,19,Performance,RWD,Red
+2012,Q4,Europe,Model Y,3304,91616.75,43,Long Range,RWD,White
+2020,Q4,Asia,Model Y,3615,103572.16,27,Long Range,RWD,Red
+2021,Q4,North America,Cybertruck,2958,70739.12,54,Long Range,RWD,Silver
+2013,Q3,North America,Model X,3738,106898.98,29,Standard,AWD,White
+2019,Q3,Asia,Semi,4552,57872.38,21,Performance,RWD,Green
+2021,Q3,Europe,Model S,3730,48646.63,59,Performance,RWD,Black
+2018,Q4,South America,Cybertruck,304,101976.53,11,Long Range,RWD,Green
+2015,Q4,Australia,Model Y,4354,56764.12,17,Long Range,AWD,Blue
+2021,Q1,Asia,Model Y,3952,80063.8,30,Performance,AWD,Black
+2021,Q2,Asia,Cybertruck,2355,43301.87,0,Standard,RWD,Green
+2021,Q1,Asia,Model Y,2976,85160.5,6,Standard,AWD,Red
+2016,Q2,South America,Semi,1752,96285.92,22,Performance,RWD,Black
+2019,Q4,Europe,Semi,699,119612.7,36,Standard,AWD,Blue
+2015,Q4,Europe,Model Y,4624,96089.18,48,Performance,RWD,Silver
+2020,Q4,South America,Model S,476,60037.95,28,Long Range,AWD,Silver
+2016,Q1,North America,Model Y,887,83176.2,8,Performance,RWD,Black
+2015,Q1,North America,Model S,982,96138.46,32,Long Range,RWD,Blue
+2017,Q4,North America,Model Y,1960,35579.0,60,Standard,RWD,Black
+2020,Q2,Europe,Semi,2188,36321.79,0,Long Range,AWD,Black
+2016,Q4,North America,Model S,4613,95453.72,1,Standard,RWD,White
+2023,Q3,Australia,Model Y,3630,70456.84,54,Long Range,RWD,Silver
+2023,Q4,North America,Semi,4080,63688.32,16,Standard,AWD,Blue
+2019,Q1,South America,Model 3,3339,76811.89,35,Long Range,RWD,Red
+2023,Q3,North America,Model S,2740,104626.85,14,Long Range,RWD,Black
+2012,Q4,Australia,Semi,4465,41680.67,41,Standard,AWD,Blue
+2013,Q4,North America,Model X,359,37490.17,31,Long Range,AWD,Red
+2013,Q4,Australia,Model Y,424,71844.83,31,Standard,AWD,Silver
+2021,Q4,South America,Model 3,1657,70940.1,53,Long Range,RWD,Green
+2020,Q1,North America,Model 3,1403,64090.58,25,Standard,AWD,Silver
+2022,Q4,Europe,Model Y,560,54251.21,23,Long Range,RWD,Silver
+2018,Q1,Europe,Model X,2044,118369.48,24,Performance,RWD,Black
+2019,Q2,South America,Model Y,843,104464.03,34,Standard,RWD,Red
+2017,Q4,North America,Semi,4421,86783.73,54,Performance,RWD,Red
+2015,Q1,Asia,Model Y,170,45751.5,41,Performance,AWD,Black
+2024,Q1,South America,Model X,1524,76200.77,1,Long Range,AWD,Silver
+2012,Q1,Europe,Model X,1336,56495.82,5,Standard,RWD,Silver
+2013,Q3,North America,Model 3,230,117260.75,59,Standard,RWD,White
+2024,Q4,South America,Cybertruck,4833,57544.41,14,Performance,RWD,Silver
+2016,Q1,Europe,Model Y,1730,86828.24,19,Performance,AWD,Black
+2015,Q1,Asia,Semi,2631,93903.61,38,Long Range,RWD,Blue
+2018,Q2,Europe,Semi,429,45941.86,0,Long Range,AWD,Black
+2019,Q1,Asia,Model S,248,101148.03,15,Performance,RWD,Blue
+2018,Q2,Australia,Cybertruck,287,65338.48,31,Standard,AWD,Silver
+2013,Q4,Europe,Model S,76,82892.69,42,Performance,RWD,Black
+2024,Q1,Europe,Model Y,4866,38990.73,46,Standard,RWD,Black
+2019,Q4,North America,Model 3,1060,38509.45,3,Performance,AWD,White
+2017,Q4,Australia,Semi,1159,67885.63,11,Standard,AWD,Red
+2012,Q2,Australia,Cybertruck,1467,113399.43,41,Long Range,AWD,Blue
+2023,Q4,Europe,Semi,687,59114.95,10,Standard,RWD,Green
+2017,Q4,Australia,Model Y,1154,37722.22,19,Standard,RWD,Silver
+2020,Q3,Australia,Model X,1075,61868.12,21,Performance,RWD,Black
+2013,Q3,Asia,Model S,1915,78924.94,28,Performance,AWD,Silver
+2020,Q4,Europe,Cybertruck,3427,110942.39,5,Standard,AWD,White
+2017,Q1,Australia,Model S,478,97028.35,9,Long Range,RWD,White
+2021,Q3,Asia,Model X,2597,114516.82,15,Standard,AWD,Red
+2019,Q2,North America,Model Y,1674,48416.9,26,Long Range,RWD,Blue
+2012,Q1,Australia,Model X,1492,47554.07,29,Long Range,RWD,Black
+2022,Q3,North America,Model S,3418,36264.27,32,Long Range,RWD,Black
+2014,Q2,Europe,Model S,860,68946.13,60,Long Range,AWD,Red
+2016,Q3,Australia,Cybertruck,3560,115639.49,58,Long Range,RWD,Green
+2015,Q3,North America,Cybertruck,133,69856.12,40,Performance,AWD,Red
+2014,Q4,Asia,Cybertruck,2906,116634.56,30,Standard,AWD,White
+2013,Q2,Europe,Model X,1725,113125.63,17,Standard,RWD,Green
+2016,Q3,South America,Model S,3921,52788.05,44,Performance,AWD,Black
+2021,Q2,Australia,Semi,3783,39407.19,3,Long Range,AWD,Blue
+2024,Q2,Europe,Model Y,2791,73505.34,0,Long Range,AWD,White
+2021,Q4,Europe,Model Y,4684,103470.78,51,Performance,RWD,White
+2013,Q4,Asia,Model S,2636,86278.57,36,Long Range,AWD,Blue
+2021,Q2,North America,Semi,1796,89497.43,52,Long Range,RWD,Blue
+2016,Q3,South America,Semi,3851,39794.1,0,Long Range,AWD,Green
+2021,Q2,Europe,Semi,4607,74751.45,36,Performance,AWD,Green
+2022,Q3,Europe,Cybertruck,4080,46389.81,42,Standard,RWD,White
+2024,Q4,Europe,Semi,2202,91876.2,35,Long Range,AWD,Silver
+2013,Q2,Asia,Model S,1021,102176.14,60,Standard,AWD,Green
+2018,Q4,Australia,Model S,805,96193.24,3,Performance,RWD,Black
+2018,Q3,Australia,Model 3,1190,84975.71,30,Long Range,RWD,Red
+2018,Q1,Australia,Model X,1854,107229.97,57,Long Range,AWD,Red
+2018,Q1,Asia,Model S,3973,44482.02,53,Standard,RWD,Blue
+2022,Q4,Australia,Cybertruck,3578,92352.31,6,Performance,RWD,Blue
+2020,Q4,South America,Cybertruck,2597,95532.72,28,Performance,AWD,White
+2012,Q4,North America,Model X,2158,76490.79,21,Performance,RWD,Red
+2013,Q3,North America,Cybertruck,1355,112034.99,11,Long Range,RWD,White
+2024,Q2,North America,Model X,4719,69706.62,15,Long Range,AWD,Black
+2023,Q3,Asia,Cybertruck,2194,40098.57,22,Performance,AWD,White
+2018,Q1,Australia,Cybertruck,644,110865.82,53,Long Range,RWD,Red
+2012,Q1,Asia,Semi,4300,98243.17,22,Performance,AWD,White
+2024,Q4,North America,Model Y,2897,85105.69,38,Long Range,AWD,Black
+2014,Q4,Europe,Model 3,2199,114242.49,53,Standard,AWD,Blue
+2015,Q3,Asia,Cybertruck,1539,42769.28,33,Performance,AWD,Red
+2015,Q4,Asia,Model S,4180,99438.02,39,Long Range,AWD,Red
+2019,Q4,Asia,Model Y,1408,81895.17,31,Standard,AWD,White
+2018,Q2,Asia,Semi,2895,79333.22,47,Standard,AWD,Green
+2014,Q4,Europe,Model 3,727,117616.59,29,Long Range,AWD,Red
+2020,Q4,Europe,Semi,4044,42628.72,28,Performance,RWD,Red
+2021,Q4,Asia,Model Y,3029,106828.21,48,Performance,RWD,Blue
+2016,Q3,Europe,Cybertruck,4684,93413.55,24,Standard,AWD,Silver
+2020,Q2,South America,Semi,1294,87389.99,4,Long Range,AWD,Silver
+2017,Q4,Europe,Model X,333,93359.35,24,Performance,RWD,Red
+2015,Q4,North America,Model 3,3441,78463.79,32,Performance,RWD,Silver
+2020,Q2,North America,Semi,4861,41453.46,59,Performance,AWD,White
+2013,Q4,Asia,Model Y,1410,85862.85,45,Performance,AWD,Red
+2013,Q4,North America,Model X,1505,94776.31,55,Standard,RWD,White
+2018,Q1,South America,Cybertruck,893,35823.14,22,Standard,AWD,Red
+2022,Q4,North America,Model 3,294,107298.59,41,Performance,AWD,Silver
+2023,Q3,Asia,Model S,4730,116253.57,0,Long Range,AWD,Green
+2021,Q3,Australia,Model S,4025,55761.55,56,Long Range,AWD,Green
+2017,Q4,Australia,Model X,2006,55102.61,3,Standard,RWD,Black
+2022,Q4,Australia,Model X,408,42864.44,19,Long Range,AWD,Green
+2018,Q3,Europe,Model S,850,77670.38,48,Performance,AWD,Black
+2023,Q2,Australia,Model Y,3926,88889.8,51,Standard,RWD,Blue
+2024,Q4,Europe,Model S,1214,110502.35,16,Performance,RWD,Red
+2023,Q4,North America,Semi,4818,114526.56,60,Long Range,RWD,Black
+2018,Q3,Europe,Model Y,1188,85447.76,13,Long Range,AWD,Red
+2019,Q3,North America,Model Y,535,101669.94,0,Standard,AWD,White
+2021,Q3,Asia,Model S,4078,66447.98,43,Standard,AWD,Blue
+2012,Q2,South America,Model Y,2949,71895.69,6,Standard,AWD,Blue
+2017,Q1,North America,Semi,2554,56064.13,53,Performance,AWD,White
+2017,Q3,Europe,Model S,2066,50780.91,59,Performance,RWD,White
+2012,Q2,North America,Model 3,4654,111606.86,18,Standard,AWD,Green
+2019,Q3,Asia,Model X,2322,37082.41,27,Performance,AWD,White
+2019,Q2,South America,Model Y,1525,97633.27,14,Standard,RWD,Black
+2013,Q2,Asia,Model 3,222,110886.56,25,Performance,AWD,Black
+2014,Q2,Australia,Semi,2018,72522.11,46,Performance,AWD,Blue
+2020,Q2,Australia,Model S,585,44235.5,18,Long Range,RWD,Black
+2015,Q1,North America,Model Y,4243,80372.32,37,Standard,RWD,Blue
+2013,Q4,Asia,Model Y,130,79122.0,3,Performance,RWD,Red
+2016,Q4,North America,Cybertruck,3797,53490.05,51,Long Range,AWD,Red
+2024,Q2,Asia,Cybertruck,967,90635.23,25,Long Range,RWD,Blue
+2013,Q1,Asia,Model X,1750,91028.79,11,Long Range,AWD,Red
+2016,Q1,Australia,Model 3,3438,112635.05,43,Long Range,AWD,Red
+2022,Q2,North America,Cybertruck,1321,117071.06,50,Standard,RWD,Green
+2020,Q4,North America,Semi,750,63956.14,51,Performance,AWD,Black
+2016,Q3,Australia,Model S,1348,38157.61,35,Standard,RWD,Black
+2019,Q4,Australia,Model S,3457,117809.39,12,Performance,RWD,Green
+2018,Q4,Europe,Semi,2070,75428.32,53,Long Range,RWD,Red
+2024,Q2,Australia,Model X,2606,81012.77,36,Standard,AWD,Silver
+2017,Q1,Australia,Model S,77,116815.41,28,Performance,RWD,Black
+2012,Q4,Asia,Model X,1034,36290.27,26,Standard,RWD,Red
+2014,Q3,North America,Model S,3355,66745.82,23,Long Range,RWD,Blue
+2022,Q3,North America,Model S,4737,69401.76,49,Standard,RWD,Blue
+2017,Q4,South America,Model Y,4882,42769.25,5,Long Range,AWD,Black
+2017,Q2,Europe,Cybertruck,4527,48379.11,40,Long Range,RWD,Silver
+2015,Q3,South America,Model Y,2180,63359.77,8,Performance,RWD,Red
+2013,Q2,Asia,Semi,2700,63080.51,28,Performance,AWD,Red
+2019,Q1,Asia,Model S,480,59209.55,15,Long Range,RWD,Blue
+2017,Q4,South America,Model S,1132,37559.17,38,Long Range,RWD,White
+2015,Q4,Australia,Model Y,2258,100155.25,33,Long Range,RWD,Silver
+2021,Q1,Asia,Model X,2183,74649.51,11,Long Range,AWD,Blue
+2012,Q4,Asia,Model S,2062,86930.84,59,Long Range,RWD,Red
+2019,Q1,Australia,Model X,290,44036.52,36,Performance,AWD,Silver
+2023,Q4,South America,Model Y,623,69319.12,14,Standard,RWD,Black
+2016,Q4,Australia,Model S,2612,54124.82,19,Long Range,AWD,White
+2020,Q2,South America,Model S,243,102137.81,37,Standard,AWD,White
+2024,Q3,Europe,Model X,169,115715.58,57,Standard,RWD,Green
+2021,Q2,Europe,Model 3,2008,105462.02,27,Performance,RWD,Black
+2015,Q1,South America,Model X,566,89086.83,60,Long Range,AWD,Green
+2024,Q3,Australia,Model Y,1471,72025.42,19,Performance,AWD,Red
+2018,Q2,South America,Semi,3513,103518.81,41,Standard,RWD,Green
+2023,Q3,North America,Model X,4438,110199.24,8,Performance,RWD,Red
+2024,Q3,South America,Model Y,1840,89330.05,9,Long Range,AWD,Red
+2024,Q2,North America,Cybertruck,2957,114397.48,3,Long Range,RWD,Black
+2017,Q3,Asia,Semi,2886,114844.73,46,Long Range,AWD,Silver
+2013,Q3,Australia,Cybertruck,3653,80114.16,11,Performance,AWD,Green
+2022,Q3,Australia,Semi,195,105769.14,48,Long Range,RWD,Blue
+2017,Q1,South America,Cybertruck,311,91485.13,2,Long Range,RWD,Green
+2015,Q2,North America,Model 3,2490,88475.25,16,Long Range,AWD,Green
+2022,Q1,Australia,Cybertruck,2119,113863.98,57,Long Range,AWD,Green
+2023,Q1,South America,Model 3,921,116064.44,57,Standard,AWD,Green
+2024,Q4,Australia,Semi,2243,52917.59,2,Performance,RWD,Red
+2012,Q4,North America,Model Y,3770,116548.24,15,Long Range,RWD,Silver
+2020,Q1,North America,Semi,828,73768.52,47,Long Range,RWD,White
+2022,Q3,Australia,Cybertruck,730,105843.89,1,Performance,AWD,Green
+2012,Q3,South America,Cybertruck,1476,37213.44,29,Standard,AWD,Red
+2013,Q1,Australia,Model 3,1707,39479.33,53,Long Range,AWD,Red
+2020,Q4,North America,Model S,1412,100600.68,32,Standard,RWD,White
+2021,Q1,Australia,Model Y,3563,117804.97,58,Long Range,AWD,Red
+2018,Q3,North America,Model X,3922,110341.64,22,Performance,RWD,Blue
+2019,Q4,Europe,Semi,4740,66783.8,24,Performance,RWD,Red
+2024,Q1,Asia,Semi,849,87783.73,60,Long Range,AWD,Black
+2022,Q2,Europe,Cybertruck,2435,42788.22,8,Performance,AWD,Blue
+2020,Q2,Asia,Model 3,2295,104332.36,13,Long Range,AWD,White
+2013,Q4,Asia,Model 3,218,87464.9,18,Long Range,RWD,Black
+2021,Q1,South America,Model X,2904,57509.12,50,Standard,RWD,Black
+2016,Q1,South America,Model Y,2116,57204.98,29,Long Range,RWD,Green
+2023,Q2,South America,Model X,2734,57146.8,29,Standard,RWD,Red
+2022,Q2,North America,Model 3,3786,72035.15,31,Performance,AWD,Black
+2017,Q2,Asia,Model S,4041,71033.0,53,Long Range,RWD,Blue
+2014,Q2,Asia,Cybertruck,2101,58947.12,57,Performance,AWD,Green
+2016,Q3,Australia,Cybertruck,2117,36190.78,33,Standard,AWD,Red
+2015,Q4,Australia,Model X,2687,45773.57,26,Performance,RWD,Silver
+2022,Q1,South America,Cybertruck,4239,36148.21,44,Standard,AWD,Red
+2020,Q1,Australia,Cybertruck,1443,114860.72,13,Performance,RWD,Blue
+2021,Q3,Europe,Semi,4626,69756.46,21,Performance,AWD,White
+2015,Q3,Asia,Cybertruck,4180,64617.22,54,Standard,AWD,White
+2014,Q4,North America,Model X,4843,86123.37,48,Standard,RWD,Red
+2013,Q1,Australia,Semi,1374,78632.46,21,Performance,RWD,Silver
+2014,Q1,North America,Cybertruck,234,65216.89,51,Standard,AWD,Silver
+2017,Q4,South America,Model S,4532,57825.48,52,Performance,AWD,Red
+2022,Q1,North America,Model 3,2875,44867.58,44,Standard,RWD,Green
+2015,Q1,South America,Model 3,2780,72354.88,42,Performance,AWD,Silver
+2016,Q2,North America,Semi,1311,48335.55,0,Long Range,RWD,White
+2017,Q4,South America,Model X,250,96601.02,27,Long Range,RWD,Silver
+2017,Q2,Europe,Model X,3693,87844.85,22,Standard,RWD,Green
+2017,Q1,North America,Cybertruck,905,85195.74,41,Standard,AWD,Silver
+2021,Q4,Australia,Semi,763,41883.35,0,Standard,RWD,Blue
+2021,Q3,Australia,Model X,1733,117389.39,19,Long Range,RWD,Green
+2012,Q3,Europe,Model S,3443,88930.75,10,Performance,AWD,Green
+2014,Q3,Asia,Cybertruck,3059,80708.95,60,Long Range,RWD,Silver
+2023,Q2,Asia,Cybertruck,2565,44274.62,47,Standard,RWD,White
+2024,Q4,Asia,Model 3,2777,43728.15,50,Long Range,AWD,Silver
+2024,Q4,Australia,Model 3,2480,58272.5,13,Long Range,RWD,Red
+2019,Q1,Europe,Model X,1284,43044.22,46,Performance,AWD,White
+2022,Q3,South America,Model X,1438,68019.1,40,Standard,AWD,White
+2017,Q2,Australia,Model X,1402,51687.3,3,Performance,RWD,Red
+2024,Q2,South America,Model X,1769,87064.56,49,Long Range,RWD,Silver
+2018,Q1,South America,Semi,2416,35853.48,16,Long Range,RWD,Red
+2024,Q2,Europe,Model 3,1436,59605.22,2,Long Range,AWD,Red
+2022,Q1,Asia,Semi,1254,105835.52,53,Standard,RWD,Red
+2014,Q2,Asia,Model 3,233,47636.4,44,Standard,AWD,Red
+2023,Q2,Asia,Model 3,1375,86354.12,24,Standard,RWD,Blue
+2015,Q4,North America,Model X,78,81905.3,0,Performance,RWD,Red
+2019,Q2,Australia,Model 3,4864,47374.31,20,Performance,RWD,Green
+2014,Q2,Europe,Cybertruck,727,51732.12,60,Long Range,AWD,Green
+2016,Q3,Europe,Model 3,4885,118924.56,16,Long Range,RWD,Blue
+2016,Q1,Asia,Model 3,2851,81989.42,51,Performance,AWD,Black
+2021,Q3,North America,Cybertruck,1566,64355.91,58,Long Range,AWD,Black
+2019,Q3,Europe,Semi,852,57854.56,15,Performance,RWD,Green
+2024,Q3,North America,Model S,558,110833.47,55,Long Range,RWD,Green
+2016,Q4,North America,Model 3,1691,71065.14,17,Standard,RWD,White
+2024,Q2,Australia,Model S,2878,47695.36,53,Performance,RWD,Black
+2014,Q4,Asia,Cybertruck,3689,58946.65,35,Long Range,AWD,Blue
+2012,Q1,Europe,Model X,2425,79515.47,0,Long Range,RWD,Silver
+2024,Q1,Australia,Model 3,1625,93455.65,46,Long Range,AWD,Red
+2015,Q1,North America,Model X,3084,101796.92,13,Standard,RWD,Green
+2017,Q4,North America,Cybertruck,2926,45237.44,46,Standard,RWD,Blue
+2019,Q1,Asia,Model 3,3079,87388.63,16,Standard,AWD,Blue
+2013,Q2,Europe,Model S,3643,47327.68,46,Standard,RWD,White
+2021,Q2,North America,Cybertruck,855,115233.1,45,Long Range,AWD,Red
+2017,Q3,South America,Model 3,2965,57498.52,12,Long Range,RWD,Red
+2022,Q2,Australia,Model 3,2270,51067.19,47,Long Range,RWD,Blue
+2013,Q2,Europe,Semi,845,119436.05,29,Performance,AWD,Red
+2014,Q4,Australia,Model S,4655,112879.42,26,Performance,RWD,Red
+2018,Q2,Europe,Model 3,4827,85619.82,22,Standard,RWD,Blue
+2020,Q2,North America,Model Y,1580,65660.1,44,Performance,AWD,White
+2021,Q1,Australia,Model Y,805,84407.19,48,Performance,AWD,Green
+2013,Q4,Australia,Model Y,2776,66564.73,44,Performance,AWD,White
+2020,Q4,North America,Model 3,4827,40005.47,27,Long Range,RWD,Silver
+2015,Q2,Australia,Model S,4294,43895.56,3,Long Range,AWD,Green
+2021,Q1,South America,Model Y,2896,76570.57,33,Performance,RWD,Red
+2018,Q1,Australia,Semi,1207,45636.72,10,Long Range,RWD,Black
+2017,Q2,North America,Semi,4395,84958.91,24,Performance,RWD,White
+2018,Q1,Asia,Model X,2139,54027.9,45,Standard,RWD,Black
+2020,Q2,Asia,Model 3,4739,36363.19,10,Long Range,AWD,Green
+2012,Q4,North America,Model S,211,67138.02,57,Long Range,RWD,Silver
+2012,Q3,Asia,Semi,2808,36509.82,14,Performance,RWD,Black
+2023,Q4,Asia,Model 3,1551,93423.19,45,Standard,AWD,White
+2023,Q2,Europe,Model X,2661,40987.34,38,Performance,AWD,Silver
+2017,Q1,Australia,Model X,1871,79740.7,8,Standard,AWD,Silver
+2017,Q4,Australia,Semi,538,90446.38,25,Long Range,AWD,Black
+2016,Q2,Asia,Semi,2033,70408.92,34,Long Range,AWD,Blue
+2013,Q4,Asia,Model S,543,40219.18,46,Performance,AWD,White
+2014,Q2,Asia,Model Y,1044,59065.2,7,Standard,RWD,White
+2017,Q4,Europe,Model Y,3079,99739.61,21,Performance,RWD,Red
+2014,Q1,South America,Model X,3638,37858.25,16,Long Range,RWD,Blue
+2015,Q3,Europe,Cybertruck,3742,40336.1,56,Long Range,AWD,White
+2024,Q3,South America,Model S,2520,94404.77,32,Performance,RWD,Green
+2017,Q4,South America,Model Y,1635,75836.15,60,Performance,AWD,White
+2023,Q2,North America,Cybertruck,1011,68813.14,26,Performance,AWD,Blue
+2022,Q2,Europe,Model X,4097,69409.61,56,Performance,RWD,Blue
+2017,Q2,South America,Cybertruck,501,118392.33,1,Performance,AWD,White
+2013,Q1,South America,Model X,740,72792.33,50,Performance,AWD,Blue
+2016,Q2,Asia,Model X,116,107696.22,23,Standard,AWD,Green
+2024,Q4,Australia,Model S,1954,43099.88,51,Long Range,AWD,White
+2024,Q4,Australia,Cybertruck,4230,78827.47,51,Standard,RWD,Silver
+2024,Q4,Australia,Model 3,4674,46867.42,1,Long Range,AWD,White
+2022,Q3,North America,Model Y,4982,91414.63,34,Standard,AWD,Silver
+2012,Q1,Asia,Model S,3060,87842.69,60,Long Range,RWD,Blue
+2016,Q4,South America,Model S,699,103327.6,49,Standard,AWD,White
+2022,Q2,South America,Model S,3932,85594.97,6,Performance,RWD,Silver
+2024,Q4,North America,Cybertruck,273,110637.55,4,Long Range,AWD,Red
+2022,Q3,South America,Model Y,1750,45718.39,0,Performance,RWD,Red
+2020,Q1,Asia,Cybertruck,4108,38673.01,26,Long Range,RWD,White
+2015,Q1,North America,Model 3,4253,89735.47,37,Standard,RWD,Blue
+2015,Q3,Europe,Cybertruck,164,37780.33,50,Performance,AWD,White
+2020,Q4,South America,Semi,2555,79145.76,13,Performance,AWD,Blue
+2015,Q4,North America,Model Y,324,35200.19,17,Performance,RWD,White
+2015,Q4,Europe,Model X,3008,71665.89,17,Long Range,AWD,Black
+2024,Q4,North America,Model S,838,110209.82,19,Performance,AWD,Black
+2023,Q1,North America,Model S,576,48999.24,13,Standard,AWD,Red
+2016,Q1,Asia,Model 3,2567,58931.83,57,Standard,AWD,Silver
+2023,Q3,Europe,Cybertruck,612,72059.42,14,Long Range,AWD,White
+2019,Q1,Asia,Model X,2803,42741.45,19,Performance,RWD,Green
+2022,Q2,South America,Cybertruck,539,91368.14,1,Standard,AWD,Green
+2013,Q3,Asia,Model Y,1173,96341.66,14,Standard,AWD,Red
+2019,Q1,Asia,Model X,1181,97813.75,57,Long Range,RWD,Red
+2016,Q1,North America,Model 3,2898,36310.49,28,Performance,RWD,White
+2021,Q3,Australia,Model X,440,90943.81,49,Long Range,AWD,Black
+2014,Q2,South America,Model S,2544,54745.44,7,Long Range,AWD,Blue
+2021,Q3,North America,Model S,1014,66456.17,34,Long Range,AWD,Black
+2016,Q3,South America,Cybertruck,2389,95457.17,47,Performance,AWD,Blue
+2016,Q3,Asia,Model S,545,48272.63,31,Long Range,RWD,Black
+2013,Q1,South America,Cybertruck,672,69605.0,33,Standard,RWD,Green
+2022,Q1,South America,Cybertruck,906,62000.05,31,Long Range,RWD,Red
+2019,Q1,Asia,Semi,3107,63678.18,13,Standard,AWD,Red
+2019,Q2,Asia,Model S,3054,66112.32,50,Performance,AWD,White
+2024,Q2,North America,Model 3,1091,39359.49,4,Standard,RWD,White
+2014,Q3,North America,Model S,4748,55282.97,10,Standard,RWD,Blue
+2020,Q3,Asia,Semi,2927,45761.5,25,Long Range,RWD,Red
+2018,Q2,Europe,Model 3,841,106103.1,7,Performance,RWD,White
+2016,Q2,Europe,Model S,4107,105278.73,57,Long Range,AWD,Red
+2014,Q4,North America,Model S,4032,100769.0,56,Performance,RWD,Green
+2015,Q2,Asia,Model 3,1261,52881.79,31,Long Range,AWD,White
+2023,Q2,Australia,Model S,3294,96536.79,23,Long Range,RWD,Black
+2019,Q4,North America,Model S,1269,117038.25,54,Long Range,RWD,White
+2017,Q4,Europe,Model 3,3745,104489.34,48,Long Range,RWD,Green
+2014,Q4,Australia,Cybertruck,633,99643.53,4,Long Range,RWD,Red
+2015,Q3,North America,Cybertruck,3679,63079.67,55,Long Range,RWD,Red
+2022,Q3,North America,Cybertruck,1696,97311.72,51,Standard,RWD,Silver
+2021,Q3,Australia,Model X,2004,39322.36,3,Standard,AWD,Blue
+2016,Q2,North America,Model 3,3918,59538.14,52,Standard,RWD,Silver
+2018,Q2,Europe,Model X,293,92718.94,11,Performance,AWD,Silver
+2015,Q4,Europe,Model Y,1250,119598.58,49,Long Range,RWD,Black
+2017,Q1,North America,Model Y,4788,50945.73,55,Standard,RWD,White
+2015,Q2,South America,Model Y,3540,104134.46,0,Performance,RWD,Blue
+2019,Q2,Europe,Semi,4746,45087.81,45,Standard,RWD,Blue
+2017,Q3,South America,Cybertruck,4805,41394.36,38,Long Range,RWD,Silver
+2015,Q3,Europe,Model X,898,107382.88,9,Long Range,AWD,Red
+2021,Q4,Europe,Cybertruck,808,91793.0,55,Performance,AWD,Black
+2012,Q3,Asia,Model 3,2692,42444.03,13,Long Range,RWD,Green
+2019,Q1,Asia,Model X,1779,55664.19,40,Performance,AWD,White
+2020,Q1,Europe,Cybertruck,2537,64458.59,7,Performance,RWD,Silver
+2015,Q2,South America,Model Y,959,101868.84,26,Long Range,RWD,Blue
+2013,Q2,Australia,Semi,2177,76130.04,26,Performance,RWD,Black
+2016,Q1,South America,Model Y,1440,87092.85,4,Performance,AWD,Green
+2015,Q1,Australia,Model X,2722,102936.81,16,Long Range,AWD,Blue
+2021,Q1,South America,Model X,779,56929.89,22,Performance,AWD,Silver
+2018,Q4,South America,Model 3,2578,52227.2,22,Performance,RWD,Silver
+2016,Q2,Australia,Semi,3384,51672.59,25,Standard,RWD,Red
+2022,Q3,South America,Semi,1102,86587.9,34,Long Range,AWD,Red
+2016,Q2,North America,Model X,2117,61351.86,55,Standard,RWD,Blue
+2023,Q4,North America,Model 3,3066,56376.45,29,Long Range,RWD,Black
+2013,Q3,North America,Model Y,1439,105257.95,14,Long Range,RWD,Red
+2023,Q2,South America,Model S,85,50243.61,44,Long Range,AWD,Red
+2023,Q1,Asia,Cybertruck,4101,64319.22,44,Long Range,RWD,Blue
+2016,Q2,North America,Cybertruck,1179,60040.01,13,Standard,AWD,Blue
+2022,Q2,Europe,Model X,1964,114499.64,45,Performance,AWD,Green
+2020,Q4,Australia,Semi,4318,44646.76,5,Performance,AWD,Silver
+2019,Q3,Europe,Model X,3515,61316.76,42,Standard,AWD,Silver
+2023,Q3,South America,Model 3,521,54165.65,30,Performance,RWD,Silver
+2017,Q2,South America,Semi,784,37087.48,54,Performance,RWD,Black
+2023,Q2,Europe,Cybertruck,3017,81566.56,46,Long Range,AWD,Red
+2013,Q4,North America,Model 3,1153,49455.22,46,Performance,RWD,Blue
+2014,Q1,North America,Model 3,4944,73580.0,38,Long Range,RWD,White
+2013,Q4,Australia,Model Y,3629,106033.2,39,Performance,AWD,Red
+2017,Q4,Europe,Model S,4801,116122.84,38,Performance,RWD,Silver
+2023,Q2,Asia,Model Y,2442,100420.07,22,Performance,RWD,White
+2019,Q4,Asia,Model X,595,43452.01,37,Performance,AWD,White
+2023,Q1,Asia,Semi,3305,69614.72,0,Performance,RWD,Black
+2012,Q2,Europe,Model X,1481,44341.84,49,Standard,AWD,Black
+2021,Q4,North America,Model X,849,46182.07,38,Long Range,RWD,White
+2024,Q1,Australia,Cybertruck,2896,53941.46,22,Performance,RWD,Black
+2019,Q2,North America,Model S,701,59406.12,38,Long Range,AWD,Black
+2022,Q3,North America,Model S,3016,87445.64,23,Performance,AWD,White
+2017,Q3,South America,Model S,3861,81511.13,11,Long Range,RWD,Red
+2021,Q4,North America,Semi,3342,42877.47,42,Long Range,RWD,Red
+2019,Q1,Australia,Cybertruck,1126,110326.7,26,Performance,AWD,White
+2017,Q1,Europe,Model S,2170,66062.37,37,Performance,RWD,Silver
+2023,Q3,South America,Semi,746,55633.1,34,Performance,RWD,Green
+2015,Q2,Asia,Model S,3672,36058.42,29,Standard,AWD,Blue
+2020,Q2,Europe,Model S,2550,58963.66,18,Performance,AWD,White
+2014,Q3,South America,Cybertruck,189,36263.07,50,Performance,AWD,Silver
+2012,Q3,Australia,Cybertruck,1447,63227.95,51,Performance,AWD,Blue
+2018,Q3,Asia,Model Y,1489,41913.32,24,Long Range,AWD,Green
+2015,Q4,Europe,Cybertruck,1097,44883.07,44,Standard,RWD,Red
+2021,Q3,Asia,Model X,4833,58630.48,38,Long Range,AWD,White
+2021,Q1,Asia,Model Y,2717,43575.75,18,Long Range,RWD,White
+2017,Q1,South America,Cybertruck,1928,111080.77,16,Standard,AWD,Blue
+2019,Q2,Australia,Semi,1049,119884.15,16,Standard,AWD,White
+2019,Q2,North America,Model Y,2487,112690.05,38,Long Range,RWD,Black
+2012,Q3,South America,Model 3,3818,66085.03,43,Performance,AWD,Blue
+2022,Q1,South America,Model S,866,102915.69,38,Performance,RWD,Black
+2017,Q3,Europe,Model X,1651,50944.89,36,Performance,RWD,Green
+2012,Q1,South America,Semi,713,92858.54,48,Long Range,AWD,Red
+2013,Q2,North America,Model 3,3046,77139.5,51,Performance,RWD,Silver
+2022,Q1,Asia,Model 3,4477,52892.81,5,Performance,RWD,Blue
+2019,Q4,North America,Model S,1085,53893.12,24,Standard,RWD,Blue
+2022,Q1,South America,Model X,3049,77748.19,55,Long Range,AWD,Red
+2012,Q2,North America,Model S,1313,67355.22,14,Long Range,AWD,White
+2024,Q3,Australia,Model Y,1873,103998.33,27,Performance,AWD,White
+2018,Q4,Australia,Semi,1079,49225.91,58,Performance,RWD,Blue
+2014,Q3,Asia,Cybertruck,3735,80254.09,24,Long Range,AWD,Blue
+2017,Q2,South America,Cybertruck,3085,50735.96,5,Standard,RWD,White
+2015,Q3,South America,Semi,3074,110855.12,32,Performance,AWD,Blue
+2024,Q3,Europe,Model Y,4393,49243.99,30,Long Range,RWD,Silver
+2013,Q3,South America,Model S,4500,107975.26,28,Performance,RWD,White
+2019,Q1,North America,Model S,1253,96895.91,39,Long Range,RWD,Black
+2022,Q1,North America,Model X,2603,103594.85,17,Standard,RWD,Black
+2024,Q3,North America,Model S,798,73765.22,53,Standard,AWD,Black
+2024,Q2,Australia,Model X,1437,76678.76,26,Standard,AWD,Red
+2023,Q4,Australia,Semi,634,81255.18,24,Standard,AWD,Silver
+2015,Q1,Asia,Model S,342,45361.05,53,Standard,AWD,Green
+2013,Q1,Australia,Model 3,1520,82484.63,47,Standard,RWD,Red
+2024,Q2,Asia,Model X,2519,101868.94,38,Long Range,RWD,White
+2012,Q2,Asia,Model 3,2113,90322.1,8,Long Range,AWD,Black
+2021,Q2,North America,Model 3,917,101142.5,26,Long Range,RWD,Green
+2018,Q4,Australia,Model Y,3629,49843.95,24,Standard,AWD,Green
+2016,Q3,South America,Model X,2545,112289.37,22,Long Range,RWD,Green
+2019,Q2,Europe,Model 3,3887,100238.39,27,Long Range,RWD,Green
+2022,Q1,Asia,Model 3,3201,70335.93,48,Performance,RWD,White
+2014,Q4,Asia,Model Y,3069,60777.61,57,Performance,AWD,Green
+2019,Q4,North America,Model S,2595,109515.1,7,Standard,RWD,Green
+2018,Q3,North America,Cybertruck,575,66991.69,57,Performance,RWD,Green
+2016,Q2,North America,Model S,1189,74051.56,14,Standard,AWD,Green
+2018,Q2,North America,Model S,2584,55951.14,47,Standard,RWD,White
+2012,Q4,Asia,Semi,3174,110531.86,18,Standard,AWD,Green
+2021,Q3,Australia,Model X,1144,102699.32,60,Performance,RWD,Black
+2012,Q1,North America,Model X,4895,86942.41,7,Standard,RWD,Blue
+2024,Q2,Europe,Cybertruck,2822,103102.5,59,Performance,AWD,Red
+2015,Q1,Europe,Model X,1345,61473.68,33,Performance,RWD,Red
+2021,Q2,North America,Model X,758,63882.43,37,Long Range,RWD,Black
+2017,Q3,South America,Model 3,2759,71823.6,46,Long Range,AWD,Silver
+2019,Q3,Europe,Semi,3917,75920.04,6,Long Range,AWD,Blue
+2017,Q3,Asia,Model S,3493,59278.94,36,Standard,AWD,Red
+2024,Q1,Europe,Model Y,2096,49431.42,43,Long Range,AWD,Silver
+2022,Q3,South America,Model X,2682,116024.81,19,Standard,AWD,Red
+2013,Q2,North America,Model Y,2052,52054.39,11,Long Range,AWD,Black
+2018,Q1,Australia,Cybertruck,2975,36638.86,59,Long Range,AWD,Blue
+2014,Q3,North America,Semi,2179,51617.02,27,Performance,RWD,Silver
+2020,Q1,South America,Model 3,4815,88669.39,9,Long Range,AWD,Silver
+2019,Q3,Australia,Model Y,115,43716.43,2,Performance,RWD,Green
+2024,Q4,Australia,Model X,708,76436.89,31,Standard,AWD,Black
+2017,Q3,South America,Model 3,4079,70961.23,23,Standard,AWD,Silver
+2023,Q2,Australia,Model 3,4432,42905.15,47,Standard,RWD,Red
+2018,Q3,Asia,Semi,2122,80801.89,7,Performance,RWD,Black
+2015,Q1,Asia,Model S,1753,61379.11,42,Long Range,RWD,Red
+2014,Q3,Europe,Semi,4298,106046.22,59,Performance,AWD,White
+2019,Q1,Europe,Cybertruck,1959,53190.13,24,Long Range,RWD,Blue
+2015,Q3,North America,Cybertruck,2061,63503.21,48,Performance,AWD,Blue
+2013,Q3,Australia,Cybertruck,4213,77362.39,57,Performance,RWD,Silver
+2021,Q3,Australia,Model S,493,114136.82,37,Performance,AWD,Black
+2021,Q3,Europe,Model S,221,54463.01,60,Long Range,RWD,Red
+2024,Q2,Europe,Model X,1506,106328.19,18,Performance,RWD,Blue
+2024,Q3,Europe,Cybertruck,3524,81133.4,25,Standard,AWD,Green
+2013,Q3,Europe,Semi,4245,88289.15,43,Long Range,RWD,Black
+2018,Q3,Europe,Model 3,4071,96440.99,13,Standard,AWD,White
+2023,Q3,Europe,Semi,1505,43376.42,52,Standard,RWD,Black
+2016,Q1,Asia,Cybertruck,3240,104399.92,39,Long Range,RWD,Red
+2019,Q3,Australia,Model Y,840,92467.99,29,Standard,AWD,Red
+2012,Q2,Europe,Semi,3642,84080.78,27,Standard,RWD,White
+2016,Q4,Asia,Cybertruck,2569,97711.89,5,Performance,RWD,Silver
+2020,Q4,South America,Model Y,259,90094.65,13,Long Range,RWD,White
+2015,Q2,Europe,Model 3,2884,118169.49,23,Standard,RWD,Red
+2021,Q2,Australia,Model Y,1502,47366.53,42,Long Range,RWD,Blue
+2022,Q4,Asia,Model S,3816,90695.62,15,Performance,RWD,Silver
+2020,Q4,South America,Cybertruck,4386,47720.41,32,Standard,RWD,Black
+2023,Q2,Australia,Cybertruck,4068,54791.76,40,Long Range,AWD,Red
+2012,Q4,Australia,Model 3,1313,69707.68,40,Long Range,AWD,Silver
+2017,Q4,Asia,Model Y,4157,115717.74,36,Performance,AWD,Black
+2020,Q4,Australia,Model 3,3241,64765.64,33,Performance,RWD,Silver
+2019,Q4,Europe,Cybertruck,4561,64600.41,48,Standard,RWD,Green
+2020,Q4,Australia,Semi,4706,48688.96,44,Long Range,RWD,Green
+2015,Q4,Asia,Cybertruck,4681,68298.86,45,Standard,RWD,Blue
+2012,Q2,Australia,Model X,540,107765.71,30,Long Range,RWD,Green
+2018,Q1,Europe,Model S,4129,64073.48,0,Standard,AWD,Blue
+2018,Q3,Europe,Model 3,1536,45809.37,19,Performance,RWD,White
+2017,Q1,Australia,Model S,2910,97730.7,43,Long Range,RWD,Green
+2019,Q2,North America,Semi,3128,84122.06,38,Standard,AWD,Red
+2013,Q3,North America,Model X,3190,108471.15,35,Standard,AWD,Silver
+2020,Q4,Asia,Model X,3810,40897.63,49,Standard,RWD,Green
+2017,Q4,North America,Cybertruck,2579,58138.29,25,Standard,RWD,Red
+2017,Q1,Asia,Cybertruck,220,105926.29,54,Long Range,RWD,Green
+2021,Q1,Europe,Model X,1298,42025.17,50,Performance,RWD,Red
+2022,Q1,Europe,Model Y,3462,99762.72,8,Standard,RWD,Blue
+2024,Q1,Europe,Model X,3211,53433.76,12,Performance,AWD,Silver
+2020,Q3,Europe,Cybertruck,998,62848.23,53,Long Range,AWD,Red
+2021,Q1,Asia,Cybertruck,4306,109062.57,7,Long Range,AWD,White
+2014,Q4,Australia,Model Y,4443,82029.2,18,Long Range,RWD,Black
+2024,Q2,Europe,Cybertruck,887,105953.51,11,Standard,RWD,Blue
+2012,Q3,Europe,Model 3,760,90952.16,5,Performance,AWD,Red
+2024,Q2,Australia,Model 3,1489,54266.32,39,Performance,AWD,Blue
+2024,Q3,Australia,Model X,173,79856.49,19,Long Range,RWD,Red
+2013,Q2,Asia,Model X,1273,62948.24,5,Performance,AWD,Silver
+2018,Q1,Australia,Model S,3168,56413.18,58,Standard,RWD,White
+2016,Q1,Asia,Model Y,1916,50962.07,27,Performance,RWD,Red
+2016,Q3,North America,Model X,4824,65466.81,17,Performance,RWD,White
+2015,Q1,Australia,Cybertruck,2597,80004.35,54,Long Range,AWD,Black
+2012,Q3,Asia,Semi,1068,92296.25,39,Standard,AWD,Silver
+2017,Q1,Asia,Model 3,1247,112927.99,24,Standard,RWD,Silver
+2017,Q2,South America,Model Y,1605,100353.73,53,Long Range,AWD,Black
+2019,Q3,North America,Semi,2624,42625.72,41,Performance,AWD,Red
+2017,Q3,Europe,Model Y,383,38582.61,8,Performance,AWD,Black
+2016,Q4,Asia,Model 3,4936,58016.54,28,Long Range,RWD,Blue
+2015,Q1,North America,Model S,1423,45847.72,4,Standard,AWD,Green
+2024,Q3,Australia,Model X,4669,78050.84,45,Performance,AWD,Silver
+2024,Q3,Europe,Model S,2933,40369.57,12,Performance,RWD,Blue
+2022,Q1,North America,Model 3,215,48798.46,56,Standard,AWD,Black
+2014,Q4,Europe,Semi,1140,70059.12,47,Standard,AWD,White
+2012,Q1,North America,Semi,2941,99732.24,6,Standard,AWD,Blue
+2023,Q2,North America,Model S,2845,72776.69,36,Long Range,AWD,Black
+2014,Q2,Asia,Model Y,2378,36861.6,43,Performance,AWD,Red
+2015,Q1,South America,Semi,1060,110387.87,40,Performance,RWD,Silver
+2020,Q4,Europe,Model Y,1776,63325.09,12,Standard,RWD,Red
+2023,Q4,Asia,Model S,2546,94565.75,16,Long Range,AWD,Silver
+2022,Q2,Australia,Model X,4746,70219.78,35,Performance,RWD,Silver
+2013,Q2,Asia,Semi,4540,71825.49,27,Standard,AWD,Silver
+2022,Q1,Europe,Semi,2231,75731.91,17,Performance,AWD,Silver
+2023,Q2,Asia,Model X,1785,85974.67,46,Long Range,AWD,White
+2019,Q4,South America,Model 3,206,83313.2,35,Performance,AWD,Black
+2023,Q1,South America,Model Y,2072,65425.61,58,Standard,RWD,Silver
+2012,Q3,Europe,Model Y,3970,113287.56,35,Long Range,AWD,White
+2021,Q4,Asia,Model Y,2109,112877.11,4,Standard,AWD,Red
+2021,Q1,Europe,Semi,2599,93770.75,7,Standard,AWD,White
+2023,Q3,Asia,Model 3,1555,78778.22,40,Standard,AWD,Black
+2017,Q2,Europe,Model X,1494,45139.23,38,Long Range,AWD,Green
+2019,Q3,North America,Model S,3325,51730.19,31,Performance,AWD,Black
+2023,Q1,Europe,Model Y,2192,93158.03,60,Long Range,AWD,Blue
+2024,Q1,Europe,Model 3,1857,46270.28,39,Performance,AWD,Red
+2020,Q3,North America,Model X,3815,65148.37,60,Standard,RWD,Green
+2016,Q1,North America,Cybertruck,3165,67515.58,43,Long Range,AWD,Silver
+2023,Q4,North America,Model S,1557,39187.62,30,Standard,AWD,Green
+2015,Q2,Asia,Semi,4583,47758.24,14,Performance,RWD,Red
+2020,Q2,Europe,Model Y,112,88959.37,45,Long Range,AWD,Black
+2018,Q2,North America,Model Y,4374,40489.83,43,Performance,RWD,Silver
+2022,Q2,South America,Model S,2422,111366.43,37,Performance,AWD,Red
+2013,Q2,South America,Cybertruck,98,47077.1,33,Long Range,RWD,Red
+2013,Q2,Australia,Model S,2672,76036.16,42,Long Range,AWD,Red
+2017,Q1,Australia,Model 3,2629,76910.83,4,Standard,RWD,White
+2017,Q3,North America,Model S,4563,66249.28,5,Standard,AWD,Red
+2020,Q1,Europe,Semi,2035,63610.72,14,Standard,RWD,Blue
+2020,Q1,South America,Model 3,4406,54511.56,31,Performance,RWD,Green
+2013,Q3,South America,Model 3,2598,88470.9,54,Standard,RWD,Green
+2012,Q1,South America,Model Y,3488,79706.11,46,Performance,AWD,Black
+2019,Q1,Australia,Semi,920,67958.64,46,Long Range,RWD,Blue
+2021,Q2,Europe,Model X,2134,111226.52,3,Long Range,RWD,Blue
+2012,Q3,South America,Semi,2462,115931.29,30,Performance,AWD,Black
+2020,Q2,Asia,Cybertruck,2099,96764.91,59,Performance,AWD,White
+2018,Q3,Australia,Model Y,3487,73891.79,21,Long Range,AWD,Red
+2024,Q4,Europe,Model X,2827,46666.07,29,Long Range,AWD,White
+2022,Q2,North America,Model X,1722,58822.04,9,Standard,RWD,Silver
+2018,Q3,South America,Model X,4696,91218.16,1,Standard,RWD,Red
+2021,Q1,Asia,Model Y,1630,68569.1,54,Standard,AWD,Silver
+2019,Q1,Australia,Semi,3799,62053.82,38,Long Range,RWD,Green
+2019,Q1,Asia,Model S,4418,103394.29,30,Long Range,RWD,Red
+2015,Q4,North America,Model Y,2330,106222.78,5,Long Range,AWD,Red
+2012,Q3,Australia,Model 3,2605,75354.24,27,Performance,AWD,White
+2020,Q3,Europe,Model 3,564,118005.51,60,Standard,RWD,White
+2022,Q3,Australia,Model Y,3485,40792.71,1,Performance,RWD,Red
+2012,Q2,South America,Model S,2888,73558.71,58,Performance,RWD,White
+2018,Q2,Europe,Model S,1391,44657.14,20,Performance,AWD,Silver
+2014,Q3,South America,Cybertruck,1633,105625.31,9,Standard,RWD,Blue
+2014,Q4,South America,Cybertruck,4213,117666.75,46,Standard,RWD,Blue
+2016,Q2,Australia,Cybertruck,2033,57555.98,34,Performance,AWD,Green
+2015,Q3,North America,Model X,2381,82582.11,30,Performance,RWD,Blue
+2012,Q4,South America,Cybertruck,4325,91939.54,28,Performance,RWD,Green
+2018,Q3,North America,Cybertruck,3365,107892.32,49,Standard,RWD,Black
+2018,Q3,North America,Semi,2126,72119.55,26,Standard,AWD,Blue
+2016,Q4,Asia,Model X,1313,93503.75,59,Performance,RWD,Green
+2019,Q1,North America,Model 3,711,77541.35,3,Standard,AWD,Green
+2014,Q2,Europe,Cybertruck,609,50999.99,42,Performance,AWD,Silver
+2015,Q2,South America,Model Y,2635,78390.38,48,Long Range,RWD,Black
+2012,Q4,Australia,Model S,4749,60237.89,33,Standard,AWD,Blue
+2023,Q3,Europe,Semi,401,84233.62,11,Long Range,RWD,Silver
+2020,Q3,North America,Model 3,3189,78318.39,2,Long Range,RWD,Red
+2023,Q4,North America,Model Y,2031,59389.82,55,Long Range,RWD,Black
+2024,Q3,Asia,Model 3,3708,95796.29,56,Long Range,AWD,Red
+2022,Q1,Europe,Model X,3045,115074.9,32,Performance,AWD,Green
+2021,Q2,Asia,Model X,2864,60537.75,52,Long Range,RWD,Green
+2023,Q4,Europe,Cybertruck,2341,117144.09,33,Long Range,RWD,Silver
+2024,Q4,Asia,Model S,1584,76724.44,4,Performance,AWD,Blue
+2024,Q3,South America,Model Y,392,67194.57,39,Long Range,AWD,Green
+2013,Q1,South America,Model Y,93,93350.14,0,Standard,AWD,Black
+2012,Q1,Asia,Model Y,4445,50414.87,51,Long Range,RWD,Silver
+2023,Q4,North America,Model 3,3858,115592.72,12,Standard,RWD,Red
+2016,Q1,Australia,Cybertruck,2156,101123.73,40,Performance,RWD,Blue
+2012,Q1,Europe,Model Y,2205,51266.02,32,Long Range,RWD,Green
+2023,Q2,Europe,Semi,1977,57828.53,2,Standard,RWD,White
+2013,Q4,Europe,Semi,2246,77464.1,48,Standard,AWD,Green
+2017,Q1,North America,Cybertruck,3989,66495.66,49,Long Range,RWD,White
+2017,Q1,North America,Semi,1672,88636.13,5,Standard,RWD,Green
+2019,Q2,Europe,Model Y,361,40676.0,27,Long Range,AWD,Blue
+2022,Q4,Australia,Model X,3477,107191.83,59,Performance,AWD,Blue
+2023,Q1,Australia,Model X,4167,71615.65,14,Long Range,AWD,Red
+2022,Q4,North America,Semi,3940,62179.99,25,Performance,RWD,Black
+2024,Q3,South America,Model 3,496,35921.72,51,Long Range,AWD,Green
+2020,Q2,North America,Cybertruck,1577,72455.45,10,Long Range,RWD,Silver
+2022,Q1,North America,Model S,1900,59181.67,11,Standard,RWD,Black
+2012,Q1,North America,Model 3,2006,40013.37,53,Performance,AWD,Green
+2023,Q1,South America,Model 3,3868,100268.15,60,Standard,RWD,White
+2022,Q2,Europe,Model Y,2739,87788.23,28,Long Range,RWD,Red
+2018,Q1,South America,Model Y,4430,88979.81,49,Performance,RWD,Silver
+2022,Q4,Australia,Model X,3785,113219.51,50,Long Range,RWD,White
+2018,Q2,Europe,Semi,2083,101329.07,15,Standard,AWD,White
+2017,Q3,Australia,Model S,2994,48209.86,29,Standard,AWD,Red
+2021,Q2,North America,Cybertruck,4331,80685.77,31,Performance,AWD,Blue
+2021,Q4,Asia,Model Y,75,89244.04,56,Long Range,RWD,Blue
+2021,Q3,North America,Model Y,1207,88646.92,49,Performance,RWD,Blue
+2012,Q1,South America,Model S,4234,74532.84,29,Standard,AWD,White
+2022,Q4,North America,Model X,336,51218.15,19,Long Range,AWD,Green
+2015,Q2,Asia,Model X,4858,41374.51,50,Long Range,AWD,White
+2016,Q2,Asia,Model 3,2647,107012.69,0,Standard,AWD,Blue
+2016,Q4,Asia,Cybertruck,581,93231.54,20,Standard,RWD,Red
+2013,Q2,Europe,Model Y,752,39179.06,19,Performance,AWD,Black
+2012,Q1,Australia,Model 3,2008,83156.68,47,Standard,AWD,Blue
+2013,Q2,South America,Semi,1785,35220.98,1,Long Range,AWD,Black
+2023,Q4,North America,Model Y,749,43065.38,9,Performance,AWD,Black
+2019,Q2,Asia,Model X,230,100570.94,45,Performance,AWD,Silver
+2014,Q1,Australia,Model 3,3125,46064.61,31,Standard,AWD,Silver
+2015,Q4,South America,Semi,1809,68383.16,47,Standard,AWD,White
+2016,Q2,Asia,Model X,688,35297.21,29,Performance,RWD,Green
+2013,Q3,Asia,Model S,4556,90427.82,38,Long Range,RWD,White
+2014,Q2,North America,Model X,1648,91047.15,28,Long Range,AWD,White
+2012,Q3,Australia,Cybertruck,1143,96891.94,55,Performance,AWD,Silver
+2021,Q3,Europe,Model 3,2880,92692.57,31,Performance,AWD,Black
+2024,Q2,Asia,Model Y,4737,117942.44,36,Performance,AWD,White
+2019,Q1,North America,Model 3,3991,100636.63,6,Long Range,AWD,White
+2014,Q4,Australia,Model S,226,116916.41,37,Performance,RWD,Green
+2019,Q2,Asia,Cybertruck,225,99161.35,9,Long Range,RWD,Silver
+2014,Q3,South America,Cybertruck,2704,103271.84,5,Performance,RWD,Blue
+2014,Q1,Australia,Model 3,1704,57585.03,21,Performance,AWD,White
+2016,Q2,North America,Model S,4325,99587.04,39,Long Range,RWD,Silver
+2015,Q1,Europe,Model Y,2211,36971.62,48,Performance,AWD,Green
+2024,Q3,South America,Semi,2624,41824.86,32,Performance,AWD,Green
+2022,Q2,Asia,Model X,4985,95664.98,34,Performance,AWD,Red
+2015,Q2,North America,Model Y,3905,85073.78,48,Standard,RWD,Blue
+2012,Q1,North America,Model Y,3715,44372.0,36,Standard,RWD,Silver
+2023,Q2,South America,Model 3,747,79644.6,55,Performance,RWD,Blue
+2018,Q2,Europe,Model S,712,85848.91,2,Performance,AWD,Red
+2021,Q1,Europe,Semi,3653,74385.93,6,Long Range,AWD,Silver
+2017,Q4,Australia,Model X,4121,42859.37,21,Long Range,RWD,White
+2013,Q3,North America,Semi,4862,116331.5,21,Long Range,RWD,White
+2019,Q4,Australia,Semi,3345,76315.64,44,Standard,RWD,Green
+2013,Q2,Asia,Model X,528,102634.75,28,Performance,AWD,Blue
+2021,Q2,Asia,Model 3,3486,35103.95,29,Performance,RWD,Black
+2013,Q2,Europe,Model 3,1136,89709.66,58,Standard,AWD,Black
+2015,Q2,North America,Model S,2836,69306.67,44,Performance,AWD,White
+2018,Q3,South America,Model 3,957,64292.88,52,Performance,RWD,White
+2020,Q1,Australia,Model S,833,78511.2,55,Standard,RWD,White
+2012,Q1,Australia,Cybertruck,642,85395.69,19,Long Range,RWD,Green
+2015,Q3,Asia,Semi,3978,93816.45,7,Performance,RWD,White
+2019,Q1,Australia,Model Y,2598,54379.3,13,Performance,AWD,Green
+2024,Q2,North America,Model Y,3909,71461.92,16,Standard,AWD,Green
+2012,Q3,Europe,Semi,433,61463.89,21,Long Range,RWD,Silver
+2021,Q2,South America,Model S,1414,63945.48,13,Standard,RWD,White
+2014,Q1,Asia,Model Y,1983,99818.05,10,Performance,RWD,White
+2014,Q2,Asia,Semi,2270,88920.1,51,Long Range,RWD,Blue
+2023,Q1,Asia,Model 3,3158,96021.54,30,Standard,AWD,Black
+2022,Q2,Asia,Semi,4728,101153.71,53,Standard,RWD,Black
+2016,Q4,South America,Model Y,1368,39323.79,30,Long Range,AWD,Silver
+2015,Q3,South America,Semi,2686,63876.67,23,Standard,RWD,Silver
+2014,Q4,Europe,Model X,1934,104531.83,53,Standard,RWD,White
+2016,Q3,Asia,Model X,2783,102975.71,5,Standard,AWD,Black
+2020,Q2,North America,Cybertruck,1295,90566.44,11,Standard,AWD,Black
+2016,Q1,North America,Semi,108,85858.62,42,Long Range,RWD,Black
+2013,Q2,Asia,Model 3,2118,93188.55,12,Long Range,RWD,Blue
+2013,Q3,Asia,Semi,4095,50346.12,56,Long Range,RWD,White
+2020,Q2,Australia,Model S,3839,48513.19,35,Performance,RWD,Silver
+2023,Q2,South America,Model X,2385,116179.41,46,Standard,AWD,White
+2014,Q1,North America,Semi,2913,39500.23,41,Performance,RWD,Red
+2016,Q2,Asia,Cybertruck,3712,79430.64,40,Standard,RWD,Red
+2013,Q2,Australia,Semi,4820,37879.01,4,Long Range,RWD,Green
+2022,Q2,South America,Model X,1185,74717.82,60,Long Range,RWD,Blue
+2018,Q1,North America,Model S,3366,103435.08,23,Performance,RWD,Black
+2017,Q1,North America,Model S,720,37300.93,42,Performance,AWD,Green
+2023,Q1,Asia,Semi,3941,83336.43,6,Performance,RWD,Black
+2021,Q2,Australia,Cybertruck,3023,73132.24,46,Standard,RWD,Green
+2014,Q1,Australia,Semi,1477,83595.47,9,Standard,AWD,Green
+2012,Q2,South America,Semi,216,93497.38,32,Performance,RWD,Blue
+2016,Q3,North America,Semi,2452,103648.39,29,Performance,AWD,White
+2022,Q1,North America,Semi,1461,85496.32,34,Standard,RWD,Green
+2013,Q4,South America,Model S,1727,102562.73,20,Performance,AWD,Black
+2016,Q3,South America,Semi,1416,119217.14,10,Standard,AWD,Black
+2015,Q2,North America,Model 3,1907,72917.9,48,Performance,RWD,Green
+2020,Q4,Asia,Model X,1404,112228.71,42,Long Range,RWD,Black
+2018,Q1,South America,Model 3,66,89320.06,29,Long Range,AWD,Blue
+2015,Q4,South America,Model S,1560,55964.84,46,Performance,RWD,Green
+2019,Q4,Europe,Model X,4481,38058.19,36,Performance,RWD,Black
+2012,Q1,North America,Model Y,2681,89235.23,21,Performance,RWD,Blue
+2013,Q4,Australia,Semi,4077,79146.12,53,Performance,AWD,Black
+2013,Q3,Asia,Semi,199,119369.9,12,Performance,AWD,Red
+2024,Q1,Asia,Cybertruck,4267,88290.58,58,Performance,AWD,Silver
+2021,Q2,South America,Model 3,4760,106730.92,25,Standard,AWD,Green
+2024,Q3,South America,Model Y,3979,38320.63,41,Long Range,RWD,White
+2019,Q2,North America,Semi,889,119310.68,47,Standard,RWD,Black
+2024,Q2,Europe,Model S,1037,94590.33,14,Long Range,AWD,Green
+2023,Q3,Australia,Model S,2937,51038.79,59,Long Range,RWD,Green
+2018,Q3,Australia,Model 3,1080,83017.55,48,Long Range,RWD,Black
+2013,Q2,Australia,Model 3,3954,89346.35,4,Performance,RWD,Green
+2017,Q3,Asia,Semi,2373,100341.53,58,Long Range,AWD,Blue
+2021,Q3,Europe,Model S,3129,45251.64,30,Long Range,AWD,Black
+2014,Q1,Europe,Model Y,1829,61865.78,58,Performance,AWD,White
+2020,Q3,Asia,Model 3,4041,92158.15,51,Performance,AWD,Silver
+2024,Q1,Europe,Model X,3994,112712.49,25,Performance,RWD,Blue
+2013,Q2,Australia,Model Y,4433,115385.27,16,Performance,AWD,White
+2018,Q3,Europe,Cybertruck,2802,42750.82,36,Long Range,AWD,White
+2021,Q4,Europe,Model 3,2832,75170.7,46,Performance,RWD,Red
+2017,Q3,North America,Model 3,159,73499.31,20,Performance,AWD,White
+2015,Q1,Australia,Model Y,1532,69368.97,30,Performance,RWD,Red
+2016,Q3,Asia,Model X,257,92700.62,11,Performance,AWD,Silver
+2023,Q4,North America,Semi,1145,46460.5,37,Standard,RWD,Red
+2019,Q1,Asia,Model 3,2813,91998.21,6,Long Range,RWD,Silver
+2024,Q2,Australia,Model X,460,79843.29,45,Performance,RWD,White
+2021,Q4,Asia,Semi,2530,94941.77,12,Standard,AWD,Blue
+2023,Q3,South America,Semi,4207,91936.46,19,Performance,RWD,Blue
+2013,Q3,Australia,Model 3,3242,69081.0,48,Performance,AWD,Silver
+2024,Q3,Australia,Model S,3324,117913.29,25,Performance,RWD,Silver
+2020,Q3,South America,Semi,1398,77644.42,59,Performance,AWD,Green
+2013,Q1,North America,Model S,1731,111150.02,47,Long Range,RWD,Blue
+2017,Q1,Europe,Semi,2466,114375.28,10,Long Range,AWD,Red
+2023,Q4,North America,Model Y,1419,59533.49,38,Standard,AWD,Silver
+2018,Q3,South America,Model S,4042,98186.06,0,Long Range,AWD,Red
+2024,Q2,Australia,Model X,906,60344.42,24,Long Range,RWD,Green
+2023,Q4,Europe,Model X,3051,113325.36,41,Performance,AWD,Red
+2015,Q1,North America,Cybertruck,3225,66007.75,36,Performance,RWD,Red
+2020,Q4,North America,Semi,3753,41190.63,53,Performance,RWD,Red
+2016,Q4,Asia,Model X,1486,64499.27,60,Long Range,RWD,Green
+2021,Q2,South America,Model 3,3420,99095.07,53,Standard,RWD,Red
+2017,Q1,Australia,Model X,1186,39622.57,29,Long Range,AWD,Red
+2016,Q2,South America,Model 3,1327,94224.22,25,Standard,AWD,White
+2017,Q1,Europe,Cybertruck,510,102485.88,20,Performance,RWD,Red
+2021,Q1,South America,Cybertruck,2027,104695.5,2,Performance,RWD,Green
+2019,Q4,Australia,Cybertruck,2930,74742.67,23,Performance,RWD,White
+2024,Q2,North America,Model Y,3207,39931.52,57,Long Range,AWD,Black
+2015,Q1,Europe,Model X,465,59641.09,15,Performance,RWD,Green
+2022,Q4,Europe,Model S,3608,62223.88,34,Long Range,AWD,Blue
+2020,Q3,South America,Model S,2248,91893.76,43,Performance,RWD,Green
+2023,Q3,Asia,Model X,843,38686.31,59,Long Range,AWD,Silver
+2021,Q4,North America,Model S,1574,109987.86,32,Standard,AWD,White
+2024,Q2,Australia,Cybertruck,1077,97427.52,49,Standard,RWD,Green
+2017,Q2,North America,Model 3,2016,103997.27,51,Standard,RWD,Silver
+2015,Q1,North America,Cybertruck,3214,99763.51,46,Long Range,AWD,Green
+2013,Q2,Asia,Model X,3681,35302.71,59,Performance,RWD,Black
+2020,Q4,Europe,Semi,4861,57951.62,26,Performance,AWD,Black
+2020,Q3,Asia,Cybertruck,2518,39604.64,8,Standard,RWD,Green
+2016,Q3,Asia,Model X,1056,95533.79,37,Standard,RWD,Blue
+2022,Q3,Europe,Model X,3690,109407.14,22,Long Range,AWD,Black
+2023,Q2,Europe,Model 3,2773,107139.98,55,Standard,RWD,Red
+2020,Q4,Australia,Semi,2794,46932.67,11,Standard,AWD,Green
+2024,Q2,Asia,Model S,495,45648.22,20,Performance,RWD,Black
+2017,Q1,Europe,Semi,2586,59969.34,20,Performance,RWD,Black
+2018,Q4,Australia,Model 3,2047,104149.95,11,Performance,AWD,Silver
+2013,Q3,North America,Model Y,3091,89654.83,31,Long Range,RWD,Red
+2018,Q2,South America,Model 3,1860,60668.15,38,Long Range,RWD,White
+2023,Q3,Australia,Model S,1424,58218.71,58,Performance,AWD,Black
+2022,Q2,Australia,Model 3,2825,89329.83,42,Standard,AWD,Silver
+2012,Q4,North America,Cybertruck,759,117931.48,25,Performance,RWD,White
+2019,Q3,North America,Model X,2277,41565.82,4,Performance,RWD,Green
+2016,Q3,North America,Model 3,1413,79527.55,21,Performance,AWD,Green
+2016,Q4,North America,Model S,1284,81076.22,22,Long Range,RWD,Black
+2021,Q3,Australia,Cybertruck,201,117668.25,20,Long Range,AWD,Blue
+2016,Q3,North America,Model 3,709,47632.3,18,Performance,RWD,Red
+2018,Q1,North America,Model 3,4295,102604.47,34,Long Range,AWD,Green
+2018,Q3,South America,Model 3,4248,108965.66,40,Long Range,RWD,Green
+2015,Q2,North America,Model 3,3250,114232.82,55,Performance,AWD,Black
+2018,Q2,Australia,Semi,4346,35726.82,13,Long Range,AWD,Blue
+2017,Q4,Australia,Model 3,3207,98682.49,13,Long Range,AWD,Green
+2021,Q2,North America,Model X,4450,72907.99,60,Performance,AWD,Blue
+2022,Q2,South America,Model 3,247,40773.9,13,Long Range,AWD,Green
+2015,Q4,South America,Model Y,2607,87972.63,34,Standard,RWD,Silver
+2023,Q4,North America,Model X,561,59127.78,43,Long Range,AWD,Silver
+2014,Q2,Europe,Model 3,570,98110.45,31,Performance,RWD,Green
+2022,Q4,Asia,Semi,3652,79100.76,51,Standard,AWD,Silver
+2013,Q4,South America,Model X,4546,57348.58,47,Long Range,AWD,Black
+2024,Q2,Europe,Model X,793,37392.61,47,Standard,RWD,Black
+2024,Q4,South America,Cybertruck,3449,42429.79,30,Long Range,RWD,Green
+2016,Q1,North America,Semi,288,79804.13,60,Standard,RWD,Silver
+2020,Q1,North America,Model X,3462,115039.32,52,Long Range,RWD,Blue
+2012,Q4,South America,Cybertruck,3664,63174.37,8,Long Range,AWD,Black
+2019,Q1,North America,Model 3,2005,105156.6,20,Performance,AWD,Black
+2012,Q3,North America,Model Y,868,61486.38,21,Long Range,AWD,Green
+2015,Q2,North America,Model X,181,53444.15,56,Standard,RWD,Silver
+2023,Q3,South America,Model S,4714,90651.26,49,Long Range,AWD,Blue
+2014,Q1,South America,Model S,3115,51149.39,45,Long Range,RWD,Green
+2021,Q1,Asia,Model Y,978,88501.12,2,Standard,RWD,Red
+2015,Q1,Australia,Model 3,2581,105751.07,46,Performance,RWD,Black
+2013,Q2,Europe,Model X,238,111298.39,41,Performance,AWD,Red
+2022,Q4,Asia,Semi,4049,118528.87,33,Performance,RWD,Black
+2013,Q4,Europe,Semi,2330,109402.86,31,Long Range,AWD,Blue
+2017,Q2,Europe,Model S,2421,53625.03,39,Long Range,AWD,White
+2014,Q1,Europe,Model S,464,81321.91,50,Performance,AWD,Black
+2016,Q3,Europe,Model S,2782,53128.37,59,Long Range,RWD,White
+2020,Q1,Australia,Model 3,1225,112308.63,7,Long Range,RWD,Black
+2024,Q2,Europe,Model Y,546,61535.85,16,Standard,AWD,Blue
+2013,Q3,Asia,Semi,4443,97030.36,52,Long Range,AWD,White
+2022,Q1,Europe,Model 3,2476,99569.12,26,Standard,AWD,Green
+2015,Q3,South America,Model S,2222,44739.1,56,Performance,RWD,Blue
+2013,Q3,North America,Cybertruck,50,78562.46,53,Standard,RWD,White
+2016,Q2,Asia,Model 3,4108,44540.7,6,Long Range,RWD,Black
+2018,Q3,Asia,Model Y,2354,75550.17,43,Long Range,AWD,Blue
+2015,Q2,Asia,Cybertruck,3254,58768.56,51,Performance,AWD,White
+2020,Q2,Australia,Semi,3962,40228.56,13,Long Range,AWD,Silver
+2024,Q3,Asia,Model 3,1883,117812.94,28,Performance,RWD,Silver
+2020,Q2,Europe,Semi,1820,89361.49,52,Performance,AWD,Blue
+2023,Q4,Europe,Model Y,4748,79705.75,28,Standard,RWD,Green
+2019,Q3,Australia,Semi,4902,48914.01,14,Performance,RWD,Green
+2023,Q4,Australia,Model Y,1939,87998.25,24,Standard,RWD,Black
+2024,Q1,North America,Model S,3813,61977.06,9,Performance,AWD,Red
+2020,Q1,Europe,Cybertruck,264,47303.95,57,Standard,RWD,White
+2012,Q3,Europe,Cybertruck,4391,52093.91,48,Performance,AWD,Black
+2019,Q3,Europe,Model Y,1767,106242.87,36,Performance,RWD,Red
+2024,Q2,South America,Model Y,3812,95931.53,52,Long Range,RWD,Red
+2019,Q4,Australia,Semi,430,39452.25,10,Standard,AWD,Green
+2016,Q3,Australia,Model 3,939,47568.88,56,Standard,AWD,White
+2024,Q4,Asia,Model Y,4641,53724.82,19,Performance,RWD,Red
+2013,Q3,Europe,Model 3,4229,77534.22,23,Performance,RWD,Blue
+2013,Q2,Australia,Model X,3522,80935.78,39,Standard,RWD,Green
+2022,Q4,Asia,Model S,4203,94025.25,39,Long Range,AWD,Green
+2016,Q1,Asia,Semi,1636,49023.88,58,Performance,RWD,Green
+2018,Q3,South America,Model Y,1475,94186.5,44,Standard,AWD,White
+2014,Q3,North America,Semi,2100,44265.26,56,Long Range,AWD,Blue
+2015,Q1,North America,Model X,3192,79260.57,17,Standard,RWD,Black
+2022,Q1,Asia,Model S,4567,115493.22,48,Performance,AWD,Black
+2012,Q4,Europe,Cybertruck,2497,51477.8,26,Standard,RWD,Black
+2018,Q1,Europe,Model Y,4253,71137.19,46,Performance,RWD,Silver
+2012,Q3,Europe,Model S,3308,107813.82,21,Long Range,RWD,Blue
+2015,Q3,Europe,Model X,3744,87700.17,20,Performance,RWD,White
+2020,Q3,South America,Semi,4512,108636.07,19,Long Range,AWD,Blue
+2012,Q4,Australia,Model Y,1639,39341.83,57,Performance,AWD,White
+2016,Q1,Europe,Semi,3727,84974.83,6,Standard,AWD,White
+2013,Q1,Asia,Model X,2274,61353.25,58,Performance,RWD,Red
+2023,Q4,Europe,Model S,2793,114907.07,45,Long Range,RWD,Red
+2018,Q2,Asia,Model 3,3326,40894.83,21,Long Range,AWD,Red
+2020,Q2,Australia,Model 3,1739,99908.91,9,Standard,RWD,Silver
+2024,Q2,Australia,Semi,1921,110650.73,8,Long Range,RWD,Blue
+2022,Q2,South America,Model Y,4729,71707.78,40,Performance,RWD,Green
+2012,Q4,North America,Cybertruck,3350,93240.9,41,Long Range,RWD,Red
+2018,Q1,Europe,Model X,1872,88433.75,33,Performance,AWD,Black
+2014,Q3,North America,Model X,1249,93898.75,26,Long Range,RWD,Black
+2012,Q3,Europe,Model S,1834,87421.77,30,Performance,AWD,Blue
+2019,Q3,North America,Model 3,4463,91704.44,40,Long Range,AWD,Black
+2023,Q1,Europe,Model Y,2892,69143.64,5,Performance,AWD,White
+2018,Q3,Australia,Cybertruck,1641,88458.92,48,Performance,RWD,White
+2021,Q4,Europe,Model S,1286,91389.65,12,Long Range,AWD,Blue
+2017,Q1,Europe,Cybertruck,206,61470.38,34,Performance,RWD,Black
+2022,Q4,Australia,Model S,3108,82273.11,2,Performance,RWD,Silver
+2013,Q1,Australia,Cybertruck,3248,69202.04,42,Standard,AWD,Silver
+2023,Q4,South America,Model S,3046,119248.67,43,Performance,AWD,Blue
+2012,Q2,Asia,Semi,1210,71568.49,60,Long Range,RWD,White
+2017,Q4,South America,Model Y,3554,70488.7,48,Performance,AWD,Blue
+2023,Q2,Australia,Model 3,152,44505.33,37,Performance,RWD,Silver
+2016,Q2,South America,Model Y,4654,60146.22,19,Standard,AWD,Green
+2019,Q4,Europe,Cybertruck,708,64220.47,27,Standard,AWD,Green
+2015,Q4,Australia,Cybertruck,3849,92781.92,24,Long Range,RWD,White
+2021,Q4,Asia,Model S,763,103288.47,20,Long Range,AWD,White
+2020,Q2,Europe,Model 3,1506,67238.87,13,Long Range,AWD,Red
+2013,Q3,Australia,Cybertruck,756,89262.08,46,Performance,RWD,Red
+2012,Q4,Australia,Model X,1408,81635.23,57,Standard,AWD,Red
+2018,Q3,South America,Model Y,3750,60992.25,7,Long Range,RWD,Black
+2012,Q3,Australia,Model Y,4350,119518.67,41,Standard,AWD,Blue
+2017,Q1,North America,Model Y,3450,65427.05,52,Performance,AWD,Black
+2017,Q1,South America,Model Y,1985,86193.91,16,Long Range,AWD,White
+2016,Q3,North America,Semi,3876,104929.37,24,Long Range,RWD,Red
+2013,Q1,Europe,Model 3,888,68326.01,54,Performance,AWD,Silver
+2016,Q3,South America,Model S,3283,91559.31,30,Standard,AWD,Silver
+2017,Q4,Australia,Model 3,1571,58342.04,10,Performance,RWD,White
+2016,Q3,North America,Semi,3326,71730.47,57,Standard,RWD,Silver
+2024,Q3,South America,Model S,2463,53647.01,51,Standard,AWD,Green
+2019,Q1,South America,Model Y,959,51976.67,14,Performance,RWD,Blue
+2019,Q1,Australia,Semi,1580,102105.98,30,Performance,AWD,Silver
+2018,Q4,North America,Model Y,3941,50375.83,31,Standard,AWD,Black
+2016,Q2,North America,Cybertruck,1997,80552.71,53,Long Range,AWD,White
+2019,Q2,South America,Model Y,3829,41191.92,58,Performance,AWD,White
+2019,Q1,South America,Model Y,4390,101549.67,9,Long Range,AWD,Silver
+2013,Q3,Asia,Model X,1446,92043.35,13,Long Range,RWD,Red
+2019,Q3,South America,Model X,2043,41816.45,38,Performance,RWD,White
+2013,Q4,Australia,Cybertruck,1890,66328.94,8,Long Range,RWD,Silver
+2018,Q1,Asia,Semi,650,68007.86,39,Standard,AWD,Blue
+2021,Q1,North America,Model Y,2275,101450.33,55,Long Range,AWD,White
+2017,Q2,Asia,Cybertruck,4671,82596.19,10,Performance,RWD,Black
+2014,Q2,Europe,Model X,3452,83191.54,22,Long Range,AWD,Blue
+2020,Q3,Europe,Model Y,960,97671.96,46,Performance,RWD,White
+2023,Q3,Asia,Model S,3472,68409.91,38,Performance,RWD,Black
+2023,Q1,Europe,Model S,289,103875.64,27,Performance,RWD,Blue
+2023,Q4,Asia,Model S,3434,85373.42,60,Performance,AWD,White
+2016,Q1,Australia,Model 3,1545,49025.76,33,Long Range,RWD,Blue
+2013,Q1,South America,Model 3,4429,83783.86,15,Standard,RWD,Red
+2012,Q3,Australia,Cybertruck,3739,69337.95,32,Performance,RWD,Green
+2015,Q2,Europe,Model S,392,53931.78,0,Long Range,RWD,Red
+2021,Q3,North America,Model S,939,42630.52,37,Long Range,AWD,Red
+2022,Q3,Europe,Semi,3939,51586.54,59,Long Range,RWD,Red
+2012,Q4,Asia,Cybertruck,61,83921.61,58,Standard,AWD,Blue
+2018,Q3,Australia,Model S,4572,56251.7,36,Long Range,RWD,Green
+2024,Q3,Europe,Model 3,265,109996.98,1,Performance,AWD,White
+2016,Q2,Europe,Model S,4291,113554.77,19,Standard,RWD,Blue
+2023,Q1,South America,Model Y,3870,56594.91,31,Performance,RWD,Black
+2012,Q3,Europe,Cybertruck,4089,45808.19,18,Standard,AWD,Silver
+2015,Q4,Asia,Semi,4029,83787.78,3,Standard,RWD,White
+2021,Q4,Asia,Model 3,4003,38902.75,55,Long Range,RWD,Blue
+2019,Q3,Asia,Model X,4067,92506.98,7,Long Range,AWD,Silver
+2020,Q1,Asia,Model Y,265,68542.6,12,Long Range,AWD,Red
+2021,Q1,Asia,Model X,2806,89198.74,12,Long Range,AWD,Black
+2020,Q4,Australia,Model 3,4540,37218.09,2,Long Range,RWD,Silver
+2015,Q1,Australia,Model X,316,85779.75,13,Standard,AWD,Green
+2021,Q3,Australia,Semi,2058,78796.57,18,Standard,RWD,Black
+2015,Q1,Europe,Model S,964,112591.7,38,Standard,RWD,Green
+2023,Q4,Australia,Model S,2514,48533.55,50,Long Range,AWD,White
+2016,Q1,Europe,Model X,4875,75508.03,54,Performance,RWD,Blue
+2018,Q3,Australia,Model 3,1756,77216.01,16,Standard,RWD,Silver
+2012,Q4,Australia,Model 3,3107,91933.23,23,Long Range,RWD,White
+2023,Q3,North America,Semi,2403,118521.69,30,Performance,AWD,Black
+2017,Q3,North America,Cybertruck,3864,55336.33,48,Standard,AWD,Red
+2015,Q3,Asia,Model X,3243,109712.63,51,Performance,RWD,Blue
+2022,Q1,Asia,Cybertruck,2961,114701.65,34,Standard,AWD,Black
+2014,Q2,Asia,Semi,2216,83906.98,50,Long Range,RWD,Blue
+2016,Q1,Asia,Model 3,1875,72309.75,28,Long Range,RWD,Green
+2018,Q3,Australia,Cybertruck,790,116464.74,23,Performance,AWD,Blue
+2013,Q4,North America,Model X,4012,112449.86,10,Standard,AWD,Silver
+2012,Q1,South America,Model X,1891,79006.89,51,Standard,RWD,Black
+2019,Q1,South America,Model Y,4304,97993.37,21,Long Range,RWD,Green
+2020,Q3,North America,Semi,3535,81785.31,1,Standard,RWD,Black
+2013,Q1,South America,Cybertruck,796,41840.71,43,Long Range,RWD,Black
+2016,Q1,Europe,Model 3,818,118957.69,12,Performance,RWD,Black
+2017,Q1,Europe,Model 3,2269,110184.87,60,Standard,AWD,Black
+2021,Q4,Europe,Semi,3511,47258.0,36,Standard,AWD,White
+2024,Q1,Australia,Model Y,3842,66331.15,17,Performance,AWD,White
+2014,Q3,South America,Model S,3671,113467.74,3,Long Range,RWD,Blue
+2012,Q2,South America,Cybertruck,4610,95385.16,13,Performance,RWD,Silver
+2012,Q2,South America,Cybertruck,1828,103956.26,6,Standard,AWD,Blue
+2013,Q1,Europe,Model X,1590,37493.54,29,Standard,RWD,Silver
+2023,Q4,South America,Model X,4591,43229.38,31,Long Range,RWD,Blue
+2023,Q4,Asia,Model 3,3219,65754.68,52,Performance,RWD,Red
+2013,Q1,North America,Semi,3404,39486.25,25,Standard,AWD,Red
+2018,Q2,North America,Model X,605,103449.41,58,Performance,AWD,White
+2023,Q4,Europe,Model X,3801,112132.72,8,Long Range,AWD,Red
+2019,Q1,South America,Cybertruck,674,91694.48,43,Long Range,AWD,White
+2021,Q1,Australia,Model S,1620,78997.31,14,Performance,RWD,Black
+2024,Q1,Australia,Semi,2432,39212.75,1,Long Range,RWD,Black
+2013,Q2,North America,Model Y,1748,55485.47,59,Long Range,RWD,Green
+2019,Q3,South America,Semi,810,53677.96,44,Performance,AWD,Blue
+2015,Q2,Asia,Semi,2400,93750.51,8,Standard,RWD,Blue
+2021,Q1,Asia,Cybertruck,751,80639.05,14,Long Range,RWD,White
+2017,Q1,Europe,Model X,2281,111745.31,23,Standard,AWD,Blue
+2024,Q1,Asia,Model X,4746,65326.8,39,Performance,RWD,Silver
+2024,Q1,Europe,Model 3,4538,38759.54,15,Standard,RWD,Black
+2013,Q1,North America,Model X,3395,82008.16,60,Standard,RWD,Red
+2015,Q1,Europe,Semi,928,47904.49,12,Standard,AWD,White
+2016,Q1,Australia,Model S,679,106364.36,18,Long Range,AWD,Green
+2013,Q2,Europe,Model X,1979,52944.67,44,Standard,RWD,Silver
+2015,Q4,South America,Semi,3127,42498.67,12,Performance,RWD,Silver
+2018,Q2,Australia,Model Y,3358,72568.31,6,Standard,RWD,Green
+2023,Q3,South America,Semi,1613,111122.4,14,Performance,RWD,Black
+2016,Q4,Australia,Model S,3200,58849.38,5,Standard,AWD,White
+2021,Q2,South America,Model 3,3239,37253.33,44,Standard,RWD,Black
+2022,Q1,Europe,Semi,1047,90167.9,53,Performance,RWD,Silver
+2014,Q4,Australia,Model S,4686,97318.12,22,Performance,AWD,Green
+2016,Q3,North America,Semi,1002,102774.64,28,Performance,AWD,Silver
+2019,Q1,South America,Model S,2217,65692.46,39,Standard,AWD,Silver
+2024,Q4,North America,Model X,3807,38589.06,10,Standard,RWD,Red
+2021,Q4,South America,Semi,2761,42051.86,50,Performance,RWD,Green
+2017,Q3,Europe,Model 3,4967,48248.1,28,Long Range,AWD,Black
+2019,Q2,South America,Model S,1572,86034.32,42,Performance,RWD,Blue
+2021,Q3,Asia,Model Y,3573,51058.39,38,Long Range,AWD,Blue
+2012,Q2,Australia,Model Y,2043,116241.7,33,Long Range,AWD,Black
+2014,Q2,South America,Cybertruck,3892,68172.65,7,Long Range,AWD,Blue
+2013,Q3,South America,Model Y,2163,63789.11,54,Standard,RWD,Red
+2017,Q3,Europe,Model X,296,102242.11,60,Long Range,AWD,Red
+2013,Q3,Europe,Model 3,1730,57346.06,50,Standard,RWD,Red
+2012,Q4,Asia,Model S,2956,43116.72,34,Standard,AWD,Silver
+2015,Q3,Europe,Model S,3773,51162.72,9,Long Range,RWD,Red
+2020,Q2,Australia,Model X,4469,94128.81,20,Performance,AWD,Blue
+2019,Q1,South America,Model 3,710,87658.28,31,Performance,RWD,White
+2020,Q3,Asia,Cybertruck,557,97488.08,10,Standard,AWD,Blue
+2021,Q1,North America,Cybertruck,645,101732.78,57,Performance,AWD,Green
+2022,Q2,Asia,Model Y,3899,46379.21,52,Performance,AWD,Silver
+2013,Q3,Australia,Model 3,139,107250.6,0,Performance,RWD,Green
+2013,Q3,South America,Model 3,2958,59423.97,35,Standard,AWD,Green
+2017,Q2,Australia,Semi,2658,107933.69,37,Standard,AWD,White
+2014,Q2,South America,Model Y,4324,80595.16,5,Standard,AWD,Red
+2019,Q4,South America,Semi,3379,75673.5,15,Standard,RWD,White
+2019,Q1,Europe,Model S,3351,107452.23,47,Long Range,AWD,Silver
+2018,Q3,Asia,Model X,3278,105030.63,40,Performance,RWD,Silver
+2013,Q4,South America,Model X,1772,60470.23,44,Performance,RWD,Blue
+2023,Q4,Asia,Model S,4038,39672.44,3,Standard,AWD,Blue
+2020,Q1,South America,Model X,3480,85446.81,0,Standard,AWD,Green
+2019,Q4,Europe,Model 3,3156,105940.4,27,Long Range,RWD,Black
+2016,Q1,Asia,Semi,3235,64762.67,27,Long Range,AWD,Red
+2015,Q4,Europe,Model S,604,100601.05,16,Performance,RWD,White
+2015,Q4,Europe,Model X,3252,83204.26,42,Long Range,AWD,Green
+2013,Q1,Australia,Semi,583,83678.37,47,Performance,AWD,Blue
+2020,Q4,South America,Model X,516,116659.73,52,Long Range,RWD,Green
+2014,Q1,South America,Model 3,1789,81436.83,13,Standard,AWD,Green
+2022,Q3,North America,Model S,4556,85175.23,19,Long Range,AWD,Red
+2021,Q3,Asia,Model X,1326,95698.09,8,Long Range,RWD,White
+2013,Q2,Europe,Semi,1604,113856.92,13,Standard,RWD,Blue
+2023,Q1,Europe,Semi,3084,96716.43,11,Performance,AWD,Red
+2020,Q1,South America,Cybertruck,3513,104864.38,1,Standard,AWD,Silver
+2020,Q2,Asia,Cybertruck,4646,35711.36,34,Performance,RWD,Blue
+2022,Q3,South America,Cybertruck,3175,58102.33,17,Standard,AWD,Green
+2020,Q2,Australia,Model 3,932,63548.74,39,Long Range,RWD,Silver
+2015,Q2,Australia,Model 3,1834,57149.08,43,Long Range,AWD,Silver
+2021,Q1,South America,Semi,2920,75000.52,3,Long Range,AWD,Blue
+2024,Q3,North America,Cybertruck,2514,59539.76,27,Standard,RWD,Silver
+2014,Q4,Europe,Model Y,4952,94337.34,0,Performance,AWD,Silver
+2015,Q2,Asia,Model S,4691,95083.62,29,Standard,RWD,White
+2016,Q4,Europe,Model S,4154,118256.41,22,Standard,RWD,Red
+2024,Q3,Australia,Model Y,4263,93444.85,18,Long Range,AWD,Red
+2024,Q1,Asia,Cybertruck,3641,103894.26,28,Performance,RWD,Red
+2020,Q2,Australia,Model Y,1843,57958.12,50,Performance,RWD,Blue
+2023,Q4,Europe,Model Y,2213,114907.86,47,Long Range,AWD,Red
+2014,Q2,Australia,Model 3,4875,93090.02,28,Long Range,AWD,White
+2012,Q4,Europe,Model 3,4193,73900.63,20,Long Range,RWD,Green
+2023,Q4,Australia,Semi,3672,83645.86,52,Performance,AWD,Blue
+2015,Q2,South America,Model S,157,44190.71,48,Standard,RWD,Black
+2023,Q2,Europe,Semi,2744,36909.54,19,Performance,RWD,Blue
+2021,Q2,Europe,Model X,1859,91255.15,55,Standard,RWD,Black
+2023,Q4,South America,Model Y,2642,76794.17,33,Performance,RWD,Black
+2018,Q1,Europe,Model 3,1279,57871.36,41,Standard,AWD,Black
+2014,Q2,South America,Model X,2725,66128.6,28,Performance,AWD,Black
+2017,Q3,Australia,Model S,2338,45301.55,12,Long Range,RWD,Red
+2021,Q3,North America,Model S,258,45807.53,11,Standard,AWD,Green
+2024,Q1,Australia,Model S,479,93686.2,5,Performance,RWD,Black
+2022,Q3,North America,Cybertruck,4727,74807.5,38,Performance,AWD,Blue
+2016,Q1,North America,Model X,4636,79354.53,52,Standard,RWD,White
+2021,Q2,South America,Model Y,1121,66726.28,40,Performance,AWD,Red
+2015,Q1,Asia,Cybertruck,3740,46101.04,51,Standard,AWD,Green
+2013,Q2,North America,Semi,1167,104634.83,9,Performance,RWD,White
+2017,Q3,South America,Model S,196,69635.13,18,Long Range,AWD,Green
+2020,Q1,Asia,Model 3,1875,58002.53,22,Standard,AWD,Silver
+2017,Q4,Asia,Model X,4339,35828.97,12,Long Range,RWD,Red
+2016,Q3,South America,Semi,1197,99169.41,1,Performance,RWD,White
+2020,Q2,Europe,Cybertruck,4746,63479.62,32,Long Range,RWD,Black
+2019,Q4,Asia,Model S,3607,51765.11,35,Standard,AWD,Red
+2018,Q3,Asia,Model Y,1874,110732.13,27,Standard,AWD,Red
+2024,Q3,Australia,Cybertruck,2390,107192.69,16,Long Range,RWD,Black
+2018,Q3,Australia,Semi,3271,98856.52,57,Long Range,RWD,White
+2021,Q2,South America,Model 3,2349,110781.42,41,Long Range,AWD,Black
+2019,Q3,North America,Model Y,1817,53987.85,15,Long Range,AWD,Red
+2013,Q4,Asia,Model X,4474,88353.06,40,Standard,RWD,Red
+2018,Q2,Europe,Model X,1117,80675.21,27,Long Range,AWD,Black
+2022,Q1,Australia,Model 3,4128,92851.34,48,Standard,AWD,Blue
+2013,Q2,Europe,Model X,4818,94970.02,52,Long Range,RWD,Black
+2017,Q4,South America,Model S,4653,55761.83,33,Performance,AWD,Blue
+2017,Q1,South America,Cybertruck,1682,81162.5,24,Standard,RWD,Silver
+2019,Q3,South America,Model Y,1794,82200.77,41,Standard,RWD,Red
+2018,Q1,North America,Model X,4268,101845.78,32,Performance,AWD,White
+2013,Q2,South America,Cybertruck,4951,99452.94,29,Performance,AWD,White
+2017,Q2,Australia,Model S,2321,94511.83,50,Performance,RWD,Green
+2019,Q4,Europe,Model S,3823,55599.76,48,Standard,RWD,Blue
+2014,Q2,Europe,Semi,2685,69434.99,7,Standard,RWD,Black
+2014,Q4,Europe,Semi,4237,73168.89,9,Long Range,RWD,Blue
+2012,Q4,Australia,Model X,2211,54365.12,58,Long Range,AWD,White
+2023,Q1,Europe,Semi,1390,53109.43,11,Standard,AWD,Black
+2014,Q1,Australia,Model 3,4208,96122.87,21,Performance,AWD,White
+2022,Q4,Australia,Cybertruck,2885,79888.14,14,Standard,RWD,Blue
+2019,Q4,Asia,Model Y,2251,54737.66,42,Long Range,AWD,Silver
+2022,Q3,Europe,Model S,434,84419.66,14,Performance,AWD,White
+2023,Q2,South America,Model 3,4882,81959.11,23,Long Range,RWD,Blue
+2022,Q2,Europe,Cybertruck,117,112769.92,23,Standard,RWD,Black
+2022,Q3,Asia,Model X,1124,84788.27,23,Performance,AWD,White
+2020,Q4,South America,Semi,2155,103243.85,4,Performance,RWD,Red
+2014,Q3,Australia,Model 3,311,50320.03,49,Long Range,RWD,Silver
+2022,Q2,Asia,Model X,4651,71507.35,22,Long Range,RWD,Silver
+2014,Q1,South America,Model 3,1847,76222.55,1,Long Range,RWD,Red
+2017,Q1,North America,Model Y,1147,64234.34,24,Performance,RWD,Red
+2012,Q4,Europe,Semi,3856,78472.75,25,Standard,AWD,Silver
+2020,Q4,Asia,Semi,1789,66849.76,19,Standard,RWD,Silver
+2020,Q4,Australia,Cybertruck,4285,41476.24,21,Performance,AWD,Silver
+2021,Q3,Asia,Model X,4654,83497.52,3,Standard,AWD,Silver
+2020,Q2,South America,Model Y,699,103481.46,0,Long Range,AWD,Green
+2018,Q2,Asia,Model X,1843,74194.37,51,Standard,AWD,Green
+2017,Q3,Australia,Model X,1963,112222.24,56,Performance,AWD,White
+2020,Q1,South America,Cybertruck,4045,103146.23,58,Performance,AWD,White
+2017,Q4,North America,Model X,3345,118874.7,56,Standard,AWD,Red
+2015,Q4,North America,Cybertruck,3465,119503.48,56,Standard,RWD,Blue
+2016,Q4,North America,Model S,1242,68470.54,1,Performance,RWD,Blue
+2019,Q4,Europe,Model S,1256,94912.49,32,Long Range,AWD,Silver
+2019,Q3,Australia,Cybertruck,4336,108241.1,33,Standard,RWD,White
+2022,Q2,South America,Model 3,3797,62169.25,5,Standard,RWD,Red
+2021,Q1,Australia,Model S,1345,96607.97,19,Performance,AWD,White
+2024,Q3,Asia,Model Y,2359,46873.84,55,Long Range,AWD,Blue
+2014,Q2,Australia,Cybertruck,2626,114534.62,18,Performance,AWD,Blue
+2021,Q3,Europe,Cybertruck,3917,36876.03,27,Performance,RWD,Red
+2012,Q3,South America,Semi,4963,89946.89,7,Performance,AWD,White
+2017,Q4,Europe,Model Y,137,110735.79,4,Standard,RWD,Red
+2020,Q3,Australia,Cybertruck,3666,65898.45,13,Standard,AWD,White
+2012,Q1,South America,Model Y,2115,107118.56,54,Performance,RWD,Silver
+2017,Q3,Australia,Cybertruck,3382,105262.48,6,Long Range,RWD,Silver
+2014,Q2,Australia,Model S,4901,88293.56,45,Standard,AWD,Black
+2014,Q2,Australia,Model X,4360,42237.05,50,Long Range,RWD,Black
+2017,Q2,Australia,Model S,383,40820.48,5,Performance,AWD,Black
+2024,Q4,Asia,Model 3,829,40115.4,2,Long Range,RWD,White
+2013,Q1,North America,Model X,240,91451.56,19,Standard,AWD,Black
+2019,Q2,South America,Model S,3644,87400.21,6,Long Range,AWD,Blue
+2020,Q2,Asia,Cybertruck,2011,63841.43,38,Standard,AWD,Blue
+2024,Q1,Australia,Cybertruck,1633,65264.29,26,Standard,RWD,White
+2019,Q3,Australia,Model Y,3600,112298.44,58,Long Range,AWD,Red
+2013,Q3,South America,Model Y,4443,36798.38,46,Long Range,RWD,Red
+2016,Q2,South America,Model X,2349,69910.91,38,Standard,RWD,Blue
+2017,Q2,South America,Semi,1354,74282.82,30,Performance,RWD,Red
+2024,Q4,South America,Model Y,602,103069.54,34,Long Range,RWD,Green
+2022,Q1,Australia,Model 3,2762,37205.84,49,Long Range,RWD,Green
+2020,Q4,Europe,Model Y,4626,57382.79,28,Performance,AWD,White
+2021,Q1,Asia,Model 3,1644,99611.59,7,Performance,AWD,White
+2024,Q3,Asia,Model Y,1035,107679.69,58,Long Range,RWD,Red
+2014,Q1,Europe,Semi,930,112378.72,51,Standard,RWD,Black
+2014,Q3,North America,Model S,3623,107207.3,29,Standard,RWD,White
+2013,Q4,South America,Model 3,691,119656.4,21,Long Range,AWD,Silver
+2018,Q1,Australia,Model S,3741,41576.56,60,Long Range,RWD,Green
+2022,Q3,Asia,Model 3,2299,40221.32,56,Performance,RWD,Green
+2015,Q1,South America,Model Y,4308,52160.34,3,Standard,RWD,Green
+2019,Q2,Europe,Model X,4736,113218.51,26,Standard,AWD,White
+2017,Q4,North America,Cybertruck,1191,100624.0,21,Standard,AWD,Blue
+2013,Q1,Europe,Model Y,2237,84563.49,28,Standard,RWD,White
+2023,Q2,North America,Semi,2081,116414.76,4,Performance,AWD,Black
+2024,Q1,North America,Model 3,3047,37355.57,41,Performance,AWD,Black
+2016,Q3,Australia,Model S,4738,112167.9,60,Long Range,RWD,Silver
+2021,Q3,Asia,Model X,1567,89926.67,35,Standard,RWD,Black
+2018,Q1,South America,Model S,3168,102308.39,11,Long Range,AWD,Black
+2021,Q1,Asia,Cybertruck,4387,60552.95,7,Performance,RWD,Silver
+2013,Q4,South America,Model 3,4472,102447.56,31,Standard,AWD,Red
+2012,Q3,Asia,Model Y,2390,86994.1,20,Performance,AWD,Red
+2013,Q3,North America,Model 3,3914,115070.6,1,Standard,RWD,Black
+2020,Q4,Asia,Semi,420,39704.9,31,Long Range,AWD,Black
+2016,Q2,Asia,Model Y,1460,107913.49,10,Long Range,RWD,Blue
+2019,Q3,South America,Model 3,2550,92951.56,42,Standard,RWD,Black
+2021,Q4,Europe,Model X,4985,76843.67,10,Standard,AWD,Black
+2017,Q3,Asia,Semi,4916,61492.87,17,Performance,RWD,Black
+2023,Q4,Europe,Model Y,4484,63923.39,14,Performance,AWD,Red
+2019,Q1,Australia,Model S,3012,87876.7,5,Performance,AWD,Black
+2023,Q2,Asia,Model S,689,111105.29,28,Standard,AWD,Red
+2020,Q4,Australia,Model 3,56,98754.24,1,Performance,RWD,White
+2013,Q1,North America,Model 3,4354,60941.41,41,Standard,AWD,White
+2014,Q1,North America,Model 3,157,107038.57,53,Long Range,AWD,Black
+2023,Q4,Asia,Semi,2115,113571.56,51,Long Range,AWD,Black
+2014,Q4,North America,Semi,155,105308.88,32,Performance,RWD,Green
+2013,Q2,South America,Semi,116,61437.49,56,Performance,RWD,Black
+2015,Q2,North America,Model 3,824,38333.31,23,Standard,AWD,Blue
+2022,Q4,Australia,Semi,2024,43717.44,2,Standard,RWD,White
+2019,Q2,Asia,Model S,3997,115217.25,51,Standard,AWD,Black
+2016,Q2,Australia,Model S,652,68849.98,27,Performance,RWD,Green
+2019,Q1,North America,Model 3,4255,87242.14,34,Standard,AWD,Black
+2015,Q3,Europe,Model 3,3472,60678.84,1,Standard,RWD,Green
+2014,Q3,North America,Model Y,2164,55238.36,11,Standard,AWD,Silver
+2012,Q2,Australia,Semi,4594,75414.66,47,Performance,RWD,Red
+2019,Q4,Australia,Model X,3554,82905.87,58,Long Range,RWD,Silver
+2014,Q3,Asia,Model X,3882,67218.94,18,Long Range,RWD,Green
+2012,Q3,Australia,Semi,3053,54320.18,56,Long Range,AWD,Red
+2014,Q1,Europe,Model S,2249,51224.1,3,Long Range,RWD,Silver
+2024,Q4,Europe,Model Y,1055,82359.01,3,Long Range,AWD,Red
+2012,Q4,Asia,Model S,3318,64585.18,8,Long Range,RWD,White
+2019,Q1,North America,Model S,4698,80025.9,17,Long Range,AWD,Blue
+2015,Q2,Australia,Model S,3267,48138.66,13,Long Range,RWD,Red
+2019,Q4,North America,Model Y,165,57827.5,24,Performance,RWD,Red
+2019,Q2,Australia,Semi,1466,46848.92,20,Long Range,RWD,Blue
+2021,Q1,Australia,Model S,3458,83088.73,7,Standard,AWD,Black
+2013,Q4,Asia,Cybertruck,2289,70343.91,6,Long Range,AWD,Green
+2013,Q4,South America,Semi,289,71004.64,42,Performance,AWD,Black
+2021,Q4,Asia,Model S,199,100897.62,42,Standard,AWD,Red
+2013,Q2,Asia,Model Y,3422,46433.08,26,Performance,RWD,Red
+2022,Q3,Australia,Model X,3200,84814.7,33,Long Range,AWD,Black
+2023,Q2,Australia,Model 3,816,72961.33,17,Standard,AWD,Black
+2024,Q2,Asia,Cybertruck,2140,71041.01,29,Performance,AWD,Green
+2016,Q2,Europe,Model S,699,65811.19,19,Long Range,RWD,Green
+2016,Q2,Europe,Cybertruck,2318,64483.02,41,Standard,AWD,Silver
+2019,Q4,Asia,Model 3,3669,53436.38,56,Standard,AWD,Red
+2012,Q1,Australia,Cybertruck,332,114656.98,29,Standard,AWD,Silver
+2017,Q1,Asia,Model Y,3012,110142.62,14,Long Range,AWD,Red
+2015,Q1,Australia,Model S,652,80889.37,37,Performance,AWD,White
+2020,Q4,Australia,Semi,885,69651.91,26,Standard,AWD,Silver
+2019,Q1,South America,Model X,2764,76015.29,36,Standard,AWD,White
+2024,Q1,Australia,Model 3,2870,87058.66,14,Standard,AWD,Red
+2013,Q1,North America,Model 3,2723,112203.32,1,Long Range,RWD,Green
+2016,Q3,Europe,Model X,2307,108250.85,34,Standard,RWD,Blue
+2019,Q1,South America,Model S,2763,40417.94,34,Performance,AWD,Green
+2017,Q4,Asia,Model 3,595,40236.54,2,Standard,RWD,Blue
+2014,Q1,Australia,Model X,1710,101454.06,52,Long Range,RWD,White
+2024,Q2,South America,Model 3,1270,58322.48,52,Standard,AWD,Red
+2022,Q2,South America,Model X,1001,61231.17,8,Performance,AWD,Red
+2021,Q4,Australia,Model S,1501,110404.26,39,Standard,AWD,Blue
+2019,Q2,North America,Semi,4028,106673.05,11,Standard,AWD,Blue
+2022,Q3,South America,Semi,3810,51395.41,5,Standard,AWD,White
+2023,Q3,Australia,Model S,1712,70695.19,11,Standard,AWD,Green
+2012,Q1,South America,Model Y,4008,43699.64,59,Long Range,AWD,Silver
+2015,Q4,North America,Model 3,1584,38018.27,3,Long Range,AWD,Black
