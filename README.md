@@ -134,10 +134,11 @@ Tesla-Sales-Analytics-Dashboard/
 * Import the `theme.json` file under **View -> Themes -> Browse for themes** for official branding styles.
 
 
+
 <p align="left">
   <img src="https://cdn.simpleicons.org/powerbi/F2C94C" alt="Power BI" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="SQL" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/excel/217346" alt="Excel" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" />
 </p>
 ```
