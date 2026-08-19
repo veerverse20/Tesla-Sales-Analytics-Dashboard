@@ -135,11 +135,6 @@ Tesla-Sales-Analytics-Dashboard/
 
 
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Excel" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/postgresql" alt="SQL" width="40" height="40" />
-</p>
 ```
 
 ```
