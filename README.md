@@ -1,7 +1,7 @@
 Here is a comprehensive, production-ready **`README.md`** tailored specifically for your **Tesla Sales Analytics Dashboard** repository.
 
 You can copy and save this text directly into a `README.md` file in your main project directory.
-
+ 
 ---
 
 ```markdown
