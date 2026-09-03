@@ -123,7 +123,7 @@ Tesla-Sales-Analytics-Dashboard/
 
 ## 🚀 How to Setup & Run
 
-1. **Database Setup:**
+1. **Database Setup:** 
 * Open pgAdmin and create a new database named `Tesla Global Sales`.
 * Run the creation and cleaning queries in `SQL/Tesla Cleaned data.sql`.
 * Import `Dataset/tesla_vehicle_deliveries-selected-columns.csv` into the `tesla_sales` table.
