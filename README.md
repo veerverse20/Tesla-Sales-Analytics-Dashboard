@@ -15,7 +15,7 @@ An end-to-end data analytics project leveraging **PostgreSQL**, **Power BI**, an
 - [Executive Summary](#-executive-summary)
 - [Tech Stack & Tools](#-tech-stack--tools)
 - [Database Architecture & ETL](#-database-architecture--etl)
-- [Key Insights & Analytics](#-key-insights--analytics)
+- [Key Insights & Analytics](#-key-insights--analytics)  
 - [Power BI Dashboard Features](#-power-bi-dashboard-features)
 - [Repository Structure](#-repository-structure)
 - [How to Setup & Run](#-how-to-setup--run)
