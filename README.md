@@ -101,7 +101,7 @@ FROM tesla_sales;
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Structure  
 
 ```text
 Tesla-Sales-Analytics-Dashboard/
