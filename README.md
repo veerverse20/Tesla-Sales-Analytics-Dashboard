@@ -39,7 +39,7 @@ This project establishes a full-stack business intelligence pipeline that transf
 
 ## 🗄️ Database Architecture & ETL
 
-The data pipeline processes raw vehicle delivery datasets through a clean database schema and SQL routines.
+The data pipeline processes raw vehicle delivery datasets through a clean database schema and SQL routines.  
 
 ### Table Schema (`tesla_sales`)
 ```sql
