@@ -5,7 +5,7 @@ You can copy and save this text directly into a `README.md` file in your main pr
 ---
   
 ```markdown
-# 🚗 Tesla Global Sales & Delivery Analytics
+# 🚗 Tesla Global Sales & Delivery Analytics  
 
 An end-to-end data analytics project leveraging **PostgreSQL**, **Power BI**, and **SQL** to process, clean, and visualize $560B+ in multi-region vehicle delivery, sales revenue, and regional performance data for Tesla.
 
