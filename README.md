@@ -92,7 +92,7 @@ FROM tesla_sales;
 
 ---
 
-## 🎨 Power BI Dashboard Features
+## 🎨 Power BI Dashboard Features 
 
 * **Executive KPI Panel:** Instant overview cards displaying total revenue, total units, ASP, and delivery delays.
 * **Interactive Slicers:** Dynamic quarterly and regional filters for contextual deep-dives.
